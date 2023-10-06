@@ -93,7 +93,7 @@ Stamina Flax Flower X Tame Tiny Flower,Tame Tiny Flower X Stamina Flax Flower,50
 Stamina Flax Flower X Tame Sun Flower,Tame Sun Flower X Stamina Flax Flower,50,0,0,55,0,0,2,0
 Stamina Flax Flower X Tame Fire Flower,Tame Fire Flower X Stamina Flax Flower,50,0,0,55,0,0,0,0
 Stamina Flax Flower X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Flax Flower,50,0,0,40,1,0,0,0
-Stamina Flax Flower X Tame Fake Flower,Tame Fake Flower X Stamina Flax Flower,20,0,0,85,-2,0,-2,-2
+Stamina Flax Flower X Tame Flake Flower,Tame Flake Flower X Stamina Flax Flower,20,0,0,85,-2,0,-2,-2
 Stamina Flax Flower X Magic Mushroom,Magic Mushroom X Stamina Flax Flower,130,0,0,10,0,0,0,0
 Stamina Flax Flower X Snow Flobes,Snow Flobes X Stamina Flax Flower,110,0,0,10,0,0,0,0
 Stamina Flax Flower X Squish,Squish X Stamina Flax Flower,90,0,0,10,0,0,0,0
@@ -143,7 +143,7 @@ Stamina Flax Flower X Yarrow,Yarrow X Stamina Flax Flower,50,0,30,10,0,0,0,0
 Stamina Flax Flower X Spirit Bane,Spirit Bane X Stamina Flax Flower,50,0,0,10,0,0,-5,5
 Stamina Flax Flower X Prickly Plant,Prickly Plant X Stamina Flax Flower,50,0,0,10,0,0,0,-4
 Stamina Flax Flower X Erdenleaf,Erdenleaf X Stamina Flax Flower,50,0,0,10,0,-2,0,0
-Stamina Flax Flower X Fake Flower,Fake Flower X Stamina Flax Flower,20,0,0,60,-2,0,-2,-2
+Stamina Flax Flower X Flake Flower,Flake Flower X Stamina Flax Flower,20,0,0,60,-2,0,-2,-2
 Stamina Flax Flower X Spiky Plant,Spiky Plant X Stamina Flax Flower,20,0,0,10,0,0,-3,0
 Stamina Flax Flower X Saplant,Saplant X Stamina Flax Flower,20,0,0,10,0,0,-5,0
 Stamina Flax Flower X Nightshade,Nightshade X Stamina Flax Flower,20,0,0,10,-3,0,0,0
@@ -242,7 +242,7 @@ Tame Flax Flower X Tame Tiny Flower,Tame Tiny Flower X Tame Flax Flower,40,50,0,
 Tame Flax Flower X Tame Sun Flower,Tame Sun Flower X Tame Flax Flower,40,0,0,60,0,0,2,0
 Tame Flax Flower X Tame Fire Flower,Tame Fire Flower X Tame Flax Flower,40,0,0,60,0,0,0,0
 Tame Flax Flower X Tame Pinwheel Flower,Tame Pinwheel Flower X Tame Flax Flower,40,0,0,45,1,0,0,0
-Tame Flax Flower X Tame Fake Flower,Tame Fake Flower X Tame Flax Flower,10,0,0,90,-2,0,-2,-2
+Tame Flax Flower X Tame Flake Flower,Tame Flake Flower X Tame Flax Flower,10,0,0,90,-2,0,-2,-2
 Tame Flax Flower X Magic Mushroom,Magic Mushroom X Tame Flax Flower,120,0,0,15,0,0,0,0
 Tame Flax Flower X Snow Flobes,Snow Flobes X Tame Flax Flower,100,0,0,15,0,0,0,0
 Tame Flax Flower X Squish,Squish X Tame Flax Flower,80,0,0,15,0,0,0,0
@@ -292,7 +292,7 @@ Tame Flax Flower X Yarrow,Yarrow X Tame Flax Flower,40,0,30,15,0,0,0,0
 Tame Flax Flower X Spirit Bane,Spirit Bane X Tame Flax Flower,40,0,0,15,0,0,-5,5
 Tame Flax Flower X Prickly Plant,Prickly Plant X Tame Flax Flower,40,0,0,15,0,0,0,-4
 Tame Flax Flower X Erdenleaf,Erdenleaf X Tame Flax Flower,40,0,0,15,0,-2,0,0
-Tame Flax Flower X Fake Flower,Fake Flower X Tame Flax Flower,10,0,0,65,-2,0,-2,-2
+Tame Flax Flower X Flake Flower,Flake Flower X Tame Flax Flower,10,0,0,65,-2,0,-2,-2
 Tame Flax Flower X Spiky Plant,Spiky Plant X Tame Flax Flower,10,0,0,15,0,0,-3,0
 Tame Flax Flower X Saplant,Saplant X Tame Flax Flower,10,0,0,15,0,0,-5,0
 Tame Flax Flower X Nightshade,Nightshade X Tame Flax Flower,10,0,0,15,-3,0,0,0
@@ -390,7 +390,7 @@ Flax Flower X Tame Tiny Flower,Tame Tiny Flower X Flax Flower,40,50,0,55,0,0,0,0
 Flax Flower X Tame Sun Flower,Tame Sun Flower X Flax Flower,40,0,0,55,0,0,2,0
 Flax Flower X Tame Fire Flower,Tame Fire Flower X Flax Flower,40,0,0,55,0,0,0,0
 Flax Flower X Tame Pinwheel Flower,Tame Pinwheel Flower X Flax Flower,40,0,0,40,1,0,0,0
-Flax Flower X Tame Fake Flower,Tame Fake Flower X Flax Flower,10,0,0,85,-2,0,-2,-2
+Flax Flower X Tame Flake Flower,Tame Flake Flower X Flax Flower,10,0,0,85,-2,0,-2,-2
 Flax Flower X Magic Mushroom,Magic Mushroom X Flax Flower,120,0,0,10,0,0,0,0
 Flax Flower X Snow Flobes,Snow Flobes X Flax Flower,100,0,0,10,0,0,0,0
 Flax Flower X Squish,Squish X Flax Flower,80,0,0,10,0,0,0,0
@@ -440,7 +440,7 @@ Flax Flower X Yarrow,Yarrow X Flax Flower,40,0,30,10,0,0,0,0
 Flax Flower X Spirit Bane,Spirit Bane X Flax Flower,40,0,0,10,0,0,-5,5
 Flax Flower X Prickly Plant,Prickly Plant X Flax Flower,40,0,0,10,0,0,0,-4
 Flax Flower X Erdenleaf,Erdenleaf X Flax Flower,40,0,0,10,0,-2,0,0
-Flax Flower X Fake Flower,Fake Flower X Flax Flower,10,0,0,60,-2,0,-2,-2
+Flax Flower X Flake Flower,Flake Flower X Flax Flower,10,0,0,60,-2,0,-2,-2
 Flax Flower X Spiky Plant,Spiky Plant X Flax Flower,10,0,0,10,0,0,-3,0
 Flax Flower X Saplant,Saplant X Flax Flower,10,0,0,10,0,0,-5,0
 Flax Flower X Nightshade,Nightshade X Flax Flower,10,0,0,10,-3,0,0,0
@@ -537,7 +537,7 @@ Stamina Magic Mushroom X Tame Tiny Flower,Tame Tiny Flower X Stamina Magic Mushr
 Stamina Magic Mushroom X Tame Sun Flower,Tame Sun Flower X Stamina Magic Mushroom,170,0,0,45,0,0,2,0
 Stamina Magic Mushroom X Tame Fire Flower,Tame Fire Flower X Stamina Magic Mushroom,170,0,0,45,0,0,0,0
 Stamina Magic Mushroom X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Magic Mushroom,170,0,0,30,1,0,0,0
-Stamina Magic Mushroom X Tame Fake Flower,Tame Fake Flower X Stamina Magic Mushroom,140,0,0,75,-2,0,-2,-2
+Stamina Magic Mushroom X Tame Flake Flower,Tame Flake Flower X Stamina Magic Mushroom,140,0,0,75,-2,0,-2,-2
 Stamina Magic Mushroom X Magic Mushroom,Magic Mushroom X Stamina Magic Mushroom,250,0,0,0,0,0,0,0
 Stamina Magic Mushroom X Snow Flobes,Snow Flobes X Stamina Magic Mushroom,230,0,0,0,0,0,0,0
 Stamina Magic Mushroom X Squish,Squish X Stamina Magic Mushroom,210,0,0,0,0,0,0,0
@@ -587,7 +587,7 @@ Stamina Magic Mushroom X Yarrow,Yarrow X Stamina Magic Mushroom,170,0,30,0,0,0,0
 Stamina Magic Mushroom X Spirit Bane,Spirit Bane X Stamina Magic Mushroom,170,0,0,0,0,0,-5,5
 Stamina Magic Mushroom X Prickly Plant,Prickly Plant X Stamina Magic Mushroom,170,0,0,0,0,0,0,-4
 Stamina Magic Mushroom X Erdenleaf,Erdenleaf X Stamina Magic Mushroom,170,0,0,0,0,-2,0,0
-Stamina Magic Mushroom X Fake Flower,Fake Flower X Stamina Magic Mushroom,140,0,0,50,-2,0,-2,-2
+Stamina Magic Mushroom X Flake Flower,Flake Flower X Stamina Magic Mushroom,140,0,0,50,-2,0,-2,-2
 Stamina Magic Mushroom X Spiky Plant,Spiky Plant X Stamina Magic Mushroom,140,0,0,0,0,0,-3,0
 Stamina Magic Mushroom X Saplant,Saplant X Stamina Magic Mushroom,140,0,0,0,0,0,-5,0
 Stamina Magic Mushroom X Nightshade,Nightshade X Stamina Magic Mushroom,140,0,0,0,-3,0,0,0
@@ -683,7 +683,7 @@ Stamina Snow Flobes X Tame Tiny Flower,Tame Tiny Flower X Stamina Snow Flobes,14
 Stamina Snow Flobes X Tame Sun Flower,Tame Sun Flower X Stamina Snow Flobes,140,0,0,45,0,0,2,0
 Stamina Snow Flobes X Tame Fire Flower,Tame Fire Flower X Stamina Snow Flobes,140,0,0,45,0,0,0,0
 Stamina Snow Flobes X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Snow Flobes,140,0,0,30,1,0,0,0
-Stamina Snow Flobes X Tame Fake Flower,Tame Fake Flower X Stamina Snow Flobes,110,0,0,75,-2,0,-2,-2
+Stamina Snow Flobes X Tame Flake Flower,Tame Flake Flower X Stamina Snow Flobes,110,0,0,75,-2,0,-2,-2
 Stamina Snow Flobes X Magic Mushroom,Magic Mushroom X Stamina Snow Flobes,220,0,0,0,0,0,0,0
 Stamina Snow Flobes X Snow Flobes,Snow Flobes X Stamina Snow Flobes,200,0,0,0,0,0,0,0
 Stamina Snow Flobes X Squish,Squish X Stamina Snow Flobes,180,0,0,0,0,0,0,0
@@ -733,7 +733,7 @@ Stamina Snow Flobes X Yarrow,Yarrow X Stamina Snow Flobes,140,0,30,0,0,0,0,0
 Stamina Snow Flobes X Spirit Bane,Spirit Bane X Stamina Snow Flobes,140,0,0,0,0,0,-5,5
 Stamina Snow Flobes X Prickly Plant,Prickly Plant X Stamina Snow Flobes,140,0,0,0,0,0,0,-4
 Stamina Snow Flobes X Erdenleaf,Erdenleaf X Stamina Snow Flobes,140,0,0,0,0,-2,0,0
-Stamina Snow Flobes X Fake Flower,Fake Flower X Stamina Snow Flobes,110,0,0,50,-2,0,-2,-2
+Stamina Snow Flobes X Flake Flower,Flake Flower X Stamina Snow Flobes,110,0,0,50,-2,0,-2,-2
 Stamina Snow Flobes X Spiky Plant,Spiky Plant X Stamina Snow Flobes,110,0,0,0,0,0,-3,0
 Stamina Snow Flobes X Saplant,Saplant X Stamina Snow Flobes,110,0,0,0,0,0,-5,0
 Stamina Snow Flobes X Nightshade,Nightshade X Stamina Snow Flobes,110,0,0,0,-3,0,0,0
@@ -828,7 +828,7 @@ Stamina Squish X Tame Tiny Flower,Tame Tiny Flower X Stamina Squish,110,50,0,45,
 Stamina Squish X Tame Sun Flower,Tame Sun Flower X Stamina Squish,110,0,0,45,0,0,2,0
 Stamina Squish X Tame Fire Flower,Tame Fire Flower X Stamina Squish,110,0,0,45,0,0,0,0
 Stamina Squish X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Squish,110,0,0,30,1,0,0,0
-Stamina Squish X Tame Fake Flower,Tame Fake Flower X Stamina Squish,80,0,0,75,-2,0,-2,-2
+Stamina Squish X Tame Flake Flower,Tame Flake Flower X Stamina Squish,80,0,0,75,-2,0,-2,-2
 Stamina Squish X Magic Mushroom,Magic Mushroom X Stamina Squish,190,0,0,0,0,0,0,0
 Stamina Squish X Snow Flobes,Snow Flobes X Stamina Squish,170,0,0,0,0,0,0,0
 Stamina Squish X Squish,Squish X Stamina Squish,150,0,0,0,0,0,0,0
@@ -878,7 +878,7 @@ Stamina Squish X Yarrow,Yarrow X Stamina Squish,110,0,30,0,0,0,0,0
 Stamina Squish X Spirit Bane,Spirit Bane X Stamina Squish,110,0,0,0,0,0,-5,5
 Stamina Squish X Prickly Plant,Prickly Plant X Stamina Squish,110,0,0,0,0,0,0,-4
 Stamina Squish X Erdenleaf,Erdenleaf X Stamina Squish,110,0,0,0,0,-2,0,0
-Stamina Squish X Fake Flower,Fake Flower X Stamina Squish,80,0,0,50,-2,0,-2,-2
+Stamina Squish X Flake Flower,Flake Flower X Stamina Squish,80,0,0,50,-2,0,-2,-2
 Stamina Squish X Spiky Plant,Spiky Plant X Stamina Squish,80,0,0,0,0,0,-3,0
 Stamina Squish X Saplant,Saplant X Stamina Squish,80,0,0,0,0,0,-5,0
 Stamina Squish X Nightshade,Nightshade X Stamina Squish,80,0,0,0,-3,0,0,0
@@ -972,7 +972,7 @@ Stamina Stonefruit X Tame Tiny Flower,Tame Tiny Flower X Stamina Stonefruit,95,5
 Stamina Stonefruit X Tame Sun Flower,Tame Sun Flower X Stamina Stonefruit,95,0,0,45,0,0,2,0
 Stamina Stonefruit X Tame Fire Flower,Tame Fire Flower X Stamina Stonefruit,95,0,0,45,0,0,0,0
 Stamina Stonefruit X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Stonefruit,95,0,0,30,1,0,0,0
-Stamina Stonefruit X Tame Fake Flower,Tame Fake Flower X Stamina Stonefruit,65,0,0,75,-2,0,-2,-2
+Stamina Stonefruit X Tame Flake Flower,Tame Flake Flower X Stamina Stonefruit,65,0,0,75,-2,0,-2,-2
 Stamina Stonefruit X Magic Mushroom,Magic Mushroom X Stamina Stonefruit,175,0,0,0,0,0,0,0
 Stamina Stonefruit X Snow Flobes,Snow Flobes X Stamina Stonefruit,155,0,0,0,0,0,0,0
 Stamina Stonefruit X Squish,Squish X Stamina Stonefruit,135,0,0,0,0,0,0,0
@@ -1022,7 +1022,7 @@ Stamina Stonefruit X Yarrow,Yarrow X Stamina Stonefruit,95,0,30,0,0,0,0,0
 Stamina Stonefruit X Spirit Bane,Spirit Bane X Stamina Stonefruit,95,0,0,0,0,0,-5,5
 Stamina Stonefruit X Prickly Plant,Prickly Plant X Stamina Stonefruit,95,0,0,0,0,0,0,-4
 Stamina Stonefruit X Erdenleaf,Erdenleaf X Stamina Stonefruit,95,0,0,0,0,-2,0,0
-Stamina Stonefruit X Fake Flower,Fake Flower X Stamina Stonefruit,65,0,0,50,-2,0,-2,-2
+Stamina Stonefruit X Flake Flower,Flake Flower X Stamina Stonefruit,65,0,0,50,-2,0,-2,-2
 Stamina Stonefruit X Spiky Plant,Spiky Plant X Stamina Stonefruit,65,0,0,0,0,0,-3,0
 Stamina Stonefruit X Saplant,Saplant X Stamina Stonefruit,65,0,0,0,0,0,-5,0
 Stamina Stonefruit X Nightshade,Nightshade X Stamina Stonefruit,65,0,0,0,-3,0,0,0
@@ -1115,7 +1115,7 @@ Stamina Snowdrop Flower X Tame Tiny Flower,Tame Tiny Flower X Stamina Snowdrop F
 Stamina Snowdrop Flower X Tame Sun Flower,Tame Sun Flower X Stamina Snowdrop Flower,80,500,0,145,0,0,2,0
 Stamina Snowdrop Flower X Tame Fire Flower,Tame Fire Flower X Stamina Snowdrop Flower,80,500,0,145,0,0,0,0
 Stamina Snowdrop Flower X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Snowdrop Flower,80,500,0,130,1,0,0,0
-Stamina Snowdrop Flower X Tame Fake Flower,Tame Fake Flower X Stamina Snowdrop Flower,50,500,0,175,-2,0,-2,-2
+Stamina Snowdrop Flower X Tame Flake Flower,Tame Flake Flower X Stamina Snowdrop Flower,50,500,0,175,-2,0,-2,-2
 Stamina Snowdrop Flower X Magic Mushroom,Magic Mushroom X Stamina Snowdrop Flower,160,500,0,100,0,0,0,0
 Stamina Snowdrop Flower X Snow Flobes,Snow Flobes X Stamina Snowdrop Flower,140,500,0,100,0,0,0,0
 Stamina Snowdrop Flower X Squish,Squish X Stamina Snowdrop Flower,120,500,0,100,0,0,0,0
@@ -1165,7 +1165,7 @@ Stamina Snowdrop Flower X Yarrow,Yarrow X Stamina Snowdrop Flower,80,500,30,100,
 Stamina Snowdrop Flower X Spirit Bane,Spirit Bane X Stamina Snowdrop Flower,80,500,0,100,0,0,-5,5
 Stamina Snowdrop Flower X Prickly Plant,Prickly Plant X Stamina Snowdrop Flower,80,500,0,100,0,0,0,-4
 Stamina Snowdrop Flower X Erdenleaf,Erdenleaf X Stamina Snowdrop Flower,80,500,0,100,0,-2,0,0
-Stamina Snowdrop Flower X Fake Flower,Fake Flower X Stamina Snowdrop Flower,50,500,0,150,-2,0,-2,-2
+Stamina Snowdrop Flower X Flake Flower,Flake Flower X Stamina Snowdrop Flower,50,500,0,150,-2,0,-2,-2
 Stamina Snowdrop Flower X Spiky Plant,Spiky Plant X Stamina Snowdrop Flower,50,500,0,100,0,0,-3,0
 Stamina Snowdrop Flower X Saplant,Saplant X Stamina Snowdrop Flower,50,500,0,100,0,0,-5,0
 Stamina Snowdrop Flower X Nightshade,Nightshade X Stamina Snowdrop Flower,50,500,0,100,-3,0,0,0
@@ -1257,7 +1257,7 @@ Stamina Icicle Root X Tame Tiny Flower,Tame Tiny Flower X Stamina Icicle Root,80
 Stamina Icicle Root X Tame Sun Flower,Tame Sun Flower X Stamina Icicle Root,80,0,0,45,-5,5,-3,-5
 Stamina Icicle Root X Tame Fire Flower,Tame Fire Flower X Stamina Icicle Root,80,0,0,45,-5,5,-5,-5
 Stamina Icicle Root X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Icicle Root,80,0,0,30,-4,5,-5,-5
-Stamina Icicle Root X Tame Fake Flower,Tame Fake Flower X Stamina Icicle Root,50,0,0,75,-7,5,-7,-7
+Stamina Icicle Root X Tame Flake Flower,Tame Flake Flower X Stamina Icicle Root,50,0,0,75,-7,5,-7,-7
 Stamina Icicle Root X Magic Mushroom,Magic Mushroom X Stamina Icicle Root,160,0,0,0,-5,5,-5,-5
 Stamina Icicle Root X Snow Flobes,Snow Flobes X Stamina Icicle Root,140,0,0,0,-5,5,-5,-5
 Stamina Icicle Root X Squish,Squish X Stamina Icicle Root,120,0,0,0,-5,5,-5,-5
@@ -1307,7 +1307,7 @@ Stamina Icicle Root X Yarrow,Yarrow X Stamina Icicle Root,80,0,30,0,-5,5,-5,-5
 Stamina Icicle Root X Spirit Bane,Spirit Bane X Stamina Icicle Root,80,0,0,0,-5,5,-10,0
 Stamina Icicle Root X Prickly Plant,Prickly Plant X Stamina Icicle Root,80,0,0,0,-5,5,-5,-9
 Stamina Icicle Root X Erdenleaf,Erdenleaf X Stamina Icicle Root,80,0,0,0,-5,3,-5,-5
-Stamina Icicle Root X Fake Flower,Fake Flower X Stamina Icicle Root,50,0,0,50,-7,5,-7,-7
+Stamina Icicle Root X Flake Flower,Flake Flower X Stamina Icicle Root,50,0,0,50,-7,5,-7,-7
 Stamina Icicle Root X Spiky Plant,Spiky Plant X Stamina Icicle Root,50,0,0,0,-5,5,-8,-5
 Stamina Icicle Root X Saplant,Saplant X Stamina Icicle Root,50,0,0,0,-5,5,-10,-5
 Stamina Icicle Root X Nightshade,Nightshade X Stamina Icicle Root,50,0,0,0,-8,5,-5,-5
@@ -1398,7 +1398,7 @@ Stamina Sweater Plant X Tame Tiny Flower,Tame Tiny Flower X Stamina Sweater Plan
 Stamina Sweater Plant X Tame Sun Flower,Tame Sun Flower X Stamina Sweater Plant,80,0,0,45,0,3,2,0
 Stamina Sweater Plant X Tame Fire Flower,Tame Fire Flower X Stamina Sweater Plant,80,0,0,45,0,3,0,0
 Stamina Sweater Plant X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Sweater Plant,80,0,0,30,1,3,0,0
-Stamina Sweater Plant X Tame Fake Flower,Tame Fake Flower X Stamina Sweater Plant,50,0,0,75,-2,3,-2,-2
+Stamina Sweater Plant X Tame Flake Flower,Tame Flake Flower X Stamina Sweater Plant,50,0,0,75,-2,3,-2,-2
 Stamina Sweater Plant X Magic Mushroom,Magic Mushroom X Stamina Sweater Plant,160,0,0,0,0,3,0,0
 Stamina Sweater Plant X Snow Flobes,Snow Flobes X Stamina Sweater Plant,140,0,0,0,0,3,0,0
 Stamina Sweater Plant X Squish,Squish X Stamina Sweater Plant,120,0,0,0,0,3,0,0
@@ -1448,7 +1448,7 @@ Stamina Sweater Plant X Yarrow,Yarrow X Stamina Sweater Plant,80,0,30,0,0,3,0,0
 Stamina Sweater Plant X Spirit Bane,Spirit Bane X Stamina Sweater Plant,80,0,0,0,0,3,-5,5
 Stamina Sweater Plant X Prickly Plant,Prickly Plant X Stamina Sweater Plant,80,0,0,0,0,3,0,-4
 Stamina Sweater Plant X Erdenleaf,Erdenleaf X Stamina Sweater Plant,80,0,0,0,0,1,0,0
-Stamina Sweater Plant X Fake Flower,Fake Flower X Stamina Sweater Plant,50,0,0,50,-2,3,-2,-2
+Stamina Sweater Plant X Flake Flower,Flake Flower X Stamina Sweater Plant,50,0,0,50,-2,3,-2,-2
 Stamina Sweater Plant X Spiky Plant,Spiky Plant X Stamina Sweater Plant,50,0,0,0,0,3,-3,0
 Stamina Sweater Plant X Saplant,Saplant X Stamina Sweater Plant,50,0,0,0,0,3,-5,0
 Stamina Sweater Plant X Nightshade,Nightshade X Stamina Sweater Plant,50,0,0,0,-3,3,0,0
@@ -1538,7 +1538,7 @@ Stamina Chilly Berry X Tame Tiny Flower,Tame Tiny Flower X Stamina Chilly Berry,
 Stamina Chilly Berry X Tame Sun Flower,Tame Sun Flower X Stamina Chilly Berry,80,0,0,45,1,1,2,0
 Stamina Chilly Berry X Tame Fire Flower,Tame Fire Flower X Stamina Chilly Berry,80,0,0,45,1,1,0,0
 Stamina Chilly Berry X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Chilly Berry,80,0,0,30,2,1,0,0
-Stamina Chilly Berry X Tame Fake Flower,Tame Fake Flower X Stamina Chilly Berry,50,0,0,75,-1,1,-2,-2
+Stamina Chilly Berry X Tame Flake Flower,Tame Flake Flower X Stamina Chilly Berry,50,0,0,75,-1,1,-2,-2
 Stamina Chilly Berry X Magic Mushroom,Magic Mushroom X Stamina Chilly Berry,160,0,0,0,1,1,0,0
 Stamina Chilly Berry X Snow Flobes,Snow Flobes X Stamina Chilly Berry,140,0,0,0,1,1,0,0
 Stamina Chilly Berry X Squish,Squish X Stamina Chilly Berry,120,0,0,0,1,1,0,0
@@ -1588,7 +1588,7 @@ Stamina Chilly Berry X Yarrow,Yarrow X Stamina Chilly Berry,80,0,30,0,1,1,0,0
 Stamina Chilly Berry X Spirit Bane,Spirit Bane X Stamina Chilly Berry,80,0,0,0,1,1,-5,5
 Stamina Chilly Berry X Prickly Plant,Prickly Plant X Stamina Chilly Berry,80,0,0,0,1,1,0,-4
 Stamina Chilly Berry X Erdenleaf,Erdenleaf X Stamina Chilly Berry,80,0,0,0,1,-1,0,0
-Stamina Chilly Berry X Fake Flower,Fake Flower X Stamina Chilly Berry,50,0,0,50,-1,1,-2,-2
+Stamina Chilly Berry X Flake Flower,Flake Flower X Stamina Chilly Berry,50,0,0,50,-1,1,-2,-2
 Stamina Chilly Berry X Spiky Plant,Spiky Plant X Stamina Chilly Berry,50,0,0,0,1,1,-3,0
 Stamina Chilly Berry X Saplant,Saplant X Stamina Chilly Berry,50,0,0,0,1,1,-5,0
 Stamina Chilly Berry X Nightshade,Nightshade X Stamina Chilly Berry,50,0,0,0,-2,1,0,0
@@ -1677,7 +1677,7 @@ Stamina Bulbshroom X Tame Tiny Flower,Tame Tiny Flower X Stamina Bulbshroom,80,5
 Stamina Bulbshroom X Tame Sun Flower,Tame Sun Flower X Stamina Bulbshroom,80,0,0,45,0,0,5,3
 Stamina Bulbshroom X Tame Fire Flower,Tame Fire Flower X Stamina Bulbshroom,80,0,0,45,0,0,3,3
 Stamina Bulbshroom X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Bulbshroom,80,0,0,30,1,0,3,3
-Stamina Bulbshroom X Tame Fake Flower,Tame Fake Flower X Stamina Bulbshroom,50,0,0,75,-2,0,1,1
+Stamina Bulbshroom X Tame Flake Flower,Tame Flake Flower X Stamina Bulbshroom,50,0,0,75,-2,0,1,1
 Stamina Bulbshroom X Magic Mushroom,Magic Mushroom X Stamina Bulbshroom,160,0,0,0,0,0,3,3
 Stamina Bulbshroom X Snow Flobes,Snow Flobes X Stamina Bulbshroom,140,0,0,0,0,0,3,3
 Stamina Bulbshroom X Squish,Squish X Stamina Bulbshroom,120,0,0,0,0,0,3,3
@@ -1727,7 +1727,7 @@ Stamina Bulbshroom X Yarrow,Yarrow X Stamina Bulbshroom,80,0,30,0,0,0,3,3
 Stamina Bulbshroom X Spirit Bane,Spirit Bane X Stamina Bulbshroom,80,0,0,0,0,0,-2,8
 Stamina Bulbshroom X Prickly Plant,Prickly Plant X Stamina Bulbshroom,80,0,0,0,0,0,3,-1
 Stamina Bulbshroom X Erdenleaf,Erdenleaf X Stamina Bulbshroom,80,0,0,0,0,-2,3,3
-Stamina Bulbshroom X Fake Flower,Fake Flower X Stamina Bulbshroom,50,0,0,50,-2,0,1,1
+Stamina Bulbshroom X Flake Flower,Flake Flower X Stamina Bulbshroom,50,0,0,50,-2,0,1,1
 Stamina Bulbshroom X Spiky Plant,Spiky Plant X Stamina Bulbshroom,50,0,0,0,0,0,0,3
 Stamina Bulbshroom X Saplant,Saplant X Stamina Bulbshroom,50,0,0,0,0,0,-2,3
 Stamina Bulbshroom X Nightshade,Nightshade X Stamina Bulbshroom,50,0,0,0,-3,0,3,3
@@ -1815,7 +1815,7 @@ Stamina Ruby Plant X Tame Tiny Flower,Tame Tiny Flower X Stamina Ruby Plant,80,5
 Stamina Ruby Plant X Tame Sun Flower,Tame Sun Flower X Stamina Ruby Plant,80,0,0,45,2,0,4,2
 Stamina Ruby Plant X Tame Fire Flower,Tame Fire Flower X Stamina Ruby Plant,80,0,0,45,2,0,2,2
 Stamina Ruby Plant X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Ruby Plant,80,0,0,30,3,0,2,2
-Stamina Ruby Plant X Tame Fake Flower,Tame Fake Flower X Stamina Ruby Plant,50,0,0,75,0,0,0,0
+Stamina Ruby Plant X Tame Flake Flower,Tame Flake Flower X Stamina Ruby Plant,50,0,0,75,0,0,0,0
 Stamina Ruby Plant X Magic Mushroom,Magic Mushroom X Stamina Ruby Plant,160,0,0,0,2,0,2,2
 Stamina Ruby Plant X Snow Flobes,Snow Flobes X Stamina Ruby Plant,140,0,0,0,2,0,2,2
 Stamina Ruby Plant X Squish,Squish X Stamina Ruby Plant,120,0,0,0,2,0,2,2
@@ -1865,7 +1865,7 @@ Stamina Ruby Plant X Yarrow,Yarrow X Stamina Ruby Plant,80,0,30,0,2,0,2,2
 Stamina Ruby Plant X Spirit Bane,Spirit Bane X Stamina Ruby Plant,80,0,0,0,2,0,-3,7
 Stamina Ruby Plant X Prickly Plant,Prickly Plant X Stamina Ruby Plant,80,0,0,0,2,0,2,-2
 Stamina Ruby Plant X Erdenleaf,Erdenleaf X Stamina Ruby Plant,80,0,0,0,2,-2,2,2
-Stamina Ruby Plant X Fake Flower,Fake Flower X Stamina Ruby Plant,50,0,0,50,0,0,0,0
+Stamina Ruby Plant X Flake Flower,Flake Flower X Stamina Ruby Plant,50,0,0,50,0,0,0,0
 Stamina Ruby Plant X Spiky Plant,Spiky Plant X Stamina Ruby Plant,50,0,0,0,2,0,-1,2
 Stamina Ruby Plant X Saplant,Saplant X Stamina Ruby Plant,50,0,0,0,2,0,-3,2
 Stamina Ruby Plant X Nightshade,Nightshade X Stamina Ruby Plant,50,0,0,0,-1,0,2,2
@@ -1952,7 +1952,7 @@ Stamina Snowman Plant X Tame Tiny Flower,Tame Tiny Flower X Stamina Snowman Plan
 Stamina Snowman Plant X Tame Sun Flower,Tame Sun Flower X Stamina Snowman Plant,80,0,50,45,1,0,2,0
 Stamina Snowman Plant X Tame Fire Flower,Tame Fire Flower X Stamina Snowman Plant,80,0,50,45,1,0,0,0
 Stamina Snowman Plant X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Snowman Plant,80,0,50,30,2,0,0,0
-Stamina Snowman Plant X Tame Fake Flower,Tame Fake Flower X Stamina Snowman Plant,50,0,50,75,-1,0,-2,-2
+Stamina Snowman Plant X Tame Flake Flower,Tame Flake Flower X Stamina Snowman Plant,50,0,50,75,-1,0,-2,-2
 Stamina Snowman Plant X Magic Mushroom,Magic Mushroom X Stamina Snowman Plant,160,0,50,0,1,0,0,0
 Stamina Snowman Plant X Snow Flobes,Snow Flobes X Stamina Snowman Plant,140,0,50,0,1,0,0,0
 Stamina Snowman Plant X Squish,Squish X Stamina Snowman Plant,120,0,50,0,1,0,0,0
@@ -2002,7 +2002,7 @@ Stamina Snowman Plant X Yarrow,Yarrow X Stamina Snowman Plant,80,0,80,0,1,0,0,0
 Stamina Snowman Plant X Spirit Bane,Spirit Bane X Stamina Snowman Plant,80,0,50,0,1,0,-5,5
 Stamina Snowman Plant X Prickly Plant,Prickly Plant X Stamina Snowman Plant,80,0,50,0,1,0,0,-4
 Stamina Snowman Plant X Erdenleaf,Erdenleaf X Stamina Snowman Plant,80,0,50,0,1,-2,0,0
-Stamina Snowman Plant X Fake Flower,Fake Flower X Stamina Snowman Plant,50,0,50,50,-1,0,-2,-2
+Stamina Snowman Plant X Flake Flower,Flake Flower X Stamina Snowman Plant,50,0,50,50,-1,0,-2,-2
 Stamina Snowman Plant X Spiky Plant,Spiky Plant X Stamina Snowman Plant,50,0,50,0,1,0,-3,0
 Stamina Snowman Plant X Saplant,Saplant X Stamina Snowman Plant,50,0,50,0,1,0,-5,0
 Stamina Snowman Plant X Nightshade,Nightshade X Stamina Snowman Plant,50,0,50,0,-2,0,0,0
@@ -2088,7 +2088,7 @@ Stamina Gift Plant X Tame Tiny Flower,Tame Tiny Flower X Stamina Gift Plant,80,1
 Stamina Gift Plant X Tame Sun Flower,Tame Sun Flower X Stamina Gift Plant,80,1000,0,45,0,0,2,0
 Stamina Gift Plant X Tame Fire Flower,Tame Fire Flower X Stamina Gift Plant,80,1000,0,45,0,0,0,0
 Stamina Gift Plant X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Gift Plant,80,1000,0,30,1,0,0,0
-Stamina Gift Plant X Tame Fake Flower,Tame Fake Flower X Stamina Gift Plant,50,1000,0,75,-2,0,-2,-2
+Stamina Gift Plant X Tame Flake Flower,Tame Flake Flower X Stamina Gift Plant,50,1000,0,75,-2,0,-2,-2
 Stamina Gift Plant X Magic Mushroom,Magic Mushroom X Stamina Gift Plant,160,1000,0,0,0,0,0,0
 Stamina Gift Plant X Snow Flobes,Snow Flobes X Stamina Gift Plant,140,1000,0,0,0,0,0,0
 Stamina Gift Plant X Squish,Squish X Stamina Gift Plant,120,1000,0,0,0,0,0,0
@@ -2138,7 +2138,7 @@ Stamina Gift Plant X Yarrow,Yarrow X Stamina Gift Plant,80,1000,30,0,0,0,0,0
 Stamina Gift Plant X Spirit Bane,Spirit Bane X Stamina Gift Plant,80,1000,0,0,0,0,-5,5
 Stamina Gift Plant X Prickly Plant,Prickly Plant X Stamina Gift Plant,80,1000,0,0,0,0,0,-4
 Stamina Gift Plant X Erdenleaf,Erdenleaf X Stamina Gift Plant,80,1000,0,0,0,-2,0,0
-Stamina Gift Plant X Fake Flower,Fake Flower X Stamina Gift Plant,50,1000,0,50,-2,0,-2,-2
+Stamina Gift Plant X Flake Flower,Flake Flower X Stamina Gift Plant,50,1000,0,50,-2,0,-2,-2
 Stamina Gift Plant X Spiky Plant,Spiky Plant X Stamina Gift Plant,50,1000,0,0,0,0,-3,0
 Stamina Gift Plant X Saplant,Saplant X Stamina Gift Plant,50,1000,0,0,0,0,-5,0
 Stamina Gift Plant X Nightshade,Nightshade X Stamina Gift Plant,50,1000,0,0,-3,0,0,0
@@ -2223,7 +2223,7 @@ Stamina Cresent Plant X Tame Tiny Flower,Tame Tiny Flower X Stamina Cresent Plan
 Stamina Cresent Plant X Tame Sun Flower,Tame Sun Flower X Stamina Cresent Plant,80,0,0,45,5,0,2,0
 Stamina Cresent Plant X Tame Fire Flower,Tame Fire Flower X Stamina Cresent Plant,80,0,0,45,5,0,0,0
 Stamina Cresent Plant X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Cresent Plant,80,0,0,30,6,0,0,0
-Stamina Cresent Plant X Tame Fake Flower,Tame Fake Flower X Stamina Cresent Plant,50,0,0,75,3,0,-2,-2
+Stamina Cresent Plant X Tame Flake Flower,Tame Flake Flower X Stamina Cresent Plant,50,0,0,75,3,0,-2,-2
 Stamina Cresent Plant X Magic Mushroom,Magic Mushroom X Stamina Cresent Plant,160,0,0,0,5,0,0,0
 Stamina Cresent Plant X Snow Flobes,Snow Flobes X Stamina Cresent Plant,140,0,0,0,5,0,0,0
 Stamina Cresent Plant X Squish,Squish X Stamina Cresent Plant,120,0,0,0,5,0,0,0
@@ -2273,7 +2273,7 @@ Stamina Cresent Plant X Yarrow,Yarrow X Stamina Cresent Plant,80,0,30,0,5,0,0,0
 Stamina Cresent Plant X Spirit Bane,Spirit Bane X Stamina Cresent Plant,80,0,0,0,5,0,-5,5
 Stamina Cresent Plant X Prickly Plant,Prickly Plant X Stamina Cresent Plant,80,0,0,0,5,0,0,-4
 Stamina Cresent Plant X Erdenleaf,Erdenleaf X Stamina Cresent Plant,80,0,0,0,5,-2,0,0
-Stamina Cresent Plant X Fake Flower,Fake Flower X Stamina Cresent Plant,50,0,0,50,3,0,-2,-2
+Stamina Cresent Plant X Flake Flower,Flake Flower X Stamina Cresent Plant,50,0,0,50,3,0,-2,-2
 Stamina Cresent Plant X Spiky Plant,Spiky Plant X Stamina Cresent Plant,50,0,0,0,5,0,-3,0
 Stamina Cresent Plant X Saplant,Saplant X Stamina Cresent Plant,50,0,0,0,5,0,-5,0
 Stamina Cresent Plant X Nightshade,Nightshade X Stamina Cresent Plant,50,0,0,0,2,0,0,0
@@ -2357,7 +2357,7 @@ Stamina Beach Peach X Tame Tiny Flower,Tame Tiny Flower X Stamina Beach Peach,80
 Stamina Beach Peach X Tame Sun Flower,Tame Sun Flower X Stamina Beach Peach,80,0,0,45,0,0,2,0
 Stamina Beach Peach X Tame Fire Flower,Tame Fire Flower X Stamina Beach Peach,80,0,0,45,0,0,0,0
 Stamina Beach Peach X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Beach Peach,80,0,0,30,1,0,0,0
-Stamina Beach Peach X Tame Fake Flower,Tame Fake Flower X Stamina Beach Peach,50,0,0,75,-2,0,-2,-2
+Stamina Beach Peach X Tame Flake Flower,Tame Flake Flower X Stamina Beach Peach,50,0,0,75,-2,0,-2,-2
 Stamina Beach Peach X Magic Mushroom,Magic Mushroom X Stamina Beach Peach,160,0,0,0,0,0,0,0
 Stamina Beach Peach X Snow Flobes,Snow Flobes X Stamina Beach Peach,140,0,0,0,0,0,0,0
 Stamina Beach Peach X Squish,Squish X Stamina Beach Peach,120,0,0,0,0,0,0,0
@@ -2407,7 +2407,7 @@ Stamina Beach Peach X Yarrow,Yarrow X Stamina Beach Peach,80,0,30,0,0,0,0,0
 Stamina Beach Peach X Spirit Bane,Spirit Bane X Stamina Beach Peach,80,0,0,0,0,0,-5,5
 Stamina Beach Peach X Prickly Plant,Prickly Plant X Stamina Beach Peach,80,0,0,0,0,0,0,-4
 Stamina Beach Peach X Erdenleaf,Erdenleaf X Stamina Beach Peach,80,0,0,0,0,-2,0,0
-Stamina Beach Peach X Fake Flower,Fake Flower X Stamina Beach Peach,50,0,0,50,-2,0,-2,-2
+Stamina Beach Peach X Flake Flower,Flake Flower X Stamina Beach Peach,50,0,0,50,-2,0,-2,-2
 Stamina Beach Peach X Spiky Plant,Spiky Plant X Stamina Beach Peach,50,0,0,0,0,0,-3,0
 Stamina Beach Peach X Saplant,Saplant X Stamina Beach Peach,50,0,0,0,0,0,-5,0
 Stamina Beach Peach X Nightshade,Nightshade X Stamina Beach Peach,50,0,0,0,-3,0,0,0
@@ -2490,7 +2490,7 @@ Stamina Popcorn Plant X Tame Tiny Flower,Tame Tiny Flower X Stamina Popcorn Plan
 Stamina Popcorn Plant X Tame Sun Flower,Tame Sun Flower X Stamina Popcorn Plant,80,0,0,45,0,-1,2,0
 Stamina Popcorn Plant X Tame Fire Flower,Tame Fire Flower X Stamina Popcorn Plant,80,0,0,45,0,-1,0,0
 Stamina Popcorn Plant X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Popcorn Plant,80,0,0,30,1,-1,0,0
-Stamina Popcorn Plant X Tame Fake Flower,Tame Fake Flower X Stamina Popcorn Plant,50,0,0,75,-2,-1,-2,-2
+Stamina Popcorn Plant X Tame Flake Flower,Tame Flake Flower X Stamina Popcorn Plant,50,0,0,75,-2,-1,-2,-2
 Stamina Popcorn Plant X Magic Mushroom,Magic Mushroom X Stamina Popcorn Plant,160,0,0,0,0,-1,0,0
 Stamina Popcorn Plant X Snow Flobes,Snow Flobes X Stamina Popcorn Plant,140,0,0,0,0,-1,0,0
 Stamina Popcorn Plant X Squish,Squish X Stamina Popcorn Plant,120,0,0,0,0,-1,0,0
@@ -2540,7 +2540,7 @@ Stamina Popcorn Plant X Yarrow,Yarrow X Stamina Popcorn Plant,80,0,30,0,0,-1,0,0
 Stamina Popcorn Plant X Spirit Bane,Spirit Bane X Stamina Popcorn Plant,80,0,0,0,0,-1,-5,5
 Stamina Popcorn Plant X Prickly Plant,Prickly Plant X Stamina Popcorn Plant,80,0,0,0,0,-1,0,-4
 Stamina Popcorn Plant X Erdenleaf,Erdenleaf X Stamina Popcorn Plant,80,0,0,0,0,-3,0,0
-Stamina Popcorn Plant X Fake Flower,Fake Flower X Stamina Popcorn Plant,50,0,0,50,-2,-1,-2,-2
+Stamina Popcorn Plant X Flake Flower,Flake Flower X Stamina Popcorn Plant,50,0,0,50,-2,-1,-2,-2
 Stamina Popcorn Plant X Spiky Plant,Spiky Plant X Stamina Popcorn Plant,50,0,0,0,0,-1,-3,0
 Stamina Popcorn Plant X Saplant,Saplant X Stamina Popcorn Plant,50,0,0,0,0,-1,-5,0
 Stamina Popcorn Plant X Nightshade,Nightshade X Stamina Popcorn Plant,50,0,0,0,-3,-1,0,0
@@ -2622,7 +2622,7 @@ Stamina Black Pearl X Tame Tiny Flower,Tame Tiny Flower X Stamina Black Pearl,80
 Stamina Black Pearl X Tame Sun Flower,Tame Sun Flower X Stamina Black Pearl,80,0,0,45,0,-3,2,5
 Stamina Black Pearl X Tame Fire Flower,Tame Fire Flower X Stamina Black Pearl,80,0,0,45,0,-3,0,5
 Stamina Black Pearl X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Black Pearl,80,0,0,30,1,-3,0,5
-Stamina Black Pearl X Tame Fake Flower,Tame Fake Flower X Stamina Black Pearl,50,0,0,75,-2,-3,-2,3
+Stamina Black Pearl X Tame Flake Flower,Tame Flake Flower X Stamina Black Pearl,50,0,0,75,-2,-3,-2,3
 Stamina Black Pearl X Magic Mushroom,Magic Mushroom X Stamina Black Pearl,160,0,0,0,0,-3,0,5
 Stamina Black Pearl X Snow Flobes,Snow Flobes X Stamina Black Pearl,140,0,0,0,0,-3,0,5
 Stamina Black Pearl X Squish,Squish X Stamina Black Pearl,120,0,0,0,0,-3,0,5
@@ -2672,7 +2672,7 @@ Stamina Black Pearl X Yarrow,Yarrow X Stamina Black Pearl,80,0,30,0,0,-3,0,5
 Stamina Black Pearl X Spirit Bane,Spirit Bane X Stamina Black Pearl,80,0,0,0,0,-3,-5,10
 Stamina Black Pearl X Prickly Plant,Prickly Plant X Stamina Black Pearl,80,0,0,0,0,-3,0,1
 Stamina Black Pearl X Erdenleaf,Erdenleaf X Stamina Black Pearl,80,0,0,0,0,-5,0,5
-Stamina Black Pearl X Fake Flower,Fake Flower X Stamina Black Pearl,50,0,0,50,-2,-3,-2,3
+Stamina Black Pearl X Flake Flower,Flake Flower X Stamina Black Pearl,50,0,0,50,-2,-3,-2,3
 Stamina Black Pearl X Spiky Plant,Spiky Plant X Stamina Black Pearl,50,0,0,0,0,-3,-3,5
 Stamina Black Pearl X Saplant,Saplant X Stamina Black Pearl,50,0,0,0,0,-3,-5,5
 Stamina Black Pearl X Nightshade,Nightshade X Stamina Black Pearl,50,0,0,0,-3,-3,0,5
@@ -2753,7 +2753,7 @@ Stamina Spectre Flower X Tame Tiny Flower,Tame Tiny Flower X Stamina Spectre Flo
 Stamina Spectre Flower X Tame Sun Flower,Tame Sun Flower X Stamina Spectre Flower,65,0,0,95,0,0,0,0
 Stamina Spectre Flower X Tame Fire Flower,Tame Fire Flower X Stamina Spectre Flower,65,0,0,95,0,0,-2,0
 Stamina Spectre Flower X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Spectre Flower,65,0,0,80,1,0,-2,0
-Stamina Spectre Flower X Tame Fake Flower,Tame Fake Flower X Stamina Spectre Flower,35,0,0,125,-2,0,-4,-2
+Stamina Spectre Flower X Tame Flake Flower,Tame Flake Flower X Stamina Spectre Flower,35,0,0,125,-2,0,-4,-2
 Stamina Spectre Flower X Magic Mushroom,Magic Mushroom X Stamina Spectre Flower,145,0,0,50,0,0,-2,0
 Stamina Spectre Flower X Snow Flobes,Snow Flobes X Stamina Spectre Flower,125,0,0,50,0,0,-2,0
 Stamina Spectre Flower X Squish,Squish X Stamina Spectre Flower,105,0,0,50,0,0,-2,0
@@ -2803,7 +2803,7 @@ Stamina Spectre Flower X Yarrow,Yarrow X Stamina Spectre Flower,65,0,30,50,0,0,-
 Stamina Spectre Flower X Spirit Bane,Spirit Bane X Stamina Spectre Flower,65,0,0,50,0,0,-7,5
 Stamina Spectre Flower X Prickly Plant,Prickly Plant X Stamina Spectre Flower,65,0,0,50,0,0,-2,-4
 Stamina Spectre Flower X Erdenleaf,Erdenleaf X Stamina Spectre Flower,65,0,0,50,0,-2,-2,0
-Stamina Spectre Flower X Fake Flower,Fake Flower X Stamina Spectre Flower,35,0,0,100,-2,0,-4,-2
+Stamina Spectre Flower X Flake Flower,Flake Flower X Stamina Spectre Flower,35,0,0,100,-2,0,-4,-2
 Stamina Spectre Flower X Spiky Plant,Spiky Plant X Stamina Spectre Flower,35,0,0,50,0,0,-5,0
 Stamina Spectre Flower X Saplant,Saplant X Stamina Spectre Flower,35,0,0,50,0,0,-7,0
 Stamina Spectre Flower X Nightshade,Nightshade X Stamina Spectre Flower,35,0,0,50,-3,0,-2,0
@@ -2883,7 +2883,7 @@ Stamina Flag Flower X Tame Tiny Flower,Tame Tiny Flower X Stamina Flag Flower,65
 Stamina Flag Flower X Tame Sun Flower,Tame Sun Flower X Stamina Flag Flower,65,0,0,85,0,0,2,0
 Stamina Flag Flower X Tame Fire Flower,Tame Fire Flower X Stamina Flag Flower,65,0,0,85,0,0,0,0
 Stamina Flag Flower X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Flag Flower,65,0,0,70,1,0,0,0
-Stamina Flag Flower X Tame Fake Flower,Tame Fake Flower X Stamina Flag Flower,35,0,0,115,-2,0,-2,-2
+Stamina Flag Flower X Tame Flake Flower,Tame Flake Flower X Stamina Flag Flower,35,0,0,115,-2,0,-2,-2
 Stamina Flag Flower X Magic Mushroom,Magic Mushroom X Stamina Flag Flower,145,0,0,40,0,0,0,0
 Stamina Flag Flower X Snow Flobes,Snow Flobes X Stamina Flag Flower,125,0,0,40,0,0,0,0
 Stamina Flag Flower X Squish,Squish X Stamina Flag Flower,105,0,0,40,0,0,0,0
@@ -2933,7 +2933,7 @@ Stamina Flag Flower X Yarrow,Yarrow X Stamina Flag Flower,65,0,30,40,0,0,0,0
 Stamina Flag Flower X Spirit Bane,Spirit Bane X Stamina Flag Flower,65,0,0,40,0,0,-5,5
 Stamina Flag Flower X Prickly Plant,Prickly Plant X Stamina Flag Flower,65,0,0,40,0,0,0,-4
 Stamina Flag Flower X Erdenleaf,Erdenleaf X Stamina Flag Flower,65,0,0,40,0,-2,0,0
-Stamina Flag Flower X Fake Flower,Fake Flower X Stamina Flag Flower,35,0,0,90,-2,0,-2,-2
+Stamina Flag Flower X Flake Flower,Flake Flower X Stamina Flag Flower,35,0,0,90,-2,0,-2,-2
 Stamina Flag Flower X Spiky Plant,Spiky Plant X Stamina Flag Flower,35,0,0,40,0,0,-3,0
 Stamina Flag Flower X Saplant,Saplant X Stamina Flag Flower,35,0,0,40,0,0,-5,0
 Stamina Flag Flower X Nightshade,Nightshade X Stamina Flag Flower,35,0,0,40,-3,0,0,0
@@ -3012,7 +3012,7 @@ Stamina Skeleplant X Tame Tiny Flower,Tame Tiny Flower X Stamina Skeleplant,65,5
 Stamina Skeleplant X Tame Sun Flower,Tame Sun Flower X Stamina Skeleplant,65,0,0,45,-2,2,2,0
 Stamina Skeleplant X Tame Fire Flower,Tame Fire Flower X Stamina Skeleplant,65,0,0,45,-2,2,0,0
 Stamina Skeleplant X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Skeleplant,65,0,0,30,-1,2,0,0
-Stamina Skeleplant X Tame Fake Flower,Tame Fake Flower X Stamina Skeleplant,35,0,0,75,-4,2,-2,-2
+Stamina Skeleplant X Tame Flake Flower,Tame Flake Flower X Stamina Skeleplant,35,0,0,75,-4,2,-2,-2
 Stamina Skeleplant X Magic Mushroom,Magic Mushroom X Stamina Skeleplant,145,0,0,0,-2,2,0,0
 Stamina Skeleplant X Snow Flobes,Snow Flobes X Stamina Skeleplant,125,0,0,0,-2,2,0,0
 Stamina Skeleplant X Squish,Squish X Stamina Skeleplant,105,0,0,0,-2,2,0,0
@@ -3062,7 +3062,7 @@ Stamina Skeleplant X Yarrow,Yarrow X Stamina Skeleplant,65,0,30,0,-2,2,0,0
 Stamina Skeleplant X Spirit Bane,Spirit Bane X Stamina Skeleplant,65,0,0,0,-2,2,-5,5
 Stamina Skeleplant X Prickly Plant,Prickly Plant X Stamina Skeleplant,65,0,0,0,-2,2,0,-4
 Stamina Skeleplant X Erdenleaf,Erdenleaf X Stamina Skeleplant,65,0,0,0,-2,0,0,0
-Stamina Skeleplant X Fake Flower,Fake Flower X Stamina Skeleplant,35,0,0,50,-4,2,-2,-2
+Stamina Skeleplant X Flake Flower,Flake Flower X Stamina Skeleplant,35,0,0,50,-4,2,-2,-2
 Stamina Skeleplant X Spiky Plant,Spiky Plant X Stamina Skeleplant,35,0,0,0,-2,2,-3,0
 Stamina Skeleplant X Saplant,Saplant X Stamina Skeleplant,35,0,0,0,-2,2,-5,0
 Stamina Skeleplant X Nightshade,Nightshade X Stamina Skeleplant,35,0,0,0,-5,2,0,0
@@ -3140,7 +3140,7 @@ Stamina Electricone X Tame Tiny Flower,Tame Tiny Flower X Stamina Electricone,65
 Stamina Electricone X Tame Sun Flower,Tame Sun Flower X Stamina Electricone,65,0,0,45,0,0,2,4
 Stamina Electricone X Tame Fire Flower,Tame Fire Flower X Stamina Electricone,65,0,0,45,0,0,0,4
 Stamina Electricone X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Electricone,65,0,0,30,1,0,0,4
-Stamina Electricone X Tame Fake Flower,Tame Fake Flower X Stamina Electricone,35,0,0,75,-2,0,-2,2
+Stamina Electricone X Tame Flake Flower,Tame Flake Flower X Stamina Electricone,35,0,0,75,-2,0,-2,2
 Stamina Electricone X Magic Mushroom,Magic Mushroom X Stamina Electricone,145,0,0,0,0,0,0,4
 Stamina Electricone X Snow Flobes,Snow Flobes X Stamina Electricone,125,0,0,0,0,0,0,4
 Stamina Electricone X Squish,Squish X Stamina Electricone,105,0,0,0,0,0,0,4
@@ -3190,7 +3190,7 @@ Stamina Electricone X Yarrow,Yarrow X Stamina Electricone,65,0,30,0,0,0,0,4
 Stamina Electricone X Spirit Bane,Spirit Bane X Stamina Electricone,65,0,0,0,0,0,-5,9
 Stamina Electricone X Prickly Plant,Prickly Plant X Stamina Electricone,65,0,0,0,0,0,0,0
 Stamina Electricone X Erdenleaf,Erdenleaf X Stamina Electricone,65,0,0,0,0,-2,0,4
-Stamina Electricone X Fake Flower,Fake Flower X Stamina Electricone,35,0,0,50,-2,0,-2,2
+Stamina Electricone X Flake Flower,Flake Flower X Stamina Electricone,35,0,0,50,-2,0,-2,2
 Stamina Electricone X Spiky Plant,Spiky Plant X Stamina Electricone,35,0,0,0,0,0,-3,4
 Stamina Electricone X Saplant,Saplant X Stamina Electricone,35,0,0,0,0,0,-5,4
 Stamina Electricone X Nightshade,Nightshade X Stamina Electricone,35,0,0,0,-3,0,0,4
@@ -3267,7 +3267,7 @@ Stamina Fuzzball X Tame Tiny Flower,Tame Tiny Flower X Stamina Fuzzball,65,50,0,
 Stamina Fuzzball X Tame Sun Flower,Tame Sun Flower X Stamina Fuzzball,65,0,0,45,1,0,3,1
 Stamina Fuzzball X Tame Fire Flower,Tame Fire Flower X Stamina Fuzzball,65,0,0,45,1,0,1,1
 Stamina Fuzzball X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Fuzzball,65,0,0,30,2,0,1,1
-Stamina Fuzzball X Tame Fake Flower,Tame Fake Flower X Stamina Fuzzball,35,0,0,75,-1,0,-1,-1
+Stamina Fuzzball X Tame Flake Flower,Tame Flake Flower X Stamina Fuzzball,35,0,0,75,-1,0,-1,-1
 Stamina Fuzzball X Magic Mushroom,Magic Mushroom X Stamina Fuzzball,145,0,0,0,1,0,1,1
 Stamina Fuzzball X Snow Flobes,Snow Flobes X Stamina Fuzzball,125,0,0,0,1,0,1,1
 Stamina Fuzzball X Squish,Squish X Stamina Fuzzball,105,0,0,0,1,0,1,1
@@ -3317,7 +3317,7 @@ Stamina Fuzzball X Yarrow,Yarrow X Stamina Fuzzball,65,0,30,0,1,0,1,1
 Stamina Fuzzball X Spirit Bane,Spirit Bane X Stamina Fuzzball,65,0,0,0,1,0,-4,6
 Stamina Fuzzball X Prickly Plant,Prickly Plant X Stamina Fuzzball,65,0,0,0,1,0,1,-3
 Stamina Fuzzball X Erdenleaf,Erdenleaf X Stamina Fuzzball,65,0,0,0,1,-2,1,1
-Stamina Fuzzball X Fake Flower,Fake Flower X Stamina Fuzzball,35,0,0,50,-1,0,-1,-1
+Stamina Fuzzball X Flake Flower,Flake Flower X Stamina Fuzzball,35,0,0,50,-1,0,-1,-1
 Stamina Fuzzball X Spiky Plant,Spiky Plant X Stamina Fuzzball,35,0,0,0,1,0,-2,1
 Stamina Fuzzball X Saplant,Saplant X Stamina Fuzzball,35,0,0,0,1,0,-4,1
 Stamina Fuzzball X Nightshade,Nightshade X Stamina Fuzzball,35,0,0,0,-2,0,1,1
@@ -3393,7 +3393,7 @@ Stamina Wilowisp X Tame Tiny Flower,Tame Tiny Flower X Stamina Wilowisp,65,300,0
 Stamina Wilowisp X Tame Sun Flower,Tame Sun Flower X Stamina Wilowisp,65,250,0,45,0,0,2,0
 Stamina Wilowisp X Tame Fire Flower,Tame Fire Flower X Stamina Wilowisp,65,250,0,45,0,0,0,0
 Stamina Wilowisp X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Wilowisp,65,250,0,30,1,0,0,0
-Stamina Wilowisp X Tame Fake Flower,Tame Fake Flower X Stamina Wilowisp,35,250,0,75,-2,0,-2,-2
+Stamina Wilowisp X Tame Flake Flower,Tame Flake Flower X Stamina Wilowisp,35,250,0,75,-2,0,-2,-2
 Stamina Wilowisp X Magic Mushroom,Magic Mushroom X Stamina Wilowisp,145,250,0,0,0,0,0,0
 Stamina Wilowisp X Snow Flobes,Snow Flobes X Stamina Wilowisp,125,250,0,0,0,0,0,0
 Stamina Wilowisp X Squish,Squish X Stamina Wilowisp,105,250,0,0,0,0,0,0
@@ -3443,7 +3443,7 @@ Stamina Wilowisp X Yarrow,Yarrow X Stamina Wilowisp,65,250,30,0,0,0,0,0
 Stamina Wilowisp X Spirit Bane,Spirit Bane X Stamina Wilowisp,65,250,0,0,0,0,-5,5
 Stamina Wilowisp X Prickly Plant,Prickly Plant X Stamina Wilowisp,65,250,0,0,0,0,0,-4
 Stamina Wilowisp X Erdenleaf,Erdenleaf X Stamina Wilowisp,65,250,0,0,0,-2,0,0
-Stamina Wilowisp X Fake Flower,Fake Flower X Stamina Wilowisp,35,250,0,50,-2,0,-2,-2
+Stamina Wilowisp X Flake Flower,Flake Flower X Stamina Wilowisp,35,250,0,50,-2,0,-2,-2
 Stamina Wilowisp X Spiky Plant,Spiky Plant X Stamina Wilowisp,35,250,0,0,0,0,-3,0
 Stamina Wilowisp X Saplant,Saplant X Stamina Wilowisp,35,250,0,0,0,0,-5,0
 Stamina Wilowisp X Nightshade,Nightshade X Stamina Wilowisp,35,250,0,0,-3,0,0,0
@@ -3518,7 +3518,7 @@ Stamina Plantern X Tame Tiny Flower,Tame Tiny Flower X Stamina Plantern,65,50,0,
 Stamina Plantern X Tame Sun Flower,Tame Sun Flower X Stamina Plantern,65,0,0,45,0,0,6,0
 Stamina Plantern X Tame Fire Flower,Tame Fire Flower X Stamina Plantern,65,0,0,45,0,0,4,0
 Stamina Plantern X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Plantern,65,0,0,30,1,0,4,0
-Stamina Plantern X Tame Fake Flower,Tame Fake Flower X Stamina Plantern,35,0,0,75,-2,0,2,-2
+Stamina Plantern X Tame Flake Flower,Tame Flake Flower X Stamina Plantern,35,0,0,75,-2,0,2,-2
 Stamina Plantern X Magic Mushroom,Magic Mushroom X Stamina Plantern,145,0,0,0,0,0,4,0
 Stamina Plantern X Snow Flobes,Snow Flobes X Stamina Plantern,125,0,0,0,0,0,4,0
 Stamina Plantern X Squish,Squish X Stamina Plantern,105,0,0,0,0,0,4,0
@@ -3568,7 +3568,7 @@ Stamina Plantern X Yarrow,Yarrow X Stamina Plantern,65,0,30,0,0,0,4,0
 Stamina Plantern X Spirit Bane,Spirit Bane X Stamina Plantern,65,0,0,0,0,0,-1,5
 Stamina Plantern X Prickly Plant,Prickly Plant X Stamina Plantern,65,0,0,0,0,0,4,-4
 Stamina Plantern X Erdenleaf,Erdenleaf X Stamina Plantern,65,0,0,0,0,-2,4,0
-Stamina Plantern X Fake Flower,Fake Flower X Stamina Plantern,35,0,0,50,-2,0,2,-2
+Stamina Plantern X Flake Flower,Flake Flower X Stamina Plantern,35,0,0,50,-2,0,2,-2
 Stamina Plantern X Spiky Plant,Spiky Plant X Stamina Plantern,35,0,0,0,0,0,1,0
 Stamina Plantern X Saplant,Saplant X Stamina Plantern,35,0,0,0,0,0,-1,0
 Stamina Plantern X Nightshade,Nightshade X Stamina Plantern,35,0,0,0,-3,0,4,0
@@ -3642,7 +3642,7 @@ Stamina Heat Plant X Tame Tiny Flower,Tame Tiny Flower X Stamina Heat Plant,65,5
 Stamina Heat Plant X Tame Sun Flower,Tame Sun Flower X Stamina Heat Plant,65,0,0,45,4,0,2,0
 Stamina Heat Plant X Tame Fire Flower,Tame Fire Flower X Stamina Heat Plant,65,0,0,45,4,0,0,0
 Stamina Heat Plant X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Heat Plant,65,0,0,30,5,0,0,0
-Stamina Heat Plant X Tame Fake Flower,Tame Fake Flower X Stamina Heat Plant,35,0,0,75,2,0,-2,-2
+Stamina Heat Plant X Tame Flake Flower,Tame Flake Flower X Stamina Heat Plant,35,0,0,75,2,0,-2,-2
 Stamina Heat Plant X Magic Mushroom,Magic Mushroom X Stamina Heat Plant,145,0,0,0,4,0,0,0
 Stamina Heat Plant X Snow Flobes,Snow Flobes X Stamina Heat Plant,125,0,0,0,4,0,0,0
 Stamina Heat Plant X Squish,Squish X Stamina Heat Plant,105,0,0,0,4,0,0,0
@@ -3692,7 +3692,7 @@ Stamina Heat Plant X Yarrow,Yarrow X Stamina Heat Plant,65,0,30,0,4,0,0,0
 Stamina Heat Plant X Spirit Bane,Spirit Bane X Stamina Heat Plant,65,0,0,0,4,0,-5,5
 Stamina Heat Plant X Prickly Plant,Prickly Plant X Stamina Heat Plant,65,0,0,0,4,0,0,-4
 Stamina Heat Plant X Erdenleaf,Erdenleaf X Stamina Heat Plant,65,0,0,0,4,-2,0,0
-Stamina Heat Plant X Fake Flower,Fake Flower X Stamina Heat Plant,35,0,0,50,2,0,-2,-2
+Stamina Heat Plant X Flake Flower,Flake Flower X Stamina Heat Plant,35,0,0,50,2,0,-2,-2
 Stamina Heat Plant X Spiky Plant,Spiky Plant X Stamina Heat Plant,35,0,0,0,4,0,-3,0
 Stamina Heat Plant X Saplant,Saplant X Stamina Heat Plant,35,0,0,0,4,0,-5,0
 Stamina Heat Plant X Nightshade,Nightshade X Stamina Heat Plant,35,0,0,0,1,0,0,0
@@ -3765,7 +3765,7 @@ Stamina Ghostshroom X Tame Tiny Flower,Tame Tiny Flower X Stamina Ghostshroom,65
 Stamina Ghostshroom X Tame Sun Flower,Tame Sun Flower X Stamina Ghostshroom,65,0,100,45,0,0,2,0
 Stamina Ghostshroom X Tame Fire Flower,Tame Fire Flower X Stamina Ghostshroom,65,0,100,45,0,0,0,0
 Stamina Ghostshroom X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Ghostshroom,65,0,100,30,1,0,0,0
-Stamina Ghostshroom X Tame Fake Flower,Tame Fake Flower X Stamina Ghostshroom,35,0,100,75,-2,0,-2,-2
+Stamina Ghostshroom X Tame Flake Flower,Tame Flake Flower X Stamina Ghostshroom,35,0,100,75,-2,0,-2,-2
 Stamina Ghostshroom X Magic Mushroom,Magic Mushroom X Stamina Ghostshroom,145,0,100,0,0,0,0,0
 Stamina Ghostshroom X Snow Flobes,Snow Flobes X Stamina Ghostshroom,125,0,100,0,0,0,0,0
 Stamina Ghostshroom X Squish,Squish X Stamina Ghostshroom,105,0,100,0,0,0,0,0
@@ -3815,7 +3815,7 @@ Stamina Ghostshroom X Yarrow,Yarrow X Stamina Ghostshroom,65,0,130,0,0,0,0,0
 Stamina Ghostshroom X Spirit Bane,Spirit Bane X Stamina Ghostshroom,65,0,100,0,0,0,-5,5
 Stamina Ghostshroom X Prickly Plant,Prickly Plant X Stamina Ghostshroom,65,0,100,0,0,0,0,-4
 Stamina Ghostshroom X Erdenleaf,Erdenleaf X Stamina Ghostshroom,65,0,100,0,0,-2,0,0
-Stamina Ghostshroom X Fake Flower,Fake Flower X Stamina Ghostshroom,35,0,100,50,-2,0,-2,-2
+Stamina Ghostshroom X Flake Flower,Flake Flower X Stamina Ghostshroom,35,0,100,50,-2,0,-2,-2
 Stamina Ghostshroom X Spiky Plant,Spiky Plant X Stamina Ghostshroom,35,0,100,0,0,0,-3,0
 Stamina Ghostshroom X Saplant,Saplant X Stamina Ghostshroom,35,0,100,0,0,0,-5,0
 Stamina Ghostshroom X Nightshade,Nightshade X Stamina Ghostshroom,35,0,100,0,-3,0,0,0
@@ -3887,7 +3887,7 @@ Stamina Colberry X Tame Tiny Flower,Tame Tiny Flower X Stamina Colberry,65,50,40
 Stamina Colberry X Tame Sun Flower,Tame Sun Flower X Stamina Colberry,65,0,40,45,0,0,2,0
 Stamina Colberry X Tame Fire Flower,Tame Fire Flower X Stamina Colberry,65,0,40,45,0,0,0,0
 Stamina Colberry X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Colberry,65,0,40,30,1,0,0,0
-Stamina Colberry X Tame Fake Flower,Tame Fake Flower X Stamina Colberry,35,0,40,75,-2,0,-2,-2
+Stamina Colberry X Tame Flake Flower,Tame Flake Flower X Stamina Colberry,35,0,40,75,-2,0,-2,-2
 Stamina Colberry X Magic Mushroom,Magic Mushroom X Stamina Colberry,145,0,40,0,0,0,0,0
 Stamina Colberry X Snow Flobes,Snow Flobes X Stamina Colberry,125,0,40,0,0,0,0,0
 Stamina Colberry X Squish,Squish X Stamina Colberry,105,0,40,0,0,0,0,0
@@ -3937,7 +3937,7 @@ Stamina Colberry X Yarrow,Yarrow X Stamina Colberry,65,0,70,0,0,0,0,0
 Stamina Colberry X Spirit Bane,Spirit Bane X Stamina Colberry,65,0,40,0,0,0,-5,5
 Stamina Colberry X Prickly Plant,Prickly Plant X Stamina Colberry,65,0,40,0,0,0,0,-4
 Stamina Colberry X Erdenleaf,Erdenleaf X Stamina Colberry,65,0,40,0,0,-2,0,0
-Stamina Colberry X Fake Flower,Fake Flower X Stamina Colberry,35,0,40,50,-2,0,-2,-2
+Stamina Colberry X Flake Flower,Flake Flower X Stamina Colberry,35,0,40,50,-2,0,-2,-2
 Stamina Colberry X Spiky Plant,Spiky Plant X Stamina Colberry,35,0,40,0,0,0,-3,0
 Stamina Colberry X Saplant,Saplant X Stamina Colberry,35,0,40,0,0,0,-5,0
 Stamina Colberry X Nightshade,Nightshade X Stamina Colberry,35,0,40,0,-3,0,0,0
@@ -4008,7 +4008,7 @@ Stamina Applum X Tame Tiny Flower,Tame Tiny Flower X Stamina Applum,65,50,20,45,
 Stamina Applum X Tame Sun Flower,Tame Sun Flower X Stamina Applum,65,0,20,45,0,0,2,0
 Stamina Applum X Tame Fire Flower,Tame Fire Flower X Stamina Applum,65,0,20,45,0,0,0,0
 Stamina Applum X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Applum,65,0,20,30,1,0,0,0
-Stamina Applum X Tame Fake Flower,Tame Fake Flower X Stamina Applum,35,0,20,75,-2,0,-2,-2
+Stamina Applum X Tame Flake Flower,Tame Flake Flower X Stamina Applum,35,0,20,75,-2,0,-2,-2
 Stamina Applum X Magic Mushroom,Magic Mushroom X Stamina Applum,145,0,20,0,0,0,0,0
 Stamina Applum X Snow Flobes,Snow Flobes X Stamina Applum,125,0,20,0,0,0,0,0
 Stamina Applum X Squish,Squish X Stamina Applum,105,0,20,0,0,0,0,0
@@ -4058,7 +4058,7 @@ Stamina Applum X Yarrow,Yarrow X Stamina Applum,65,0,50,0,0,0,0,0
 Stamina Applum X Spirit Bane,Spirit Bane X Stamina Applum,65,0,20,0,0,0,-5,5
 Stamina Applum X Prickly Plant,Prickly Plant X Stamina Applum,65,0,20,0,0,0,0,-4
 Stamina Applum X Erdenleaf,Erdenleaf X Stamina Applum,65,0,20,0,0,-2,0,0
-Stamina Applum X Fake Flower,Fake Flower X Stamina Applum,35,0,20,50,-2,0,-2,-2
+Stamina Applum X Flake Flower,Flake Flower X Stamina Applum,35,0,20,50,-2,0,-2,-2
 Stamina Applum X Spiky Plant,Spiky Plant X Stamina Applum,35,0,20,0,0,0,-3,0
 Stamina Applum X Saplant,Saplant X Stamina Applum,35,0,20,0,0,0,-5,0
 Stamina Applum X Nightshade,Nightshade X Stamina Applum,35,0,20,0,-3,0,0,0
@@ -4128,7 +4128,7 @@ Stamina Tiny Flower X Tame Tiny Flower,Tame Tiny Flower X Stamina Tiny Flower,50
 Stamina Tiny Flower X Tame Sun Flower,Tame Sun Flower X Stamina Tiny Flower,50,50,0,75,0,0,2,0
 Stamina Tiny Flower X Tame Fire Flower,Tame Fire Flower X Stamina Tiny Flower,50,50,0,75,0,0,0,0
 Stamina Tiny Flower X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Tiny Flower,50,50,0,60,1,0,0,0
-Stamina Tiny Flower X Tame Fake Flower,Tame Fake Flower X Stamina Tiny Flower,20,50,0,105,-2,0,-2,-2
+Stamina Tiny Flower X Tame Flake Flower,Tame Flake Flower X Stamina Tiny Flower,20,50,0,105,-2,0,-2,-2
 Stamina Tiny Flower X Magic Mushroom,Magic Mushroom X Stamina Tiny Flower,130,50,0,30,0,0,0,0
 Stamina Tiny Flower X Snow Flobes,Snow Flobes X Stamina Tiny Flower,110,50,0,30,0,0,0,0
 Stamina Tiny Flower X Squish,Squish X Stamina Tiny Flower,90,50,0,30,0,0,0,0
@@ -4178,7 +4178,7 @@ Stamina Tiny Flower X Yarrow,Yarrow X Stamina Tiny Flower,50,50,30,30,0,0,0,0
 Stamina Tiny Flower X Spirit Bane,Spirit Bane X Stamina Tiny Flower,50,50,0,30,0,0,-5,5
 Stamina Tiny Flower X Prickly Plant,Prickly Plant X Stamina Tiny Flower,50,50,0,30,0,0,0,-4
 Stamina Tiny Flower X Erdenleaf,Erdenleaf X Stamina Tiny Flower,50,50,0,30,0,-2,0,0
-Stamina Tiny Flower X Fake Flower,Fake Flower X Stamina Tiny Flower,20,50,0,80,-2,0,-2,-2
+Stamina Tiny Flower X Flake Flower,Flake Flower X Stamina Tiny Flower,20,50,0,80,-2,0,-2,-2
 Stamina Tiny Flower X Spiky Plant,Spiky Plant X Stamina Tiny Flower,20,50,0,30,0,0,-3,0
 Stamina Tiny Flower X Saplant,Saplant X Stamina Tiny Flower,20,50,0,30,0,0,-5,0
 Stamina Tiny Flower X Nightshade,Nightshade X Stamina Tiny Flower,20,50,0,30,-3,0,0,0
@@ -4247,7 +4247,7 @@ Stamina Sun Flower X Tame Tiny Flower,Tame Tiny Flower X Stamina Sun Flower,50,5
 Stamina Sun Flower X Tame Sun Flower,Tame Sun Flower X Stamina Sun Flower,50,0,0,75,0,0,4,0
 Stamina Sun Flower X Tame Fire Flower,Tame Fire Flower X Stamina Sun Flower,50,0,0,75,0,0,2,0
 Stamina Sun Flower X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Sun Flower,50,0,0,60,1,0,2,0
-Stamina Sun Flower X Tame Fake Flower,Tame Fake Flower X Stamina Sun Flower,20,0,0,105,-2,0,0,-2
+Stamina Sun Flower X Tame Flake Flower,Tame Flake Flower X Stamina Sun Flower,20,0,0,105,-2,0,0,-2
 Stamina Sun Flower X Magic Mushroom,Magic Mushroom X Stamina Sun Flower,130,0,0,30,0,0,2,0
 Stamina Sun Flower X Snow Flobes,Snow Flobes X Stamina Sun Flower,110,0,0,30,0,0,2,0
 Stamina Sun Flower X Squish,Squish X Stamina Sun Flower,90,0,0,30,0,0,2,0
@@ -4297,7 +4297,7 @@ Stamina Sun Flower X Yarrow,Yarrow X Stamina Sun Flower,50,0,30,30,0,0,2,0
 Stamina Sun Flower X Spirit Bane,Spirit Bane X Stamina Sun Flower,50,0,0,30,0,0,-3,5
 Stamina Sun Flower X Prickly Plant,Prickly Plant X Stamina Sun Flower,50,0,0,30,0,0,2,-4
 Stamina Sun Flower X Erdenleaf,Erdenleaf X Stamina Sun Flower,50,0,0,30,0,-2,2,0
-Stamina Sun Flower X Fake Flower,Fake Flower X Stamina Sun Flower,20,0,0,80,-2,0,0,-2
+Stamina Sun Flower X Flake Flower,Flake Flower X Stamina Sun Flower,20,0,0,80,-2,0,0,-2
 Stamina Sun Flower X Spiky Plant,Spiky Plant X Stamina Sun Flower,20,0,0,30,0,0,-1,0
 Stamina Sun Flower X Saplant,Saplant X Stamina Sun Flower,20,0,0,30,0,0,-3,0
 Stamina Sun Flower X Nightshade,Nightshade X Stamina Sun Flower,20,0,0,30,-3,0,2,0
@@ -4365,7 +4365,7 @@ Stamina Fire Flower X Tame Tiny Flower,Tame Tiny Flower X Stamina Fire Flower,50
 Stamina Fire Flower X Tame Sun Flower,Tame Sun Flower X Stamina Fire Flower,50,0,0,75,0,0,2,0
 Stamina Fire Flower X Tame Fire Flower,Tame Fire Flower X Stamina Fire Flower,50,0,0,75,0,0,0,0
 Stamina Fire Flower X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Fire Flower,50,0,0,60,1,0,0,0
-Stamina Fire Flower X Tame Fake Flower,Tame Fake Flower X Stamina Fire Flower,20,0,0,105,-2,0,-2,-2
+Stamina Fire Flower X Tame Flake Flower,Tame Flake Flower X Stamina Fire Flower,20,0,0,105,-2,0,-2,-2
 Stamina Fire Flower X Magic Mushroom,Magic Mushroom X Stamina Fire Flower,130,0,0,30,0,0,0,0
 Stamina Fire Flower X Snow Flobes,Snow Flobes X Stamina Fire Flower,110,0,0,30,0,0,0,0
 Stamina Fire Flower X Squish,Squish X Stamina Fire Flower,90,0,0,30,0,0,0,0
@@ -4415,7 +4415,7 @@ Stamina Fire Flower X Yarrow,Yarrow X Stamina Fire Flower,50,0,30,30,0,0,0,0
 Stamina Fire Flower X Spirit Bane,Spirit Bane X Stamina Fire Flower,50,0,0,30,0,0,-5,5
 Stamina Fire Flower X Prickly Plant,Prickly Plant X Stamina Fire Flower,50,0,0,30,0,0,0,-4
 Stamina Fire Flower X Erdenleaf,Erdenleaf X Stamina Fire Flower,50,0,0,30,0,-2,0,0
-Stamina Fire Flower X Fake Flower,Fake Flower X Stamina Fire Flower,20,0,0,80,-2,0,-2,-2
+Stamina Fire Flower X Flake Flower,Flake Flower X Stamina Fire Flower,20,0,0,80,-2,0,-2,-2
 Stamina Fire Flower X Spiky Plant,Spiky Plant X Stamina Fire Flower,20,0,0,30,0,0,-3,0
 Stamina Fire Flower X Saplant,Saplant X Stamina Fire Flower,20,0,0,30,0,0,-5,0
 Stamina Fire Flower X Nightshade,Nightshade X Stamina Fire Flower,20,0,0,30,-3,0,0,0
@@ -4482,7 +4482,7 @@ Stamina Pinwheel Flower X Tame Tiny Flower,Tame Tiny Flower X Stamina Pinwheel F
 Stamina Pinwheel Flower X Tame Sun Flower,Tame Sun Flower X Stamina Pinwheel Flower,50,0,0,65,1,0,2,0
 Stamina Pinwheel Flower X Tame Fire Flower,Tame Fire Flower X Stamina Pinwheel Flower,50,0,0,65,1,0,0,0
 Stamina Pinwheel Flower X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Pinwheel Flower,50,0,0,50,2,0,0,0
-Stamina Pinwheel Flower X Tame Fake Flower,Tame Fake Flower X Stamina Pinwheel Flower,20,0,0,95,-1,0,-2,-2
+Stamina Pinwheel Flower X Tame Flake Flower,Tame Flake Flower X Stamina Pinwheel Flower,20,0,0,95,-1,0,-2,-2
 Stamina Pinwheel Flower X Magic Mushroom,Magic Mushroom X Stamina Pinwheel Flower,130,0,0,20,1,0,0,0
 Stamina Pinwheel Flower X Snow Flobes,Snow Flobes X Stamina Pinwheel Flower,110,0,0,20,1,0,0,0
 Stamina Pinwheel Flower X Squish,Squish X Stamina Pinwheel Flower,90,0,0,20,1,0,0,0
@@ -4532,7 +4532,7 @@ Stamina Pinwheel Flower X Yarrow,Yarrow X Stamina Pinwheel Flower,50,0,30,20,1,0
 Stamina Pinwheel Flower X Spirit Bane,Spirit Bane X Stamina Pinwheel Flower,50,0,0,20,1,0,-5,5
 Stamina Pinwheel Flower X Prickly Plant,Prickly Plant X Stamina Pinwheel Flower,50,0,0,20,1,0,0,-4
 Stamina Pinwheel Flower X Erdenleaf,Erdenleaf X Stamina Pinwheel Flower,50,0,0,20,1,-2,0,0
-Stamina Pinwheel Flower X Fake Flower,Fake Flower X Stamina Pinwheel Flower,20,0,0,70,-1,0,-2,-2
+Stamina Pinwheel Flower X Flake Flower,Flake Flower X Stamina Pinwheel Flower,20,0,0,70,-1,0,-2,-2
 Stamina Pinwheel Flower X Spiky Plant,Spiky Plant X Stamina Pinwheel Flower,20,0,0,20,1,0,-3,0
 Stamina Pinwheel Flower X Saplant,Saplant X Stamina Pinwheel Flower,20,0,0,20,1,0,-5,0
 Stamina Pinwheel Flower X Nightshade,Nightshade X Stamina Pinwheel Flower,20,0,0,20,-2,0,0,0
@@ -4598,7 +4598,7 @@ Stamina Zaplant X Tame Tiny Flower,Tame Tiny Flower X Stamina Zaplant,50,50,0,45
 Stamina Zaplant X Tame Sun Flower,Tame Sun Flower X Stamina Zaplant,50,0,0,45,0,1,2,3
 Stamina Zaplant X Tame Fire Flower,Tame Fire Flower X Stamina Zaplant,50,0,0,45,0,1,0,3
 Stamina Zaplant X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Zaplant,50,0,0,30,1,1,0,3
-Stamina Zaplant X Tame Fake Flower,Tame Fake Flower X Stamina Zaplant,20,0,0,75,-2,1,-2,1
+Stamina Zaplant X Tame Flake Flower,Tame Flake Flower X Stamina Zaplant,20,0,0,75,-2,1,-2,1
 Stamina Zaplant X Magic Mushroom,Magic Mushroom X Stamina Zaplant,130,0,0,0,0,1,0,3
 Stamina Zaplant X Snow Flobes,Snow Flobes X Stamina Zaplant,110,0,0,0,0,1,0,3
 Stamina Zaplant X Squish,Squish X Stamina Zaplant,90,0,0,0,0,1,0,3
@@ -4648,7 +4648,7 @@ Stamina Zaplant X Yarrow,Yarrow X Stamina Zaplant,50,0,30,0,0,1,0,3
 Stamina Zaplant X Spirit Bane,Spirit Bane X Stamina Zaplant,50,0,0,0,0,1,-5,8
 Stamina Zaplant X Prickly Plant,Prickly Plant X Stamina Zaplant,50,0,0,0,0,1,0,-1
 Stamina Zaplant X Erdenleaf,Erdenleaf X Stamina Zaplant,50,0,0,0,0,-1,0,3
-Stamina Zaplant X Fake Flower,Fake Flower X Stamina Zaplant,20,0,0,50,-2,1,-2,1
+Stamina Zaplant X Flake Flower,Flake Flower X Stamina Zaplant,20,0,0,50,-2,1,-2,1
 Stamina Zaplant X Spiky Plant,Spiky Plant X Stamina Zaplant,20,0,0,0,0,1,-3,3
 Stamina Zaplant X Saplant,Saplant X Stamina Zaplant,20,0,0,0,0,1,-5,3
 Stamina Zaplant X Nightshade,Nightshade X Stamina Zaplant,20,0,0,0,-3,1,0,3
@@ -4713,7 +4713,7 @@ Stamina Wingfruit X Tame Tiny Flower,Tame Tiny Flower X Stamina Wingfruit,50,50,
 Stamina Wingfruit X Tame Sun Flower,Tame Sun Flower X Stamina Wingfruit,50,0,0,45,-8,0,2,8
 Stamina Wingfruit X Tame Fire Flower,Tame Fire Flower X Stamina Wingfruit,50,0,0,45,-8,0,0,8
 Stamina Wingfruit X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Wingfruit,50,0,0,30,-7,0,0,8
-Stamina Wingfruit X Tame Fake Flower,Tame Fake Flower X Stamina Wingfruit,20,0,0,75,-10,0,-2,6
+Stamina Wingfruit X Tame Flake Flower,Tame Flake Flower X Stamina Wingfruit,20,0,0,75,-10,0,-2,6
 Stamina Wingfruit X Magic Mushroom,Magic Mushroom X Stamina Wingfruit,130,0,0,0,-8,0,0,8
 Stamina Wingfruit X Snow Flobes,Snow Flobes X Stamina Wingfruit,110,0,0,0,-8,0,0,8
 Stamina Wingfruit X Squish,Squish X Stamina Wingfruit,90,0,0,0,-8,0,0,8
@@ -4763,7 +4763,7 @@ Stamina Wingfruit X Yarrow,Yarrow X Stamina Wingfruit,50,0,30,0,-8,0,0,8
 Stamina Wingfruit X Spirit Bane,Spirit Bane X Stamina Wingfruit,50,0,0,0,-8,0,-5,13
 Stamina Wingfruit X Prickly Plant,Prickly Plant X Stamina Wingfruit,50,0,0,0,-8,0,0,4
 Stamina Wingfruit X Erdenleaf,Erdenleaf X Stamina Wingfruit,50,0,0,0,-8,-2,0,8
-Stamina Wingfruit X Fake Flower,Fake Flower X Stamina Wingfruit,20,0,0,50,-10,0,-2,6
+Stamina Wingfruit X Flake Flower,Flake Flower X Stamina Wingfruit,20,0,0,50,-10,0,-2,6
 Stamina Wingfruit X Spiky Plant,Spiky Plant X Stamina Wingfruit,20,0,0,0,-8,0,-3,8
 Stamina Wingfruit X Saplant,Saplant X Stamina Wingfruit,20,0,0,0,-8,0,-5,8
 Stamina Wingfruit X Nightshade,Nightshade X Stamina Wingfruit,20,0,0,0,-11,0,0,8
@@ -4827,7 +4827,7 @@ Stamina Lilypad X Tame Tiny Flower,Tame Tiny Flower X Stamina Lilypad,50,50,15,4
 Stamina Lilypad X Tame Sun Flower,Tame Sun Flower X Stamina Lilypad,50,0,15,45,0,0,2,0
 Stamina Lilypad X Tame Fire Flower,Tame Fire Flower X Stamina Lilypad,50,0,15,45,0,0,0,0
 Stamina Lilypad X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Lilypad,50,0,15,30,1,0,0,0
-Stamina Lilypad X Tame Fake Flower,Tame Fake Flower X Stamina Lilypad,20,0,15,75,-2,0,-2,-2
+Stamina Lilypad X Tame Flake Flower,Tame Flake Flower X Stamina Lilypad,20,0,15,75,-2,0,-2,-2
 Stamina Lilypad X Magic Mushroom,Magic Mushroom X Stamina Lilypad,130,0,15,0,0,0,0,0
 Stamina Lilypad X Snow Flobes,Snow Flobes X Stamina Lilypad,110,0,15,0,0,0,0,0
 Stamina Lilypad X Squish,Squish X Stamina Lilypad,90,0,15,0,0,0,0,0
@@ -4877,7 +4877,7 @@ Stamina Lilypad X Yarrow,Yarrow X Stamina Lilypad,50,0,45,0,0,0,0,0
 Stamina Lilypad X Spirit Bane,Spirit Bane X Stamina Lilypad,50,0,15,0,0,0,-5,5
 Stamina Lilypad X Prickly Plant,Prickly Plant X Stamina Lilypad,50,0,15,0,0,0,0,-4
 Stamina Lilypad X Erdenleaf,Erdenleaf X Stamina Lilypad,50,0,15,0,0,-2,0,0
-Stamina Lilypad X Fake Flower,Fake Flower X Stamina Lilypad,20,0,15,50,-2,0,-2,-2
+Stamina Lilypad X Flake Flower,Flake Flower X Stamina Lilypad,20,0,15,50,-2,0,-2,-2
 Stamina Lilypad X Spiky Plant,Spiky Plant X Stamina Lilypad,20,0,15,0,0,0,-3,0
 Stamina Lilypad X Saplant,Saplant X Stamina Lilypad,20,0,15,0,0,0,-5,0
 Stamina Lilypad X Nightshade,Nightshade X Stamina Lilypad,20,0,15,0,-3,0,0,0
@@ -4940,7 +4940,7 @@ Stamina CatTail X Tame Tiny Flower,Tame Tiny Flower X Stamina CatTail,50,50,0,45
 Stamina CatTail X Tame Sun Flower,Tame Sun Flower X Stamina CatTail,50,0,0,45,0,0,5,0
 Stamina CatTail X Tame Fire Flower,Tame Fire Flower X Stamina CatTail,50,0,0,45,0,0,3,0
 Stamina CatTail X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina CatTail,50,0,0,30,1,0,3,0
-Stamina CatTail X Tame Fake Flower,Tame Fake Flower X Stamina CatTail,20,0,0,75,-2,0,1,-2
+Stamina CatTail X Tame Flake Flower,Tame Flake Flower X Stamina CatTail,20,0,0,75,-2,0,1,-2
 Stamina CatTail X Magic Mushroom,Magic Mushroom X Stamina CatTail,130,0,0,0,0,0,3,0
 Stamina CatTail X Snow Flobes,Snow Flobes X Stamina CatTail,110,0,0,0,0,0,3,0
 Stamina CatTail X Squish,Squish X Stamina CatTail,90,0,0,0,0,0,3,0
@@ -4990,7 +4990,7 @@ Stamina CatTail X Yarrow,Yarrow X Stamina CatTail,50,0,30,0,0,0,3,0
 Stamina CatTail X Spirit Bane,Spirit Bane X Stamina CatTail,50,0,0,0,0,0,-2,5
 Stamina CatTail X Prickly Plant,Prickly Plant X Stamina CatTail,50,0,0,0,0,0,3,-4
 Stamina CatTail X Erdenleaf,Erdenleaf X Stamina CatTail,50,0,0,0,0,-2,3,0
-Stamina CatTail X Fake Flower,Fake Flower X Stamina CatTail,20,0,0,50,-2,0,1,-2
+Stamina CatTail X Flake Flower,Flake Flower X Stamina CatTail,20,0,0,50,-2,0,1,-2
 Stamina CatTail X Spiky Plant,Spiky Plant X Stamina CatTail,20,0,0,0,0,0,0,0
 Stamina CatTail X Saplant,Saplant X Stamina CatTail,20,0,0,0,0,0,-2,0
 Stamina CatTail X Nightshade,Nightshade X Stamina CatTail,20,0,0,0,-3,0,3,0
@@ -5052,7 +5052,7 @@ Stamina Umbrellashroom X Tame Tiny Flower,Tame Tiny Flower X Stamina Umbrellashr
 Stamina Umbrellashroom X Tame Sun Flower,Tame Sun Flower X Stamina Umbrellashroom,50,0,0,45,-1,0,2,2
 Stamina Umbrellashroom X Tame Fire Flower,Tame Fire Flower X Stamina Umbrellashroom,50,0,0,45,-1,0,0,2
 Stamina Umbrellashroom X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Umbrellashroom,50,0,0,30,0,0,0,2
-Stamina Umbrellashroom X Tame Fake Flower,Tame Fake Flower X Stamina Umbrellashroom,20,0,0,75,-3,0,-2,0
+Stamina Umbrellashroom X Tame Flake Flower,Tame Flake Flower X Stamina Umbrellashroom,20,0,0,75,-3,0,-2,0
 Stamina Umbrellashroom X Magic Mushroom,Magic Mushroom X Stamina Umbrellashroom,130,0,0,0,-1,0,0,2
 Stamina Umbrellashroom X Snow Flobes,Snow Flobes X Stamina Umbrellashroom,110,0,0,0,-1,0,0,2
 Stamina Umbrellashroom X Squish,Squish X Stamina Umbrellashroom,90,0,0,0,-1,0,0,2
@@ -5102,7 +5102,7 @@ Stamina Umbrellashroom X Yarrow,Yarrow X Stamina Umbrellashroom,50,0,30,0,-1,0,0
 Stamina Umbrellashroom X Spirit Bane,Spirit Bane X Stamina Umbrellashroom,50,0,0,0,-1,0,-5,7
 Stamina Umbrellashroom X Prickly Plant,Prickly Plant X Stamina Umbrellashroom,50,0,0,0,-1,0,0,-2
 Stamina Umbrellashroom X Erdenleaf,Erdenleaf X Stamina Umbrellashroom,50,0,0,0,-1,-2,0,2
-Stamina Umbrellashroom X Fake Flower,Fake Flower X Stamina Umbrellashroom,20,0,0,50,-3,0,-2,0
+Stamina Umbrellashroom X Flake Flower,Flake Flower X Stamina Umbrellashroom,20,0,0,50,-3,0,-2,0
 Stamina Umbrellashroom X Spiky Plant,Spiky Plant X Stamina Umbrellashroom,20,0,0,0,-1,0,-3,2
 Stamina Umbrellashroom X Saplant,Saplant X Stamina Umbrellashroom,20,0,0,0,-1,0,-5,2
 Stamina Umbrellashroom X Nightshade,Nightshade X Stamina Umbrellashroom,20,0,0,0,-4,0,0,2
@@ -5163,7 +5163,7 @@ Stamina Mossball X Tame Tiny Flower,Tame Tiny Flower X Stamina Mossball,50,50,10
 Stamina Mossball X Tame Sun Flower,Tame Sun Flower X Stamina Mossball,50,0,10,45,0,0,3,1
 Stamina Mossball X Tame Fire Flower,Tame Fire Flower X Stamina Mossball,50,0,10,45,0,0,1,1
 Stamina Mossball X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Mossball,50,0,10,30,1,0,1,1
-Stamina Mossball X Tame Fake Flower,Tame Fake Flower X Stamina Mossball,20,0,10,75,-2,0,-1,-1
+Stamina Mossball X Tame Flake Flower,Tame Flake Flower X Stamina Mossball,20,0,10,75,-2,0,-1,-1
 Stamina Mossball X Magic Mushroom,Magic Mushroom X Stamina Mossball,130,0,10,0,0,0,1,1
 Stamina Mossball X Snow Flobes,Snow Flobes X Stamina Mossball,110,0,10,0,0,0,1,1
 Stamina Mossball X Squish,Squish X Stamina Mossball,90,0,10,0,0,0,1,1
@@ -5213,7 +5213,7 @@ Stamina Mossball X Yarrow,Yarrow X Stamina Mossball,50,0,40,0,0,0,1,1
 Stamina Mossball X Spirit Bane,Spirit Bane X Stamina Mossball,50,0,10,0,0,0,-4,6
 Stamina Mossball X Prickly Plant,Prickly Plant X Stamina Mossball,50,0,10,0,0,0,1,-3
 Stamina Mossball X Erdenleaf,Erdenleaf X Stamina Mossball,50,0,10,0,0,-2,1,1
-Stamina Mossball X Fake Flower,Fake Flower X Stamina Mossball,20,0,10,50,-2,0,-1,-1
+Stamina Mossball X Flake Flower,Flake Flower X Stamina Mossball,20,0,10,50,-2,0,-1,-1
 Stamina Mossball X Spiky Plant,Spiky Plant X Stamina Mossball,20,0,10,0,0,0,-2,1
 Stamina Mossball X Saplant,Saplant X Stamina Mossball,20,0,10,0,0,0,-4,1
 Stamina Mossball X Nightshade,Nightshade X Stamina Mossball,20,0,10,0,-3,0,1,1
@@ -5273,7 +5273,7 @@ Stamina Popsiplant X Tame Tiny Flower,Tame Tiny Flower X Stamina Popsiplant,50,5
 Stamina Popsiplant X Tame Sun Flower,Tame Sun Flower X Stamina Popsiplant,50,0,0,45,1,0,4,0
 Stamina Popsiplant X Tame Fire Flower,Tame Fire Flower X Stamina Popsiplant,50,0,0,45,1,0,2,0
 Stamina Popsiplant X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Popsiplant,50,0,0,30,2,0,2,0
-Stamina Popsiplant X Tame Fake Flower,Tame Fake Flower X Stamina Popsiplant,20,0,0,75,-1,0,0,-2
+Stamina Popsiplant X Tame Flake Flower,Tame Flake Flower X Stamina Popsiplant,20,0,0,75,-1,0,0,-2
 Stamina Popsiplant X Magic Mushroom,Magic Mushroom X Stamina Popsiplant,130,0,0,0,1,0,2,0
 Stamina Popsiplant X Snow Flobes,Snow Flobes X Stamina Popsiplant,110,0,0,0,1,0,2,0
 Stamina Popsiplant X Squish,Squish X Stamina Popsiplant,90,0,0,0,1,0,2,0
@@ -5323,7 +5323,7 @@ Stamina Popsiplant X Yarrow,Yarrow X Stamina Popsiplant,50,0,30,0,1,0,2,0
 Stamina Popsiplant X Spirit Bane,Spirit Bane X Stamina Popsiplant,50,0,0,0,1,0,-3,5
 Stamina Popsiplant X Prickly Plant,Prickly Plant X Stamina Popsiplant,50,0,0,0,1,0,2,-4
 Stamina Popsiplant X Erdenleaf,Erdenleaf X Stamina Popsiplant,50,0,0,0,1,-2,2,0
-Stamina Popsiplant X Fake Flower,Fake Flower X Stamina Popsiplant,20,0,0,50,-1,0,0,-2
+Stamina Popsiplant X Flake Flower,Flake Flower X Stamina Popsiplant,20,0,0,50,-1,0,0,-2
 Stamina Popsiplant X Spiky Plant,Spiky Plant X Stamina Popsiplant,20,0,0,0,1,0,-1,0
 Stamina Popsiplant X Saplant,Saplant X Stamina Popsiplant,20,0,0,0,1,0,-3,0
 Stamina Popsiplant X Nightshade,Nightshade X Stamina Popsiplant,20,0,0,0,-2,0,2,0
@@ -5382,7 +5382,7 @@ Stamina Hot Air Fruit X Tame Tiny Flower,Tame Tiny Flower X Stamina Hot Air Frui
 Stamina Hot Air Fruit X Tame Sun Flower,Tame Sun Flower X Stamina Hot Air Fruit,50,50,20,45,0,0,2,0
 Stamina Hot Air Fruit X Tame Fire Flower,Tame Fire Flower X Stamina Hot Air Fruit,50,50,20,45,0,0,0,0
 Stamina Hot Air Fruit X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Hot Air Fruit,50,50,20,30,1,0,0,0
-Stamina Hot Air Fruit X Tame Fake Flower,Tame Fake Flower X Stamina Hot Air Fruit,20,50,20,75,-2,0,-2,-2
+Stamina Hot Air Fruit X Tame Flake Flower,Tame Flake Flower X Stamina Hot Air Fruit,20,50,20,75,-2,0,-2,-2
 Stamina Hot Air Fruit X Magic Mushroom,Magic Mushroom X Stamina Hot Air Fruit,130,50,20,0,0,0,0,0
 Stamina Hot Air Fruit X Snow Flobes,Snow Flobes X Stamina Hot Air Fruit,110,50,20,0,0,0,0,0
 Stamina Hot Air Fruit X Squish,Squish X Stamina Hot Air Fruit,90,50,20,0,0,0,0,0
@@ -5432,7 +5432,7 @@ Stamina Hot Air Fruit X Yarrow,Yarrow X Stamina Hot Air Fruit,50,50,50,0,0,0,0,0
 Stamina Hot Air Fruit X Spirit Bane,Spirit Bane X Stamina Hot Air Fruit,50,50,20,0,0,0,-5,5
 Stamina Hot Air Fruit X Prickly Plant,Prickly Plant X Stamina Hot Air Fruit,50,50,20,0,0,0,0,-4
 Stamina Hot Air Fruit X Erdenleaf,Erdenleaf X Stamina Hot Air Fruit,50,50,20,0,0,-2,0,0
-Stamina Hot Air Fruit X Fake Flower,Fake Flower X Stamina Hot Air Fruit,20,50,20,50,-2,0,-2,-2
+Stamina Hot Air Fruit X Flake Flower,Flake Flower X Stamina Hot Air Fruit,20,50,20,50,-2,0,-2,-2
 Stamina Hot Air Fruit X Spiky Plant,Spiky Plant X Stamina Hot Air Fruit,20,50,20,0,0,0,-3,0
 Stamina Hot Air Fruit X Saplant,Saplant X Stamina Hot Air Fruit,20,50,20,0,0,0,-5,0
 Stamina Hot Air Fruit X Nightshade,Nightshade X Stamina Hot Air Fruit,20,50,20,0,-3,0,0,0
@@ -5490,7 +5490,7 @@ Stamina Bolt X Tame Tiny Flower,Tame Tiny Flower X Stamina Bolt,50,50,0,45,0,0,5
 Stamina Bolt X Tame Sun Flower,Tame Sun Flower X Stamina Bolt,50,0,0,45,0,0,7,0
 Stamina Bolt X Tame Fire Flower,Tame Fire Flower X Stamina Bolt,50,0,0,45,0,0,5,0
 Stamina Bolt X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Bolt,50,0,0,30,1,0,5,0
-Stamina Bolt X Tame Fake Flower,Tame Fake Flower X Stamina Bolt,20,0,0,75,-2,0,3,-2
+Stamina Bolt X Tame Flake Flower,Tame Flake Flower X Stamina Bolt,20,0,0,75,-2,0,3,-2
 Stamina Bolt X Magic Mushroom,Magic Mushroom X Stamina Bolt,130,0,0,0,0,0,5,0
 Stamina Bolt X Snow Flobes,Snow Flobes X Stamina Bolt,110,0,0,0,0,0,5,0
 Stamina Bolt X Squish,Squish X Stamina Bolt,90,0,0,0,0,0,5,0
@@ -5540,7 +5540,7 @@ Stamina Bolt X Yarrow,Yarrow X Stamina Bolt,50,0,30,0,0,0,5,0
 Stamina Bolt X Spirit Bane,Spirit Bane X Stamina Bolt,50,0,0,0,0,0,0,5
 Stamina Bolt X Prickly Plant,Prickly Plant X Stamina Bolt,50,0,0,0,0,0,5,-4
 Stamina Bolt X Erdenleaf,Erdenleaf X Stamina Bolt,50,0,0,0,0,-2,5,0
-Stamina Bolt X Fake Flower,Fake Flower X Stamina Bolt,20,0,0,50,-2,0,3,-2
+Stamina Bolt X Flake Flower,Flake Flower X Stamina Bolt,20,0,0,50,-2,0,3,-2
 Stamina Bolt X Spiky Plant,Spiky Plant X Stamina Bolt,20,0,0,0,0,0,2,0
 Stamina Bolt X Saplant,Saplant X Stamina Bolt,20,0,0,0,0,0,0,0
 Stamina Bolt X Nightshade,Nightshade X Stamina Bolt,20,0,0,0,-3,0,5,0
@@ -5597,7 +5597,7 @@ Stamina Flameroot X Tame Tiny Flower,Tame Tiny Flower X Stamina Flameroot,50,50,
 Stamina Flameroot X Tame Sun Flower,Tame Sun Flower X Stamina Flameroot,50,0,0,45,0,0,6,0
 Stamina Flameroot X Tame Fire Flower,Tame Fire Flower X Stamina Flameroot,50,0,0,45,0,0,4,0
 Stamina Flameroot X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Flameroot,50,0,0,30,1,0,4,0
-Stamina Flameroot X Tame Fake Flower,Tame Fake Flower X Stamina Flameroot,20,0,0,75,-2,0,2,-2
+Stamina Flameroot X Tame Flake Flower,Tame Flake Flower X Stamina Flameroot,20,0,0,75,-2,0,2,-2
 Stamina Flameroot X Magic Mushroom,Magic Mushroom X Stamina Flameroot,130,0,0,0,0,0,4,0
 Stamina Flameroot X Snow Flobes,Snow Flobes X Stamina Flameroot,110,0,0,0,0,0,4,0
 Stamina Flameroot X Squish,Squish X Stamina Flameroot,90,0,0,0,0,0,4,0
@@ -5647,7 +5647,7 @@ Stamina Flameroot X Yarrow,Yarrow X Stamina Flameroot,50,0,30,0,0,0,4,0
 Stamina Flameroot X Spirit Bane,Spirit Bane X Stamina Flameroot,50,0,0,0,0,0,-1,5
 Stamina Flameroot X Prickly Plant,Prickly Plant X Stamina Flameroot,50,0,0,0,0,0,4,-4
 Stamina Flameroot X Erdenleaf,Erdenleaf X Stamina Flameroot,50,0,0,0,0,-2,4,0
-Stamina Flameroot X Fake Flower,Fake Flower X Stamina Flameroot,20,0,0,50,-2,0,2,-2
+Stamina Flameroot X Flake Flower,Flake Flower X Stamina Flameroot,20,0,0,50,-2,0,2,-2
 Stamina Flameroot X Spiky Plant,Spiky Plant X Stamina Flameroot,20,0,0,0,0,0,1,0
 Stamina Flameroot X Saplant,Saplant X Stamina Flameroot,20,0,0,0,0,0,-1,0
 Stamina Flameroot X Nightshade,Nightshade X Stamina Flameroot,20,0,0,0,-3,0,4,0
@@ -5703,7 +5703,7 @@ Stamina Bloodroot X Tame Tiny Flower,Tame Tiny Flower X Stamina Bloodroot,50,50,
 Stamina Bloodroot X Tame Sun Flower,Tame Sun Flower X Stamina Bloodroot,50,0,0,45,5,0,-3,0
 Stamina Bloodroot X Tame Fire Flower,Tame Fire Flower X Stamina Bloodroot,50,0,0,45,5,0,-5,0
 Stamina Bloodroot X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Bloodroot,50,0,0,30,6,0,-5,0
-Stamina Bloodroot X Tame Fake Flower,Tame Fake Flower X Stamina Bloodroot,20,0,0,75,3,0,-7,-2
+Stamina Bloodroot X Tame Flake Flower,Tame Flake Flower X Stamina Bloodroot,20,0,0,75,3,0,-7,-2
 Stamina Bloodroot X Magic Mushroom,Magic Mushroom X Stamina Bloodroot,130,0,0,0,5,0,-5,0
 Stamina Bloodroot X Snow Flobes,Snow Flobes X Stamina Bloodroot,110,0,0,0,5,0,-5,0
 Stamina Bloodroot X Squish,Squish X Stamina Bloodroot,90,0,0,0,5,0,-5,0
@@ -5753,7 +5753,7 @@ Stamina Bloodroot X Yarrow,Yarrow X Stamina Bloodroot,50,0,30,0,5,0,-5,0
 Stamina Bloodroot X Spirit Bane,Spirit Bane X Stamina Bloodroot,50,0,0,0,5,0,-10,5
 Stamina Bloodroot X Prickly Plant,Prickly Plant X Stamina Bloodroot,50,0,0,0,5,0,-5,-4
 Stamina Bloodroot X Erdenleaf,Erdenleaf X Stamina Bloodroot,50,0,0,0,5,-2,-5,0
-Stamina Bloodroot X Fake Flower,Fake Flower X Stamina Bloodroot,20,0,0,50,3,0,-7,-2
+Stamina Bloodroot X Flake Flower,Flake Flower X Stamina Bloodroot,20,0,0,50,3,0,-7,-2
 Stamina Bloodroot X Spiky Plant,Spiky Plant X Stamina Bloodroot,20,0,0,0,5,0,-8,0
 Stamina Bloodroot X Saplant,Saplant X Stamina Bloodroot,20,0,0,0,5,0,-10,0
 Stamina Bloodroot X Nightshade,Nightshade X Stamina Bloodroot,20,0,0,0,2,0,-5,0
@@ -5808,7 +5808,7 @@ Stamina Eyeberry X Tame Tiny Flower,Tame Tiny Flower X Stamina Eyeberry,50,150,0
 Stamina Eyeberry X Tame Sun Flower,Tame Sun Flower X Stamina Eyeberry,50,100,0,45,0,0,2,0
 Stamina Eyeberry X Tame Fire Flower,Tame Fire Flower X Stamina Eyeberry,50,100,0,45,0,0,0,0
 Stamina Eyeberry X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Eyeberry,50,100,0,30,1,0,0,0
-Stamina Eyeberry X Tame Fake Flower,Tame Fake Flower X Stamina Eyeberry,20,100,0,75,-2,0,-2,-2
+Stamina Eyeberry X Tame Flake Flower,Tame Flake Flower X Stamina Eyeberry,20,100,0,75,-2,0,-2,-2
 Stamina Eyeberry X Magic Mushroom,Magic Mushroom X Stamina Eyeberry,130,100,0,0,0,0,0,0
 Stamina Eyeberry X Snow Flobes,Snow Flobes X Stamina Eyeberry,110,100,0,0,0,0,0,0
 Stamina Eyeberry X Squish,Squish X Stamina Eyeberry,90,100,0,0,0,0,0,0
@@ -5858,7 +5858,7 @@ Stamina Eyeberry X Yarrow,Yarrow X Stamina Eyeberry,50,100,30,0,0,0,0,0
 Stamina Eyeberry X Spirit Bane,Spirit Bane X Stamina Eyeberry,50,100,0,0,0,0,-5,5
 Stamina Eyeberry X Prickly Plant,Prickly Plant X Stamina Eyeberry,50,100,0,0,0,0,0,-4
 Stamina Eyeberry X Erdenleaf,Erdenleaf X Stamina Eyeberry,50,100,0,0,0,-2,0,0
-Stamina Eyeberry X Fake Flower,Fake Flower X Stamina Eyeberry,20,100,0,50,-2,0,-2,-2
+Stamina Eyeberry X Flake Flower,Flake Flower X Stamina Eyeberry,20,100,0,50,-2,0,-2,-2
 Stamina Eyeberry X Spiky Plant,Spiky Plant X Stamina Eyeberry,20,100,0,0,0,0,-3,0
 Stamina Eyeberry X Saplant,Saplant X Stamina Eyeberry,20,100,0,0,0,0,-5,0
 Stamina Eyeberry X Nightshade,Nightshade X Stamina Eyeberry,20,100,0,0,-3,0,0,0
@@ -5912,7 +5912,7 @@ Stamina Nimbus Plant X Tame Tiny Flower,Tame Tiny Flower X Stamina Nimbus Plant,
 Stamina Nimbus Plant X Tame Sun Flower,Tame Sun Flower X Stamina Nimbus Plant,50,0,0,45,0,0,2,3
 Stamina Nimbus Plant X Tame Fire Flower,Tame Fire Flower X Stamina Nimbus Plant,50,0,0,45,0,0,0,3
 Stamina Nimbus Plant X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Nimbus Plant,50,0,0,30,1,0,0,3
-Stamina Nimbus Plant X Tame Fake Flower,Tame Fake Flower X Stamina Nimbus Plant,20,0,0,75,-2,0,-2,1
+Stamina Nimbus Plant X Tame Flake Flower,Tame Flake Flower X Stamina Nimbus Plant,20,0,0,75,-2,0,-2,1
 Stamina Nimbus Plant X Magic Mushroom,Magic Mushroom X Stamina Nimbus Plant,130,0,0,0,0,0,0,3
 Stamina Nimbus Plant X Snow Flobes,Snow Flobes X Stamina Nimbus Plant,110,0,0,0,0,0,0,3
 Stamina Nimbus Plant X Squish,Squish X Stamina Nimbus Plant,90,0,0,0,0,0,0,3
@@ -5962,7 +5962,7 @@ Stamina Nimbus Plant X Yarrow,Yarrow X Stamina Nimbus Plant,50,0,30,0,0,0,0,3
 Stamina Nimbus Plant X Spirit Bane,Spirit Bane X Stamina Nimbus Plant,50,0,0,0,0,0,-5,8
 Stamina Nimbus Plant X Prickly Plant,Prickly Plant X Stamina Nimbus Plant,50,0,0,0,0,0,0,-1
 Stamina Nimbus Plant X Erdenleaf,Erdenleaf X Stamina Nimbus Plant,50,0,0,0,0,-2,0,3
-Stamina Nimbus Plant X Fake Flower,Fake Flower X Stamina Nimbus Plant,20,0,0,50,-2,0,-2,1
+Stamina Nimbus Plant X Flake Flower,Flake Flower X Stamina Nimbus Plant,20,0,0,50,-2,0,-2,1
 Stamina Nimbus Plant X Spiky Plant,Spiky Plant X Stamina Nimbus Plant,20,0,0,0,0,0,-3,3
 Stamina Nimbus Plant X Saplant,Saplant X Stamina Nimbus Plant,20,0,0,0,0,0,-5,3
 Stamina Nimbus Plant X Nightshade,Nightshade X Stamina Nimbus Plant,20,0,0,0,-3,0,0,3
@@ -6015,7 +6015,7 @@ Stamina Hot Pepper X Tame Tiny Flower,Tame Tiny Flower X Stamina Hot Pepper,50,5
 Stamina Hot Pepper X Tame Sun Flower,Tame Sun Flower X Stamina Hot Pepper,50,0,0,45,3,0,2,0
 Stamina Hot Pepper X Tame Fire Flower,Tame Fire Flower X Stamina Hot Pepper,50,0,0,45,3,0,0,0
 Stamina Hot Pepper X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Hot Pepper,50,0,0,30,4,0,0,0
-Stamina Hot Pepper X Tame Fake Flower,Tame Fake Flower X Stamina Hot Pepper,20,0,0,75,1,0,-2,-2
+Stamina Hot Pepper X Tame Flake Flower,Tame Flake Flower X Stamina Hot Pepper,20,0,0,75,1,0,-2,-2
 Stamina Hot Pepper X Magic Mushroom,Magic Mushroom X Stamina Hot Pepper,130,0,0,0,3,0,0,0
 Stamina Hot Pepper X Snow Flobes,Snow Flobes X Stamina Hot Pepper,110,0,0,0,3,0,0,0
 Stamina Hot Pepper X Squish,Squish X Stamina Hot Pepper,90,0,0,0,3,0,0,0
@@ -6065,7 +6065,7 @@ Stamina Hot Pepper X Yarrow,Yarrow X Stamina Hot Pepper,50,0,30,0,3,0,0,0
 Stamina Hot Pepper X Spirit Bane,Spirit Bane X Stamina Hot Pepper,50,0,0,0,3,0,-5,5
 Stamina Hot Pepper X Prickly Plant,Prickly Plant X Stamina Hot Pepper,50,0,0,0,3,0,0,-4
 Stamina Hot Pepper X Erdenleaf,Erdenleaf X Stamina Hot Pepper,50,0,0,0,3,-2,0,0
-Stamina Hot Pepper X Fake Flower,Fake Flower X Stamina Hot Pepper,20,0,0,50,1,0,-2,-2
+Stamina Hot Pepper X Flake Flower,Flake Flower X Stamina Hot Pepper,20,0,0,50,1,0,-2,-2
 Stamina Hot Pepper X Spiky Plant,Spiky Plant X Stamina Hot Pepper,20,0,0,0,3,0,-3,0
 Stamina Hot Pepper X Saplant,Saplant X Stamina Hot Pepper,20,0,0,0,3,0,-5,0
 Stamina Hot Pepper X Nightshade,Nightshade X Stamina Hot Pepper,20,0,0,0,0,0,0,0
@@ -6117,7 +6117,7 @@ Stamina Yarrow X Tame Tiny Flower,Tame Tiny Flower X Stamina Yarrow,50,50,30,45,
 Stamina Yarrow X Tame Sun Flower,Tame Sun Flower X Stamina Yarrow,50,0,30,45,0,0,2,0
 Stamina Yarrow X Tame Fire Flower,Tame Fire Flower X Stamina Yarrow,50,0,30,45,0,0,0,0
 Stamina Yarrow X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Yarrow,50,0,30,30,1,0,0,0
-Stamina Yarrow X Tame Fake Flower,Tame Fake Flower X Stamina Yarrow,20,0,30,75,-2,0,-2,-2
+Stamina Yarrow X Tame Flake Flower,Tame Flake Flower X Stamina Yarrow,20,0,30,75,-2,0,-2,-2
 Stamina Yarrow X Magic Mushroom,Magic Mushroom X Stamina Yarrow,130,0,30,0,0,0,0,0
 Stamina Yarrow X Snow Flobes,Snow Flobes X Stamina Yarrow,110,0,30,0,0,0,0,0
 Stamina Yarrow X Squish,Squish X Stamina Yarrow,90,0,30,0,0,0,0,0
@@ -6167,7 +6167,7 @@ Stamina Yarrow X Yarrow,Yarrow X Stamina Yarrow,50,0,60,0,0,0,0,0
 Stamina Yarrow X Spirit Bane,Spirit Bane X Stamina Yarrow,50,0,30,0,0,0,-5,5
 Stamina Yarrow X Prickly Plant,Prickly Plant X Stamina Yarrow,50,0,30,0,0,0,0,-4
 Stamina Yarrow X Erdenleaf,Erdenleaf X Stamina Yarrow,50,0,30,0,0,-2,0,0
-Stamina Yarrow X Fake Flower,Fake Flower X Stamina Yarrow,20,0,30,50,-2,0,-2,-2
+Stamina Yarrow X Flake Flower,Flake Flower X Stamina Yarrow,20,0,30,50,-2,0,-2,-2
 Stamina Yarrow X Spiky Plant,Spiky Plant X Stamina Yarrow,20,0,30,0,0,0,-3,0
 Stamina Yarrow X Saplant,Saplant X Stamina Yarrow,20,0,30,0,0,0,-5,0
 Stamina Yarrow X Nightshade,Nightshade X Stamina Yarrow,20,0,30,0,-3,0,0,0
@@ -6218,7 +6218,7 @@ Stamina Spirit Bane X Tame Tiny Flower,Tame Tiny Flower X Stamina Spirit Bane,50
 Stamina Spirit Bane X Tame Sun Flower,Tame Sun Flower X Stamina Spirit Bane,50,0,0,45,0,0,-3,5
 Stamina Spirit Bane X Tame Fire Flower,Tame Fire Flower X Stamina Spirit Bane,50,0,0,45,0,0,-5,5
 Stamina Spirit Bane X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Spirit Bane,50,0,0,30,1,0,-5,5
-Stamina Spirit Bane X Tame Fake Flower,Tame Fake Flower X Stamina Spirit Bane,20,0,0,75,-2,0,-7,3
+Stamina Spirit Bane X Tame Flake Flower,Tame Flake Flower X Stamina Spirit Bane,20,0,0,75,-2,0,-7,3
 Stamina Spirit Bane X Magic Mushroom,Magic Mushroom X Stamina Spirit Bane,130,0,0,0,0,0,-5,5
 Stamina Spirit Bane X Snow Flobes,Snow Flobes X Stamina Spirit Bane,110,0,0,0,0,0,-5,5
 Stamina Spirit Bane X Squish,Squish X Stamina Spirit Bane,90,0,0,0,0,0,-5,5
@@ -6268,7 +6268,7 @@ Stamina Spirit Bane X Yarrow,Yarrow X Stamina Spirit Bane,50,0,30,0,0,0,-5,5
 Stamina Spirit Bane X Spirit Bane,Spirit Bane X Stamina Spirit Bane,50,0,0,0,0,0,-10,10
 Stamina Spirit Bane X Prickly Plant,Prickly Plant X Stamina Spirit Bane,50,0,0,0,0,0,-5,1
 Stamina Spirit Bane X Erdenleaf,Erdenleaf X Stamina Spirit Bane,50,0,0,0,0,-2,-5,5
-Stamina Spirit Bane X Fake Flower,Fake Flower X Stamina Spirit Bane,20,0,0,50,-2,0,-7,3
+Stamina Spirit Bane X Flake Flower,Flake Flower X Stamina Spirit Bane,20,0,0,50,-2,0,-7,3
 Stamina Spirit Bane X Spiky Plant,Spiky Plant X Stamina Spirit Bane,20,0,0,0,0,0,-8,5
 Stamina Spirit Bane X Saplant,Saplant X Stamina Spirit Bane,20,0,0,0,0,0,-10,5
 Stamina Spirit Bane X Nightshade,Nightshade X Stamina Spirit Bane,20,0,0,0,-3,0,-5,5
@@ -6318,7 +6318,7 @@ Stamina Prickly Plant X Tame Tiny Flower,Tame Tiny Flower X Stamina Prickly Plan
 Stamina Prickly Plant X Tame Sun Flower,Tame Sun Flower X Stamina Prickly Plant,50,0,0,45,0,0,2,-4
 Stamina Prickly Plant X Tame Fire Flower,Tame Fire Flower X Stamina Prickly Plant,50,0,0,45,0,0,0,-4
 Stamina Prickly Plant X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Prickly Plant,50,0,0,30,1,0,0,-4
-Stamina Prickly Plant X Tame Fake Flower,Tame Fake Flower X Stamina Prickly Plant,20,0,0,75,-2,0,-2,-6
+Stamina Prickly Plant X Tame Flake Flower,Tame Flake Flower X Stamina Prickly Plant,20,0,0,75,-2,0,-2,-6
 Stamina Prickly Plant X Magic Mushroom,Magic Mushroom X Stamina Prickly Plant,130,0,0,0,0,0,0,-4
 Stamina Prickly Plant X Snow Flobes,Snow Flobes X Stamina Prickly Plant,110,0,0,0,0,0,0,-4
 Stamina Prickly Plant X Squish,Squish X Stamina Prickly Plant,90,0,0,0,0,0,0,-4
@@ -6368,7 +6368,7 @@ Stamina Prickly Plant X Yarrow,Yarrow X Stamina Prickly Plant,50,0,30,0,0,0,0,-4
 Stamina Prickly Plant X Spirit Bane,Spirit Bane X Stamina Prickly Plant,50,0,0,0,0,0,-5,1
 Stamina Prickly Plant X Prickly Plant,Prickly Plant X Stamina Prickly Plant,50,0,0,0,0,0,0,-8
 Stamina Prickly Plant X Erdenleaf,Erdenleaf X Stamina Prickly Plant,50,0,0,0,0,-2,0,-4
-Stamina Prickly Plant X Fake Flower,Fake Flower X Stamina Prickly Plant,20,0,0,50,-2,0,-2,-6
+Stamina Prickly Plant X Flake Flower,Flake Flower X Stamina Prickly Plant,20,0,0,50,-2,0,-2,-6
 Stamina Prickly Plant X Spiky Plant,Spiky Plant X Stamina Prickly Plant,20,0,0,0,0,0,-3,-4
 Stamina Prickly Plant X Saplant,Saplant X Stamina Prickly Plant,20,0,0,0,0,0,-5,-4
 Stamina Prickly Plant X Nightshade,Nightshade X Stamina Prickly Plant,20,0,0,0,-3,0,0,-4
@@ -6417,7 +6417,7 @@ Stamina Erdenleaf X Tame Tiny Flower,Tame Tiny Flower X Stamina Erdenleaf,50,50,
 Stamina Erdenleaf X Tame Sun Flower,Tame Sun Flower X Stamina Erdenleaf,50,0,0,45,0,-2,2,0
 Stamina Erdenleaf X Tame Fire Flower,Tame Fire Flower X Stamina Erdenleaf,50,0,0,45,0,-2,0,0
 Stamina Erdenleaf X Tame Pinwheel Flower,Tame Pinwheel Flower X Stamina Erdenleaf,50,0,0,30,1,-2,0,0
-Stamina Erdenleaf X Tame Fake Flower,Tame Fake Flower X Stamina Erdenleaf,20,0,0,75,-2,-2,-2,-2
+Stamina Erdenleaf X Tame Flake Flower,Tame Flake Flower X Stamina Erdenleaf,20,0,0,75,-2,-2,-2,-2
 Stamina Erdenleaf X Magic Mushroom,Magic Mushroom X Stamina Erdenleaf,130,0,0,0,0,-2,0,0
 Stamina Erdenleaf X Snow Flobes,Snow Flobes X Stamina Erdenleaf,110,0,0,0,0,-2,0,0
 Stamina Erdenleaf X Squish,Squish X Stamina Erdenleaf,90,0,0,0,0,-2,0,0
@@ -6467,7 +6467,7 @@ Stamina Erdenleaf X Yarrow,Yarrow X Stamina Erdenleaf,50,0,30,0,0,-2,0,0
 Stamina Erdenleaf X Spirit Bane,Spirit Bane X Stamina Erdenleaf,50,0,0,0,0,-2,-5,5
 Stamina Erdenleaf X Prickly Plant,Prickly Plant X Stamina Erdenleaf,50,0,0,0,0,-2,0,-4
 Stamina Erdenleaf X Erdenleaf,Erdenleaf X Stamina Erdenleaf,50,0,0,0,0,-4,0,0
-Stamina Erdenleaf X Fake Flower,Fake Flower X Stamina Erdenleaf,20,0,0,50,-2,-2,-2,-2
+Stamina Erdenleaf X Flake Flower,Flake Flower X Stamina Erdenleaf,20,0,0,50,-2,-2,-2,-2
 Stamina Erdenleaf X Spiky Plant,Spiky Plant X Stamina Erdenleaf,20,0,0,0,0,-2,-3,0
 Stamina Erdenleaf X Saplant,Saplant X Stamina Erdenleaf,20,0,0,0,0,-2,-5,0
 Stamina Erdenleaf X Nightshade,Nightshade X Stamina Erdenleaf,20,0,0,0,-3,-2,0,0
@@ -6515,7 +6515,7 @@ Exp Snowdrop Flower X Tame Tiny Flower,Tame Tiny Flower X Exp Snowdrop Flower,60
 Exp Snowdrop Flower X Tame Sun Flower,Tame Sun Flower X Exp Snowdrop Flower,60,750,0,145,0,0,2,0
 Exp Snowdrop Flower X Tame Fire Flower,Tame Fire Flower X Exp Snowdrop Flower,60,750,0,145,0,0,0,0
 Exp Snowdrop Flower X Tame Pinwheel Flower,Tame Pinwheel Flower X Exp Snowdrop Flower,60,750,0,130,1,0,0,0
-Exp Snowdrop Flower X Tame Fake Flower,Tame Fake Flower X Exp Snowdrop Flower,30,750,0,175,-2,0,-2,-2
+Exp Snowdrop Flower X Tame Flake Flower,Tame Flake Flower X Exp Snowdrop Flower,30,750,0,175,-2,0,-2,-2
 Exp Snowdrop Flower X Magic Mushroom,Magic Mushroom X Exp Snowdrop Flower,140,750,0,100,0,0,0,0
 Exp Snowdrop Flower X Snow Flobes,Snow Flobes X Exp Snowdrop Flower,120,750,0,100,0,0,0,0
 Exp Snowdrop Flower X Squish,Squish X Exp Snowdrop Flower,100,750,0,100,0,0,0,0
@@ -6565,7 +6565,7 @@ Exp Snowdrop Flower X Yarrow,Yarrow X Exp Snowdrop Flower,60,750,30,100,0,0,0,0
 Exp Snowdrop Flower X Spirit Bane,Spirit Bane X Exp Snowdrop Flower,60,750,0,100,0,0,-5,5
 Exp Snowdrop Flower X Prickly Plant,Prickly Plant X Exp Snowdrop Flower,60,750,0,100,0,0,0,-4
 Exp Snowdrop Flower X Erdenleaf,Erdenleaf X Exp Snowdrop Flower,60,750,0,100,0,-2,0,0
-Exp Snowdrop Flower X Fake Flower,Fake Flower X Exp Snowdrop Flower,30,750,0,150,-2,0,-2,-2
+Exp Snowdrop Flower X Flake Flower,Flake Flower X Exp Snowdrop Flower,30,750,0,150,-2,0,-2,-2
 Exp Snowdrop Flower X Spiky Plant,Spiky Plant X Exp Snowdrop Flower,30,750,0,100,0,0,-3,0
 Exp Snowdrop Flower X Saplant,Saplant X Exp Snowdrop Flower,30,750,0,100,0,0,-5,0
 Exp Snowdrop Flower X Nightshade,Nightshade X Exp Snowdrop Flower,30,750,0,100,-3,0,0,0
@@ -6612,7 +6612,7 @@ Exp Gift Plant X Tame Tiny Flower,Tame Tiny Flower X Exp Gift Plant,60,1550,0,45
 Exp Gift Plant X Tame Sun Flower,Tame Sun Flower X Exp Gift Plant,60,1500,0,45,0,0,2,0
 Exp Gift Plant X Tame Fire Flower,Tame Fire Flower X Exp Gift Plant,60,1500,0,45,0,0,0,0
 Exp Gift Plant X Tame Pinwheel Flower,Tame Pinwheel Flower X Exp Gift Plant,60,1500,0,30,1,0,0,0
-Exp Gift Plant X Tame Fake Flower,Tame Fake Flower X Exp Gift Plant,30,1500,0,75,-2,0,-2,-2
+Exp Gift Plant X Tame Flake Flower,Tame Flake Flower X Exp Gift Plant,30,1500,0,75,-2,0,-2,-2
 Exp Gift Plant X Magic Mushroom,Magic Mushroom X Exp Gift Plant,140,1500,0,0,0,0,0,0
 Exp Gift Plant X Snow Flobes,Snow Flobes X Exp Gift Plant,120,1500,0,0,0,0,0,0
 Exp Gift Plant X Squish,Squish X Exp Gift Plant,100,1500,0,0,0,0,0,0
@@ -6662,7 +6662,7 @@ Exp Gift Plant X Yarrow,Yarrow X Exp Gift Plant,60,1500,30,0,0,0,0,0
 Exp Gift Plant X Spirit Bane,Spirit Bane X Exp Gift Plant,60,1500,0,0,0,0,-5,5
 Exp Gift Plant X Prickly Plant,Prickly Plant X Exp Gift Plant,60,1500,0,0,0,0,0,-4
 Exp Gift Plant X Erdenleaf,Erdenleaf X Exp Gift Plant,60,1500,0,0,0,-2,0,0
-Exp Gift Plant X Fake Flower,Fake Flower X Exp Gift Plant,30,1500,0,50,-2,0,-2,-2
+Exp Gift Plant X Flake Flower,Flake Flower X Exp Gift Plant,30,1500,0,50,-2,0,-2,-2
 Exp Gift Plant X Spiky Plant,Spiky Plant X Exp Gift Plant,30,1500,0,0,0,0,-3,0
 Exp Gift Plant X Saplant,Saplant X Exp Gift Plant,30,1500,0,0,0,0,-5,0
 Exp Gift Plant X Nightshade,Nightshade X Exp Gift Plant,30,1500,0,0,-3,0,0,0
@@ -6708,7 +6708,7 @@ Exp Wilowisp X Tame Tiny Flower,Tame Tiny Flower X Exp Wilowisp,50,425,0,45,0,0,
 Exp Wilowisp X Tame Sun Flower,Tame Sun Flower X Exp Wilowisp,50,375,0,45,0,0,2,0
 Exp Wilowisp X Tame Fire Flower,Tame Fire Flower X Exp Wilowisp,50,375,0,45,0,0,0,0
 Exp Wilowisp X Tame Pinwheel Flower,Tame Pinwheel Flower X Exp Wilowisp,50,375,0,30,1,0,0,0
-Exp Wilowisp X Tame Fake Flower,Tame Fake Flower X Exp Wilowisp,20,375,0,75,-2,0,-2,-2
+Exp Wilowisp X Tame Flake Flower,Tame Flake Flower X Exp Wilowisp,20,375,0,75,-2,0,-2,-2
 Exp Wilowisp X Magic Mushroom,Magic Mushroom X Exp Wilowisp,130,375,0,0,0,0,0,0
 Exp Wilowisp X Snow Flobes,Snow Flobes X Exp Wilowisp,110,375,0,0,0,0,0,0
 Exp Wilowisp X Squish,Squish X Exp Wilowisp,90,375,0,0,0,0,0,0
@@ -6758,7 +6758,7 @@ Exp Wilowisp X Yarrow,Yarrow X Exp Wilowisp,50,375,30,0,0,0,0,0
 Exp Wilowisp X Spirit Bane,Spirit Bane X Exp Wilowisp,50,375,0,0,0,0,-5,5
 Exp Wilowisp X Prickly Plant,Prickly Plant X Exp Wilowisp,50,375,0,0,0,0,0,-4
 Exp Wilowisp X Erdenleaf,Erdenleaf X Exp Wilowisp,50,375,0,0,0,-2,0,0
-Exp Wilowisp X Fake Flower,Fake Flower X Exp Wilowisp,20,375,0,50,-2,0,-2,-2
+Exp Wilowisp X Flake Flower,Flake Flower X Exp Wilowisp,20,375,0,50,-2,0,-2,-2
 Exp Wilowisp X Spiky Plant,Spiky Plant X Exp Wilowisp,20,375,0,0,0,0,-3,0
 Exp Wilowisp X Saplant,Saplant X Exp Wilowisp,20,375,0,0,0,0,-5,0
 Exp Wilowisp X Nightshade,Nightshade X Exp Wilowisp,20,375,0,0,-3,0,0,0
@@ -6803,7 +6803,7 @@ Exp Tiny Flower X Tame Tiny Flower,Tame Tiny Flower X Exp Tiny Flower,40,125,0,7
 Exp Tiny Flower X Tame Sun Flower,Tame Sun Flower X Exp Tiny Flower,40,75,0,75,0,0,2,0
 Exp Tiny Flower X Tame Fire Flower,Tame Fire Flower X Exp Tiny Flower,40,75,0,75,0,0,0,0
 Exp Tiny Flower X Tame Pinwheel Flower,Tame Pinwheel Flower X Exp Tiny Flower,40,75,0,60,1,0,0,0
-Exp Tiny Flower X Tame Fake Flower,Tame Fake Flower X Exp Tiny Flower,10,75,0,105,-2,0,-2,-2
+Exp Tiny Flower X Tame Flake Flower,Tame Flake Flower X Exp Tiny Flower,10,75,0,105,-2,0,-2,-2
 Exp Tiny Flower X Magic Mushroom,Magic Mushroom X Exp Tiny Flower,120,75,0,30,0,0,0,0
 Exp Tiny Flower X Snow Flobes,Snow Flobes X Exp Tiny Flower,100,75,0,30,0,0,0,0
 Exp Tiny Flower X Squish,Squish X Exp Tiny Flower,80,75,0,30,0,0,0,0
@@ -6853,7 +6853,7 @@ Exp Tiny Flower X Yarrow,Yarrow X Exp Tiny Flower,40,75,30,30,0,0,0,0
 Exp Tiny Flower X Spirit Bane,Spirit Bane X Exp Tiny Flower,40,75,0,30,0,0,-5,5
 Exp Tiny Flower X Prickly Plant,Prickly Plant X Exp Tiny Flower,40,75,0,30,0,0,0,-4
 Exp Tiny Flower X Erdenleaf,Erdenleaf X Exp Tiny Flower,40,75,0,30,0,-2,0,0
-Exp Tiny Flower X Fake Flower,Fake Flower X Exp Tiny Flower,10,75,0,80,-2,0,-2,-2
+Exp Tiny Flower X Flake Flower,Flake Flower X Exp Tiny Flower,10,75,0,80,-2,0,-2,-2
 Exp Tiny Flower X Spiky Plant,Spiky Plant X Exp Tiny Flower,10,75,0,30,0,0,-3,0
 Exp Tiny Flower X Saplant,Saplant X Exp Tiny Flower,10,75,0,30,0,0,-5,0
 Exp Tiny Flower X Nightshade,Nightshade X Exp Tiny Flower,10,75,0,30,-3,0,0,0
@@ -6897,7 +6897,7 @@ Exp Hot Air Fruit X Tame Tiny Flower,Tame Tiny Flower X Exp Hot Air Fruit,40,125
 Exp Hot Air Fruit X Tame Sun Flower,Tame Sun Flower X Exp Hot Air Fruit,40,75,20,45,0,0,2,0
 Exp Hot Air Fruit X Tame Fire Flower,Tame Fire Flower X Exp Hot Air Fruit,40,75,20,45,0,0,0,0
 Exp Hot Air Fruit X Tame Pinwheel Flower,Tame Pinwheel Flower X Exp Hot Air Fruit,40,75,20,30,1,0,0,0
-Exp Hot Air Fruit X Tame Fake Flower,Tame Fake Flower X Exp Hot Air Fruit,10,75,20,75,-2,0,-2,-2
+Exp Hot Air Fruit X Tame Flake Flower,Tame Flake Flower X Exp Hot Air Fruit,10,75,20,75,-2,0,-2,-2
 Exp Hot Air Fruit X Magic Mushroom,Magic Mushroom X Exp Hot Air Fruit,120,75,20,0,0,0,0,0
 Exp Hot Air Fruit X Snow Flobes,Snow Flobes X Exp Hot Air Fruit,100,75,20,0,0,0,0,0
 Exp Hot Air Fruit X Squish,Squish X Exp Hot Air Fruit,80,75,20,0,0,0,0,0
@@ -6947,7 +6947,7 @@ Exp Hot Air Fruit X Yarrow,Yarrow X Exp Hot Air Fruit,40,75,50,0,0,0,0,0
 Exp Hot Air Fruit X Spirit Bane,Spirit Bane X Exp Hot Air Fruit,40,75,20,0,0,0,-5,5
 Exp Hot Air Fruit X Prickly Plant,Prickly Plant X Exp Hot Air Fruit,40,75,20,0,0,0,0,-4
 Exp Hot Air Fruit X Erdenleaf,Erdenleaf X Exp Hot Air Fruit,40,75,20,0,0,-2,0,0
-Exp Hot Air Fruit X Fake Flower,Fake Flower X Exp Hot Air Fruit,10,75,20,50,-2,0,-2,-2
+Exp Hot Air Fruit X Flake Flower,Flake Flower X Exp Hot Air Fruit,10,75,20,50,-2,0,-2,-2
 Exp Hot Air Fruit X Spiky Plant,Spiky Plant X Exp Hot Air Fruit,10,75,20,0,0,0,-3,0
 Exp Hot Air Fruit X Saplant,Saplant X Exp Hot Air Fruit,10,75,20,0,0,0,-5,0
 Exp Hot Air Fruit X Nightshade,Nightshade X Exp Hot Air Fruit,10,75,20,0,-3,0,0,0
@@ -6990,7 +6990,7 @@ Exp Eyeberry X Tame Tiny Flower,Tame Tiny Flower X Exp Eyeberry,40,200,0,45,0,0,
 Exp Eyeberry X Tame Sun Flower,Tame Sun Flower X Exp Eyeberry,40,150,0,45,0,0,2,0
 Exp Eyeberry X Tame Fire Flower,Tame Fire Flower X Exp Eyeberry,40,150,0,45,0,0,0,0
 Exp Eyeberry X Tame Pinwheel Flower,Tame Pinwheel Flower X Exp Eyeberry,40,150,0,30,1,0,0,0
-Exp Eyeberry X Tame Fake Flower,Tame Fake Flower X Exp Eyeberry,10,150,0,75,-2,0,-2,-2
+Exp Eyeberry X Tame Flake Flower,Tame Flake Flower X Exp Eyeberry,10,150,0,75,-2,0,-2,-2
 Exp Eyeberry X Magic Mushroom,Magic Mushroom X Exp Eyeberry,120,150,0,0,0,0,0,0
 Exp Eyeberry X Snow Flobes,Snow Flobes X Exp Eyeberry,100,150,0,0,0,0,0,0
 Exp Eyeberry X Squish,Squish X Exp Eyeberry,80,150,0,0,0,0,0,0
@@ -7040,7 +7040,7 @@ Exp Eyeberry X Yarrow,Yarrow X Exp Eyeberry,40,150,30,0,0,0,0,0
 Exp Eyeberry X Spirit Bane,Spirit Bane X Exp Eyeberry,40,150,0,0,0,0,-5,5
 Exp Eyeberry X Prickly Plant,Prickly Plant X Exp Eyeberry,40,150,0,0,0,0,0,-4
 Exp Eyeberry X Erdenleaf,Erdenleaf X Exp Eyeberry,40,150,0,0,0,-2,0,0
-Exp Eyeberry X Fake Flower,Fake Flower X Exp Eyeberry,10,150,0,50,-2,0,-2,-2
+Exp Eyeberry X Flake Flower,Flake Flower X Exp Eyeberry,10,150,0,50,-2,0,-2,-2
 Exp Eyeberry X Spiky Plant,Spiky Plant X Exp Eyeberry,10,150,0,0,0,0,-3,0
 Exp Eyeberry X Saplant,Saplant X Exp Eyeberry,10,150,0,0,0,0,-5,0
 Exp Eyeberry X Nightshade,Nightshade X Exp Eyeberry,10,150,0,0,-3,0,0,0
@@ -7082,7 +7082,7 @@ Health Snowman Plant X Tame Tiny Flower,Tame Tiny Flower X Health Snowman Plant,
 Health Snowman Plant X Tame Sun Flower,Tame Sun Flower X Health Snowman Plant,60,0,75,45,1,0,2,0
 Health Snowman Plant X Tame Fire Flower,Tame Fire Flower X Health Snowman Plant,60,0,75,45,1,0,0,0
 Health Snowman Plant X Tame Pinwheel Flower,Tame Pinwheel Flower X Health Snowman Plant,60,0,75,30,2,0,0,0
-Health Snowman Plant X Tame Fake Flower,Tame Fake Flower X Health Snowman Plant,30,0,75,75,-1,0,-2,-2
+Health Snowman Plant X Tame Flake Flower,Tame Flake Flower X Health Snowman Plant,30,0,75,75,-1,0,-2,-2
 Health Snowman Plant X Magic Mushroom,Magic Mushroom X Health Snowman Plant,140,0,75,0,1,0,0,0
 Health Snowman Plant X Snow Flobes,Snow Flobes X Health Snowman Plant,120,0,75,0,1,0,0,0
 Health Snowman Plant X Squish,Squish X Health Snowman Plant,100,0,75,0,1,0,0,0
@@ -7132,7 +7132,7 @@ Health Snowman Plant X Yarrow,Yarrow X Health Snowman Plant,60,0,105,0,1,0,0,0
 Health Snowman Plant X Spirit Bane,Spirit Bane X Health Snowman Plant,60,0,75,0,1,0,-5,5
 Health Snowman Plant X Prickly Plant,Prickly Plant X Health Snowman Plant,60,0,75,0,1,0,0,-4
 Health Snowman Plant X Erdenleaf,Erdenleaf X Health Snowman Plant,60,0,75,0,1,-2,0,0
-Health Snowman Plant X Fake Flower,Fake Flower X Health Snowman Plant,30,0,75,50,-1,0,-2,-2
+Health Snowman Plant X Flake Flower,Flake Flower X Health Snowman Plant,30,0,75,50,-1,0,-2,-2
 Health Snowman Plant X Spiky Plant,Spiky Plant X Health Snowman Plant,30,0,75,0,1,0,-3,0
 Health Snowman Plant X Saplant,Saplant X Health Snowman Plant,30,0,75,0,1,0,-5,0
 Health Snowman Plant X Nightshade,Nightshade X Health Snowman Plant,30,0,75,0,-2,0,0,0
@@ -7173,7 +7173,7 @@ Health Ghostshroom X Tame Tiny Flower,Tame Tiny Flower X Health Ghostshroom,50,5
 Health Ghostshroom X Tame Sun Flower,Tame Sun Flower X Health Ghostshroom,50,0,150,45,0,0,2,0
 Health Ghostshroom X Tame Fire Flower,Tame Fire Flower X Health Ghostshroom,50,0,150,45,0,0,0,0
 Health Ghostshroom X Tame Pinwheel Flower,Tame Pinwheel Flower X Health Ghostshroom,50,0,150,30,1,0,0,0
-Health Ghostshroom X Tame Fake Flower,Tame Fake Flower X Health Ghostshroom,20,0,150,75,-2,0,-2,-2
+Health Ghostshroom X Tame Flake Flower,Tame Flake Flower X Health Ghostshroom,20,0,150,75,-2,0,-2,-2
 Health Ghostshroom X Magic Mushroom,Magic Mushroom X Health Ghostshroom,130,0,150,0,0,0,0,0
 Health Ghostshroom X Snow Flobes,Snow Flobes X Health Ghostshroom,110,0,150,0,0,0,0,0
 Health Ghostshroom X Squish,Squish X Health Ghostshroom,90,0,150,0,0,0,0,0
@@ -7223,7 +7223,7 @@ Health Ghostshroom X Yarrow,Yarrow X Health Ghostshroom,50,0,180,0,0,0,0,0
 Health Ghostshroom X Spirit Bane,Spirit Bane X Health Ghostshroom,50,0,150,0,0,0,-5,5
 Health Ghostshroom X Prickly Plant,Prickly Plant X Health Ghostshroom,50,0,150,0,0,0,0,-4
 Health Ghostshroom X Erdenleaf,Erdenleaf X Health Ghostshroom,50,0,150,0,0,-2,0,0
-Health Ghostshroom X Fake Flower,Fake Flower X Health Ghostshroom,20,0,150,50,-2,0,-2,-2
+Health Ghostshroom X Flake Flower,Flake Flower X Health Ghostshroom,20,0,150,50,-2,0,-2,-2
 Health Ghostshroom X Spiky Plant,Spiky Plant X Health Ghostshroom,20,0,150,0,0,0,-3,0
 Health Ghostshroom X Saplant,Saplant X Health Ghostshroom,20,0,150,0,0,0,-5,0
 Health Ghostshroom X Nightshade,Nightshade X Health Ghostshroom,20,0,150,0,-3,0,0,0
@@ -7263,7 +7263,7 @@ Health Colberry X Tame Tiny Flower,Tame Tiny Flower X Health Colberry,50,50,60,4
 Health Colberry X Tame Sun Flower,Tame Sun Flower X Health Colberry,50,0,60,45,0,0,2,0
 Health Colberry X Tame Fire Flower,Tame Fire Flower X Health Colberry,50,0,60,45,0,0,0,0
 Health Colberry X Tame Pinwheel Flower,Tame Pinwheel Flower X Health Colberry,50,0,60,30,1,0,0,0
-Health Colberry X Tame Fake Flower,Tame Fake Flower X Health Colberry,20,0,60,75,-2,0,-2,-2
+Health Colberry X Tame Flake Flower,Tame Flake Flower X Health Colberry,20,0,60,75,-2,0,-2,-2
 Health Colberry X Magic Mushroom,Magic Mushroom X Health Colberry,130,0,60,0,0,0,0,0
 Health Colberry X Snow Flobes,Snow Flobes X Health Colberry,110,0,60,0,0,0,0,0
 Health Colberry X Squish,Squish X Health Colberry,90,0,60,0,0,0,0,0
@@ -7313,7 +7313,7 @@ Health Colberry X Yarrow,Yarrow X Health Colberry,50,0,90,0,0,0,0,0
 Health Colberry X Spirit Bane,Spirit Bane X Health Colberry,50,0,60,0,0,0,-5,5
 Health Colberry X Prickly Plant,Prickly Plant X Health Colberry,50,0,60,0,0,0,0,-4
 Health Colberry X Erdenleaf,Erdenleaf X Health Colberry,50,0,60,0,0,-2,0,0
-Health Colberry X Fake Flower,Fake Flower X Health Colberry,20,0,60,50,-2,0,-2,-2
+Health Colberry X Flake Flower,Flake Flower X Health Colberry,20,0,60,50,-2,0,-2,-2
 Health Colberry X Spiky Plant,Spiky Plant X Health Colberry,20,0,60,0,0,0,-3,0
 Health Colberry X Saplant,Saplant X Health Colberry,20,0,60,0,0,0,-5,0
 Health Colberry X Nightshade,Nightshade X Health Colberry,20,0,60,0,-3,0,0,0
@@ -7352,7 +7352,7 @@ Health Applum X Tame Tiny Flower,Tame Tiny Flower X Health Applum,50,50,30,45,0,
 Health Applum X Tame Sun Flower,Tame Sun Flower X Health Applum,50,0,30,45,0,0,2,0
 Health Applum X Tame Fire Flower,Tame Fire Flower X Health Applum,50,0,30,45,0,0,0,0
 Health Applum X Tame Pinwheel Flower,Tame Pinwheel Flower X Health Applum,50,0,30,30,1,0,0,0
-Health Applum X Tame Fake Flower,Tame Fake Flower X Health Applum,20,0,30,75,-2,0,-2,-2
+Health Applum X Tame Flake Flower,Tame Flake Flower X Health Applum,20,0,30,75,-2,0,-2,-2
 Health Applum X Magic Mushroom,Magic Mushroom X Health Applum,130,0,30,0,0,0,0,0
 Health Applum X Snow Flobes,Snow Flobes X Health Applum,110,0,30,0,0,0,0,0
 Health Applum X Squish,Squish X Health Applum,90,0,30,0,0,0,0,0
@@ -7402,7 +7402,7 @@ Health Applum X Yarrow,Yarrow X Health Applum,50,0,60,0,0,0,0,0
 Health Applum X Spirit Bane,Spirit Bane X Health Applum,50,0,30,0,0,0,-5,5
 Health Applum X Prickly Plant,Prickly Plant X Health Applum,50,0,30,0,0,0,0,-4
 Health Applum X Erdenleaf,Erdenleaf X Health Applum,50,0,30,0,0,-2,0,0
-Health Applum X Fake Flower,Fake Flower X Health Applum,20,0,30,50,-2,0,-2,-2
+Health Applum X Flake Flower,Flake Flower X Health Applum,20,0,30,50,-2,0,-2,-2
 Health Applum X Spiky Plant,Spiky Plant X Health Applum,20,0,30,0,0,0,-3,0
 Health Applum X Saplant,Saplant X Health Applum,20,0,30,0,0,0,-5,0
 Health Applum X Nightshade,Nightshade X Health Applum,20,0,30,0,-3,0,0,0
@@ -7440,7 +7440,7 @@ Health Lilypad X Tame Tiny Flower,Tame Tiny Flower X Health Lilypad,40,50,22.5,4
 Health Lilypad X Tame Sun Flower,Tame Sun Flower X Health Lilypad,40,0,22.5,45,0,0,2,0
 Health Lilypad X Tame Fire Flower,Tame Fire Flower X Health Lilypad,40,0,22.5,45,0,0,0,0
 Health Lilypad X Tame Pinwheel Flower,Tame Pinwheel Flower X Health Lilypad,40,0,22.5,30,1,0,0,0
-Health Lilypad X Tame Fake Flower,Tame Fake Flower X Health Lilypad,10,0,22.5,75,-2,0,-2,-2
+Health Lilypad X Tame Flake Flower,Tame Flake Flower X Health Lilypad,10,0,22.5,75,-2,0,-2,-2
 Health Lilypad X Magic Mushroom,Magic Mushroom X Health Lilypad,120,0,22.5,0,0,0,0,0
 Health Lilypad X Snow Flobes,Snow Flobes X Health Lilypad,100,0,22.5,0,0,0,0,0
 Health Lilypad X Squish,Squish X Health Lilypad,80,0,22.5,0,0,0,0,0
@@ -7490,7 +7490,7 @@ Health Lilypad X Yarrow,Yarrow X Health Lilypad,40,0,52.5,0,0,0,0,0
 Health Lilypad X Spirit Bane,Spirit Bane X Health Lilypad,40,0,22.5,0,0,0,-5,5
 Health Lilypad X Prickly Plant,Prickly Plant X Health Lilypad,40,0,22.5,0,0,0,0,-4
 Health Lilypad X Erdenleaf,Erdenleaf X Health Lilypad,40,0,22.5,0,0,-2,0,0
-Health Lilypad X Fake Flower,Fake Flower X Health Lilypad,10,0,22.5,50,-2,0,-2,-2
+Health Lilypad X Flake Flower,Flake Flower X Health Lilypad,10,0,22.5,50,-2,0,-2,-2
 Health Lilypad X Spiky Plant,Spiky Plant X Health Lilypad,10,0,22.5,0,0,0,-3,0
 Health Lilypad X Saplant,Saplant X Health Lilypad,10,0,22.5,0,0,0,-5,0
 Health Lilypad X Nightshade,Nightshade X Health Lilypad,10,0,22.5,0,-3,0,0,0
@@ -7527,7 +7527,7 @@ Health Mossball X Tame Tiny Flower,Tame Tiny Flower X Health Mossball,40,50,15,4
 Health Mossball X Tame Sun Flower,Tame Sun Flower X Health Mossball,40,0,15,45,0,0,3,1
 Health Mossball X Tame Fire Flower,Tame Fire Flower X Health Mossball,40,0,15,45,0,0,1,1
 Health Mossball X Tame Pinwheel Flower,Tame Pinwheel Flower X Health Mossball,40,0,15,30,1,0,1,1
-Health Mossball X Tame Fake Flower,Tame Fake Flower X Health Mossball,10,0,15,75,-2,0,-1,-1
+Health Mossball X Tame Flake Flower,Tame Flake Flower X Health Mossball,10,0,15,75,-2,0,-1,-1
 Health Mossball X Magic Mushroom,Magic Mushroom X Health Mossball,120,0,15,0,0,0,1,1
 Health Mossball X Snow Flobes,Snow Flobes X Health Mossball,100,0,15,0,0,0,1,1
 Health Mossball X Squish,Squish X Health Mossball,80,0,15,0,0,0,1,1
@@ -7577,7 +7577,7 @@ Health Mossball X Yarrow,Yarrow X Health Mossball,40,0,45,0,0,0,1,1
 Health Mossball X Spirit Bane,Spirit Bane X Health Mossball,40,0,15,0,0,0,-4,6
 Health Mossball X Prickly Plant,Prickly Plant X Health Mossball,40,0,15,0,0,0,1,-3
 Health Mossball X Erdenleaf,Erdenleaf X Health Mossball,40,0,15,0,0,-2,1,1
-Health Mossball X Fake Flower,Fake Flower X Health Mossball,10,0,15,50,-2,0,-1,-1
+Health Mossball X Flake Flower,Flake Flower X Health Mossball,10,0,15,50,-2,0,-1,-1
 Health Mossball X Spiky Plant,Spiky Plant X Health Mossball,10,0,15,0,0,0,-2,1
 Health Mossball X Saplant,Saplant X Health Mossball,10,0,15,0,0,0,-4,1
 Health Mossball X Nightshade,Nightshade X Health Mossball,10,0,15,0,-3,0,1,1
@@ -7613,7 +7613,7 @@ Health Hot Air Fruit X Tame Tiny Flower,Tame Tiny Flower X Health Hot Air Fruit,
 Health Hot Air Fruit X Tame Sun Flower,Tame Sun Flower X Health Hot Air Fruit,40,50,30,45,0,0,2,0
 Health Hot Air Fruit X Tame Fire Flower,Tame Fire Flower X Health Hot Air Fruit,40,50,30,45,0,0,0,0
 Health Hot Air Fruit X Tame Pinwheel Flower,Tame Pinwheel Flower X Health Hot Air Fruit,40,50,30,30,1,0,0,0
-Health Hot Air Fruit X Tame Fake Flower,Tame Fake Flower X Health Hot Air Fruit,10,50,30,75,-2,0,-2,-2
+Health Hot Air Fruit X Tame Flake Flower,Tame Flake Flower X Health Hot Air Fruit,10,50,30,75,-2,0,-2,-2
 Health Hot Air Fruit X Magic Mushroom,Magic Mushroom X Health Hot Air Fruit,120,50,30,0,0,0,0,0
 Health Hot Air Fruit X Snow Flobes,Snow Flobes X Health Hot Air Fruit,100,50,30,0,0,0,0,0
 Health Hot Air Fruit X Squish,Squish X Health Hot Air Fruit,80,50,30,0,0,0,0,0
@@ -7663,7 +7663,7 @@ Health Hot Air Fruit X Yarrow,Yarrow X Health Hot Air Fruit,40,50,60,0,0,0,0,0
 Health Hot Air Fruit X Spirit Bane,Spirit Bane X Health Hot Air Fruit,40,50,30,0,0,0,-5,5
 Health Hot Air Fruit X Prickly Plant,Prickly Plant X Health Hot Air Fruit,40,50,30,0,0,0,0,-4
 Health Hot Air Fruit X Erdenleaf,Erdenleaf X Health Hot Air Fruit,40,50,30,0,0,-2,0,0
-Health Hot Air Fruit X Fake Flower,Fake Flower X Health Hot Air Fruit,10,50,30,50,-2,0,-2,-2
+Health Hot Air Fruit X Flake Flower,Flake Flower X Health Hot Air Fruit,10,50,30,50,-2,0,-2,-2
 Health Hot Air Fruit X Spiky Plant,Spiky Plant X Health Hot Air Fruit,10,50,30,0,0,0,-3,0
 Health Hot Air Fruit X Saplant,Saplant X Health Hot Air Fruit,10,50,30,0,0,0,-5,0
 Health Hot Air Fruit X Nightshade,Nightshade X Health Hot Air Fruit,10,50,30,0,-3,0,0,0
@@ -7698,7 +7698,7 @@ Health Yarrow X Tame Tiny Flower,Tame Tiny Flower X Health Yarrow,40,50,45,45,0,
 Health Yarrow X Tame Sun Flower,Tame Sun Flower X Health Yarrow,40,0,45,45,0,0,2,0
 Health Yarrow X Tame Fire Flower,Tame Fire Flower X Health Yarrow,40,0,45,45,0,0,0,0
 Health Yarrow X Tame Pinwheel Flower,Tame Pinwheel Flower X Health Yarrow,40,0,45,30,1,0,0,0
-Health Yarrow X Tame Fake Flower,Tame Fake Flower X Health Yarrow,10,0,45,75,-2,0,-2,-2
+Health Yarrow X Tame Flake Flower,Tame Flake Flower X Health Yarrow,10,0,45,75,-2,0,-2,-2
 Health Yarrow X Magic Mushroom,Magic Mushroom X Health Yarrow,120,0,45,0,0,0,0,0
 Health Yarrow X Snow Flobes,Snow Flobes X Health Yarrow,100,0,45,0,0,0,0,0
 Health Yarrow X Squish,Squish X Health Yarrow,80,0,45,0,0,0,0,0
@@ -7748,7 +7748,7 @@ Health Yarrow X Yarrow,Yarrow X Health Yarrow,40,0,75,0,0,0,0,0
 Health Yarrow X Spirit Bane,Spirit Bane X Health Yarrow,40,0,45,0,0,0,-5,5
 Health Yarrow X Prickly Plant,Prickly Plant X Health Yarrow,40,0,45,0,0,0,0,-4
 Health Yarrow X Erdenleaf,Erdenleaf X Health Yarrow,40,0,45,0,0,-2,0,0
-Health Yarrow X Fake Flower,Fake Flower X Health Yarrow,10,0,45,50,-2,0,-2,-2
+Health Yarrow X Flake Flower,Flake Flower X Health Yarrow,10,0,45,50,-2,0,-2,-2
 Health Yarrow X Spiky Plant,Spiky Plant X Health Yarrow,10,0,45,0,0,0,-3,0
 Health Yarrow X Saplant,Saplant X Health Yarrow,10,0,45,0,0,0,-5,0
 Health Yarrow X Nightshade,Nightshade X Health Yarrow,10,0,45,0,-3,0,0,0
@@ -7782,7 +7782,7 @@ Power Bulbshroom X Tame Tiny Flower,Tame Tiny Flower X Power Bulbshroom,60,50,0,
 Power Bulbshroom X Tame Sun Flower,Tame Sun Flower X Power Bulbshroom,60,0,0,45,0,0,5,4.5
 Power Bulbshroom X Tame Fire Flower,Tame Fire Flower X Power Bulbshroom,60,0,0,45,0,0,3,4.5
 Power Bulbshroom X Tame Pinwheel Flower,Tame Pinwheel Flower X Power Bulbshroom,60,0,0,30,1,0,3,4.5
-Power Bulbshroom X Tame Fake Flower,Tame Fake Flower X Power Bulbshroom,30,0,0,75,-2,0,1,2.5
+Power Bulbshroom X Tame Flake Flower,Tame Flake Flower X Power Bulbshroom,30,0,0,75,-2,0,1,2.5
 Power Bulbshroom X Magic Mushroom,Magic Mushroom X Power Bulbshroom,140,0,0,0,0,0,3,4.5
 Power Bulbshroom X Snow Flobes,Snow Flobes X Power Bulbshroom,120,0,0,0,0,0,3,4.5
 Power Bulbshroom X Squish,Squish X Power Bulbshroom,100,0,0,0,0,0,3,4.5
@@ -7832,7 +7832,7 @@ Power Bulbshroom X Yarrow,Yarrow X Power Bulbshroom,60,0,30,0,0,0,3,4.5
 Power Bulbshroom X Spirit Bane,Spirit Bane X Power Bulbshroom,60,0,0,0,0,0,-2,9.5
 Power Bulbshroom X Prickly Plant,Prickly Plant X Power Bulbshroom,60,0,0,0,0,0,3,0.5
 Power Bulbshroom X Erdenleaf,Erdenleaf X Power Bulbshroom,60,0,0,0,0,-2,3,4.5
-Power Bulbshroom X Fake Flower,Fake Flower X Power Bulbshroom,30,0,0,50,-2,0,1,2.5
+Power Bulbshroom X Flake Flower,Flake Flower X Power Bulbshroom,30,0,0,50,-2,0,1,2.5
 Power Bulbshroom X Spiky Plant,Spiky Plant X Power Bulbshroom,30,0,0,0,0,0,0,4.5
 Power Bulbshroom X Saplant,Saplant X Power Bulbshroom,30,0,0,0,0,0,-2,4.5
 Power Bulbshroom X Nightshade,Nightshade X Power Bulbshroom,30,0,0,0,-3,0,3,4.5
@@ -7865,7 +7865,7 @@ Power Ruby Plant X Tame Tiny Flower,Tame Tiny Flower X Power Ruby Plant,60,50,0,
 Power Ruby Plant X Tame Sun Flower,Tame Sun Flower X Power Ruby Plant,60,0,0,45,2,0,4,3
 Power Ruby Plant X Tame Fire Flower,Tame Fire Flower X Power Ruby Plant,60,0,0,45,2,0,2,3
 Power Ruby Plant X Tame Pinwheel Flower,Tame Pinwheel Flower X Power Ruby Plant,60,0,0,30,3,0,2,3
-Power Ruby Plant X Tame Fake Flower,Tame Fake Flower X Power Ruby Plant,30,0,0,75,0,0,0,1
+Power Ruby Plant X Tame Flake Flower,Tame Flake Flower X Power Ruby Plant,30,0,0,75,0,0,0,1
 Power Ruby Plant X Magic Mushroom,Magic Mushroom X Power Ruby Plant,140,0,0,0,2,0,2,3
 Power Ruby Plant X Snow Flobes,Snow Flobes X Power Ruby Plant,120,0,0,0,2,0,2,3
 Power Ruby Plant X Squish,Squish X Power Ruby Plant,100,0,0,0,2,0,2,3
@@ -7915,7 +7915,7 @@ Power Ruby Plant X Yarrow,Yarrow X Power Ruby Plant,60,0,30,0,2,0,2,3
 Power Ruby Plant X Spirit Bane,Spirit Bane X Power Ruby Plant,60,0,0,0,2,0,-3,8
 Power Ruby Plant X Prickly Plant,Prickly Plant X Power Ruby Plant,60,0,0,0,2,0,2,-1
 Power Ruby Plant X Erdenleaf,Erdenleaf X Power Ruby Plant,60,0,0,0,2,-2,2,3
-Power Ruby Plant X Fake Flower,Fake Flower X Power Ruby Plant,30,0,0,50,0,0,0,1
+Power Ruby Plant X Flake Flower,Flake Flower X Power Ruby Plant,30,0,0,50,0,0,0,1
 Power Ruby Plant X Spiky Plant,Spiky Plant X Power Ruby Plant,30,0,0,0,2,0,-1,3
 Power Ruby Plant X Saplant,Saplant X Power Ruby Plant,30,0,0,0,2,0,-3,3
 Power Ruby Plant X Nightshade,Nightshade X Power Ruby Plant,30,0,0,0,-1,0,2,3
@@ -7947,7 +7947,7 @@ Power Black Pearl X Tame Tiny Flower,Tame Tiny Flower X Power Black Pearl,60,50,
 Power Black Pearl X Tame Sun Flower,Tame Sun Flower X Power Black Pearl,60,0,0,45,0,-3,2,7.5
 Power Black Pearl X Tame Fire Flower,Tame Fire Flower X Power Black Pearl,60,0,0,45,0,-3,0,7.5
 Power Black Pearl X Tame Pinwheel Flower,Tame Pinwheel Flower X Power Black Pearl,60,0,0,30,1,-3,0,7.5
-Power Black Pearl X Tame Fake Flower,Tame Fake Flower X Power Black Pearl,30,0,0,75,-2,-3,-2,5.5
+Power Black Pearl X Tame Flake Flower,Tame Flake Flower X Power Black Pearl,30,0,0,75,-2,-3,-2,5.5
 Power Black Pearl X Magic Mushroom,Magic Mushroom X Power Black Pearl,140,0,0,0,0,-3,0,7.5
 Power Black Pearl X Snow Flobes,Snow Flobes X Power Black Pearl,120,0,0,0,0,-3,0,7.5
 Power Black Pearl X Squish,Squish X Power Black Pearl,100,0,0,0,0,-3,0,7.5
@@ -7997,7 +7997,7 @@ Power Black Pearl X Yarrow,Yarrow X Power Black Pearl,60,0,30,0,0,-3,0,7.5
 Power Black Pearl X Spirit Bane,Spirit Bane X Power Black Pearl,60,0,0,0,0,-3,-5,12.5
 Power Black Pearl X Prickly Plant,Prickly Plant X Power Black Pearl,60,0,0,0,0,-3,0,3.5
 Power Black Pearl X Erdenleaf,Erdenleaf X Power Black Pearl,60,0,0,0,0,-5,0,7.5
-Power Black Pearl X Fake Flower,Fake Flower X Power Black Pearl,30,0,0,50,-2,-3,-2,5.5
+Power Black Pearl X Flake Flower,Flake Flower X Power Black Pearl,30,0,0,50,-2,-3,-2,5.5
 Power Black Pearl X Spiky Plant,Spiky Plant X Power Black Pearl,30,0,0,0,0,-3,-3,7.5
 Power Black Pearl X Saplant,Saplant X Power Black Pearl,30,0,0,0,0,-3,-5,7.5
 Power Black Pearl X Nightshade,Nightshade X Power Black Pearl,30,0,0,0,-3,-3,0,7.5
@@ -8028,7 +8028,7 @@ Power Electricone X Tame Tiny Flower,Tame Tiny Flower X Power Electricone,50,50,
 Power Electricone X Tame Sun Flower,Tame Sun Flower X Power Electricone,50,0,0,45,0,0,2,6
 Power Electricone X Tame Fire Flower,Tame Fire Flower X Power Electricone,50,0,0,45,0,0,0,6
 Power Electricone X Tame Pinwheel Flower,Tame Pinwheel Flower X Power Electricone,50,0,0,30,1,0,0,6
-Power Electricone X Tame Fake Flower,Tame Fake Flower X Power Electricone,20,0,0,75,-2,0,-2,4
+Power Electricone X Tame Flake Flower,Tame Flake Flower X Power Electricone,20,0,0,75,-2,0,-2,4
 Power Electricone X Magic Mushroom,Magic Mushroom X Power Electricone,130,0,0,0,0,0,0,6
 Power Electricone X Snow Flobes,Snow Flobes X Power Electricone,110,0,0,0,0,0,0,6
 Power Electricone X Squish,Squish X Power Electricone,90,0,0,0,0,0,0,6
@@ -8078,7 +8078,7 @@ Power Electricone X Yarrow,Yarrow X Power Electricone,50,0,30,0,0,0,0,6
 Power Electricone X Spirit Bane,Spirit Bane X Power Electricone,50,0,0,0,0,0,-5,11
 Power Electricone X Prickly Plant,Prickly Plant X Power Electricone,50,0,0,0,0,0,0,2
 Power Electricone X Erdenleaf,Erdenleaf X Power Electricone,50,0,0,0,0,-2,0,6
-Power Electricone X Fake Flower,Fake Flower X Power Electricone,20,0,0,50,-2,0,-2,4
+Power Electricone X Flake Flower,Flake Flower X Power Electricone,20,0,0,50,-2,0,-2,4
 Power Electricone X Spiky Plant,Spiky Plant X Power Electricone,20,0,0,0,0,0,-3,6
 Power Electricone X Saplant,Saplant X Power Electricone,20,0,0,0,0,0,-5,6
 Power Electricone X Nightshade,Nightshade X Power Electricone,20,0,0,0,-3,0,0,6
@@ -8108,7 +8108,7 @@ Power Fuzzball X Tame Tiny Flower,Tame Tiny Flower X Power Fuzzball,50,50,0,45,1
 Power Fuzzball X Tame Sun Flower,Tame Sun Flower X Power Fuzzball,50,0,0,45,1,0,3,1.5
 Power Fuzzball X Tame Fire Flower,Tame Fire Flower X Power Fuzzball,50,0,0,45,1,0,1,1.5
 Power Fuzzball X Tame Pinwheel Flower,Tame Pinwheel Flower X Power Fuzzball,50,0,0,30,2,0,1,1.5
-Power Fuzzball X Tame Fake Flower,Tame Fake Flower X Power Fuzzball,20,0,0,75,-1,0,-1,-0.5
+Power Fuzzball X Tame Flake Flower,Tame Flake Flower X Power Fuzzball,20,0,0,75,-1,0,-1,-0.5
 Power Fuzzball X Magic Mushroom,Magic Mushroom X Power Fuzzball,130,0,0,0,1,0,1,1.5
 Power Fuzzball X Snow Flobes,Snow Flobes X Power Fuzzball,110,0,0,0,1,0,1,1.5
 Power Fuzzball X Squish,Squish X Power Fuzzball,90,0,0,0,1,0,1,1.5
@@ -8158,7 +8158,7 @@ Power Fuzzball X Yarrow,Yarrow X Power Fuzzball,50,0,30,0,1,0,1,1.5
 Power Fuzzball X Spirit Bane,Spirit Bane X Power Fuzzball,50,0,0,0,1,0,-4,6.5
 Power Fuzzball X Prickly Plant,Prickly Plant X Power Fuzzball,50,0,0,0,1,0,1,-2.5
 Power Fuzzball X Erdenleaf,Erdenleaf X Power Fuzzball,50,0,0,0,1,-2,1,1.5
-Power Fuzzball X Fake Flower,Fake Flower X Power Fuzzball,20,0,0,50,-1,0,-1,-0.5
+Power Fuzzball X Flake Flower,Flake Flower X Power Fuzzball,20,0,0,50,-1,0,-1,-0.5
 Power Fuzzball X Spiky Plant,Spiky Plant X Power Fuzzball,20,0,0,0,1,0,-2,1.5
 Power Fuzzball X Saplant,Saplant X Power Fuzzball,20,0,0,0,1,0,-4,1.5
 Power Fuzzball X Nightshade,Nightshade X Power Fuzzball,20,0,0,0,-2,0,1,1.5
@@ -8187,7 +8187,7 @@ Power Zaplant X Tame Tiny Flower,Tame Tiny Flower X Power Zaplant,40,50,0,45,0,1
 Power Zaplant X Tame Sun Flower,Tame Sun Flower X Power Zaplant,40,0,0,45,0,1,2,4.5
 Power Zaplant X Tame Fire Flower,Tame Fire Flower X Power Zaplant,40,0,0,45,0,1,0,4.5
 Power Zaplant X Tame Pinwheel Flower,Tame Pinwheel Flower X Power Zaplant,40,0,0,30,1,1,0,4.5
-Power Zaplant X Tame Fake Flower,Tame Fake Flower X Power Zaplant,10,0,0,75,-2,1,-2,2.5
+Power Zaplant X Tame Flake Flower,Tame Flake Flower X Power Zaplant,10,0,0,75,-2,1,-2,2.5
 Power Zaplant X Magic Mushroom,Magic Mushroom X Power Zaplant,120,0,0,0,0,1,0,4.5
 Power Zaplant X Snow Flobes,Snow Flobes X Power Zaplant,100,0,0,0,0,1,0,4.5
 Power Zaplant X Squish,Squish X Power Zaplant,80,0,0,0,0,1,0,4.5
@@ -8237,7 +8237,7 @@ Power Zaplant X Yarrow,Yarrow X Power Zaplant,40,0,30,0,0,1,0,4.5
 Power Zaplant X Spirit Bane,Spirit Bane X Power Zaplant,40,0,0,0,0,1,-5,9.5
 Power Zaplant X Prickly Plant,Prickly Plant X Power Zaplant,40,0,0,0,0,1,0,0.5
 Power Zaplant X Erdenleaf,Erdenleaf X Power Zaplant,40,0,0,0,0,-1,0,4.5
-Power Zaplant X Fake Flower,Fake Flower X Power Zaplant,10,0,0,50,-2,1,-2,2.5
+Power Zaplant X Flake Flower,Flake Flower X Power Zaplant,10,0,0,50,-2,1,-2,2.5
 Power Zaplant X Spiky Plant,Spiky Plant X Power Zaplant,10,0,0,0,0,1,-3,4.5
 Power Zaplant X Saplant,Saplant X Power Zaplant,10,0,0,0,0,1,-5,4.5
 Power Zaplant X Nightshade,Nightshade X Power Zaplant,10,0,0,0,-3,1,0,4.5
@@ -8265,7 +8265,7 @@ Power Wingfruit X Tame Tiny Flower,Tame Tiny Flower X Power Wingfruit,40,50,0,45
 Power Wingfruit X Tame Sun Flower,Tame Sun Flower X Power Wingfruit,40,0,0,45,-8,0,2,12
 Power Wingfruit X Tame Fire Flower,Tame Fire Flower X Power Wingfruit,40,0,0,45,-8,0,0,12
 Power Wingfruit X Tame Pinwheel Flower,Tame Pinwheel Flower X Power Wingfruit,40,0,0,30,-7,0,0,12
-Power Wingfruit X Tame Fake Flower,Tame Fake Flower X Power Wingfruit,10,0,0,75,-10,0,-2,10
+Power Wingfruit X Tame Flake Flower,Tame Flake Flower X Power Wingfruit,10,0,0,75,-10,0,-2,10
 Power Wingfruit X Magic Mushroom,Magic Mushroom X Power Wingfruit,120,0,0,0,-8,0,0,12
 Power Wingfruit X Snow Flobes,Snow Flobes X Power Wingfruit,100,0,0,0,-8,0,0,12
 Power Wingfruit X Squish,Squish X Power Wingfruit,80,0,0,0,-8,0,0,12
@@ -8315,7 +8315,7 @@ Power Wingfruit X Yarrow,Yarrow X Power Wingfruit,40,0,30,0,-8,0,0,12
 Power Wingfruit X Spirit Bane,Spirit Bane X Power Wingfruit,40,0,0,0,-8,0,-5,17
 Power Wingfruit X Prickly Plant,Prickly Plant X Power Wingfruit,40,0,0,0,-8,0,0,8
 Power Wingfruit X Erdenleaf,Erdenleaf X Power Wingfruit,40,0,0,0,-8,-2,0,12
-Power Wingfruit X Fake Flower,Fake Flower X Power Wingfruit,10,0,0,50,-10,0,-2,10
+Power Wingfruit X Flake Flower,Flake Flower X Power Wingfruit,10,0,0,50,-10,0,-2,10
 Power Wingfruit X Spiky Plant,Spiky Plant X Power Wingfruit,10,0,0,0,-8,0,-3,12
 Power Wingfruit X Saplant,Saplant X Power Wingfruit,10,0,0,0,-8,0,-5,12
 Power Wingfruit X Nightshade,Nightshade X Power Wingfruit,10,0,0,0,-11,0,0,12
@@ -8342,7 +8342,7 @@ Power Umbrellashroom X Tame Tiny Flower,Tame Tiny Flower X Power Umbrellashroom,
 Power Umbrellashroom X Tame Sun Flower,Tame Sun Flower X Power Umbrellashroom,40,0,0,45,-1,0,2,3
 Power Umbrellashroom X Tame Fire Flower,Tame Fire Flower X Power Umbrellashroom,40,0,0,45,-1,0,0,3
 Power Umbrellashroom X Tame Pinwheel Flower,Tame Pinwheel Flower X Power Umbrellashroom,40,0,0,30,0,0,0,3
-Power Umbrellashroom X Tame Fake Flower,Tame Fake Flower X Power Umbrellashroom,10,0,0,75,-3,0,-2,1
+Power Umbrellashroom X Tame Flake Flower,Tame Flake Flower X Power Umbrellashroom,10,0,0,75,-3,0,-2,1
 Power Umbrellashroom X Magic Mushroom,Magic Mushroom X Power Umbrellashroom,120,0,0,0,-1,0,0,3
 Power Umbrellashroom X Snow Flobes,Snow Flobes X Power Umbrellashroom,100,0,0,0,-1,0,0,3
 Power Umbrellashroom X Squish,Squish X Power Umbrellashroom,80,0,0,0,-1,0,0,3
@@ -8392,7 +8392,7 @@ Power Umbrellashroom X Yarrow,Yarrow X Power Umbrellashroom,40,0,30,0,-1,0,0,3
 Power Umbrellashroom X Spirit Bane,Spirit Bane X Power Umbrellashroom,40,0,0,0,-1,0,-5,8
 Power Umbrellashroom X Prickly Plant,Prickly Plant X Power Umbrellashroom,40,0,0,0,-1,0,0,-1
 Power Umbrellashroom X Erdenleaf,Erdenleaf X Power Umbrellashroom,40,0,0,0,-1,-2,0,3
-Power Umbrellashroom X Fake Flower,Fake Flower X Power Umbrellashroom,10,0,0,50,-3,0,-2,1
+Power Umbrellashroom X Flake Flower,Flake Flower X Power Umbrellashroom,10,0,0,50,-3,0,-2,1
 Power Umbrellashroom X Spiky Plant,Spiky Plant X Power Umbrellashroom,10,0,0,0,-1,0,-3,3
 Power Umbrellashroom X Saplant,Saplant X Power Umbrellashroom,10,0,0,0,-1,0,-5,3
 Power Umbrellashroom X Nightshade,Nightshade X Power Umbrellashroom,10,0,0,0,-4,0,0,3
@@ -8418,7 +8418,7 @@ Power Mossball X Tame Tiny Flower,Tame Tiny Flower X Power Mossball,40,50,10,45,
 Power Mossball X Tame Sun Flower,Tame Sun Flower X Power Mossball,40,0,10,45,0,0,3,1.5
 Power Mossball X Tame Fire Flower,Tame Fire Flower X Power Mossball,40,0,10,45,0,0,1,1.5
 Power Mossball X Tame Pinwheel Flower,Tame Pinwheel Flower X Power Mossball,40,0,10,30,1,0,1,1.5
-Power Mossball X Tame Fake Flower,Tame Fake Flower X Power Mossball,10,0,10,75,-2,0,-1,-0.5
+Power Mossball X Tame Flake Flower,Tame Flake Flower X Power Mossball,10,0,10,75,-2,0,-1,-0.5
 Power Mossball X Magic Mushroom,Magic Mushroom X Power Mossball,120,0,10,0,0,0,1,1.5
 Power Mossball X Snow Flobes,Snow Flobes X Power Mossball,100,0,10,0,0,0,1,1.5
 Power Mossball X Squish,Squish X Power Mossball,80,0,10,0,0,0,1,1.5
@@ -8468,7 +8468,7 @@ Power Mossball X Yarrow,Yarrow X Power Mossball,40,0,40,0,0,0,1,1.5
 Power Mossball X Spirit Bane,Spirit Bane X Power Mossball,40,0,10,0,0,0,-4,6.5
 Power Mossball X Prickly Plant,Prickly Plant X Power Mossball,40,0,10,0,0,0,1,-2.5
 Power Mossball X Erdenleaf,Erdenleaf X Power Mossball,40,0,10,0,0,-2,1,1.5
-Power Mossball X Fake Flower,Fake Flower X Power Mossball,10,0,10,50,-2,0,-1,-0.5
+Power Mossball X Flake Flower,Flake Flower X Power Mossball,10,0,10,50,-2,0,-1,-0.5
 Power Mossball X Spiky Plant,Spiky Plant X Power Mossball,10,0,10,0,0,0,-2,1.5
 Power Mossball X Saplant,Saplant X Power Mossball,10,0,10,0,0,0,-4,1.5
 Power Mossball X Nightshade,Nightshade X Power Mossball,10,0,10,0,-3,0,1,1.5
@@ -8493,7 +8493,7 @@ Power Nimbus Plant X Tame Tiny Flower,Tame Tiny Flower X Power Nimbus Plant,40,5
 Power Nimbus Plant X Tame Sun Flower,Tame Sun Flower X Power Nimbus Plant,40,0,0,45,0,0,2,4.5
 Power Nimbus Plant X Tame Fire Flower,Tame Fire Flower X Power Nimbus Plant,40,0,0,45,0,0,0,4.5
 Power Nimbus Plant X Tame Pinwheel Flower,Tame Pinwheel Flower X Power Nimbus Plant,40,0,0,30,1,0,0,4.5
-Power Nimbus Plant X Tame Fake Flower,Tame Fake Flower X Power Nimbus Plant,10,0,0,75,-2,0,-2,2.5
+Power Nimbus Plant X Tame Flake Flower,Tame Flake Flower X Power Nimbus Plant,10,0,0,75,-2,0,-2,2.5
 Power Nimbus Plant X Magic Mushroom,Magic Mushroom X Power Nimbus Plant,120,0,0,0,0,0,0,4.5
 Power Nimbus Plant X Snow Flobes,Snow Flobes X Power Nimbus Plant,100,0,0,0,0,0,0,4.5
 Power Nimbus Plant X Squish,Squish X Power Nimbus Plant,80,0,0,0,0,0,0,4.5
@@ -8543,7 +8543,7 @@ Power Nimbus Plant X Yarrow,Yarrow X Power Nimbus Plant,40,0,30,0,0,0,0,4.5
 Power Nimbus Plant X Spirit Bane,Spirit Bane X Power Nimbus Plant,40,0,0,0,0,0,-5,9.5
 Power Nimbus Plant X Prickly Plant,Prickly Plant X Power Nimbus Plant,40,0,0,0,0,0,0,0.5
 Power Nimbus Plant X Erdenleaf,Erdenleaf X Power Nimbus Plant,40,0,0,0,0,-2,0,4.5
-Power Nimbus Plant X Fake Flower,Fake Flower X Power Nimbus Plant,10,0,0,50,-2,0,-2,2.5
+Power Nimbus Plant X Flake Flower,Flake Flower X Power Nimbus Plant,10,0,0,50,-2,0,-2,2.5
 Power Nimbus Plant X Spiky Plant,Spiky Plant X Power Nimbus Plant,10,0,0,0,0,0,-3,4.5
 Power Nimbus Plant X Saplant,Saplant X Power Nimbus Plant,10,0,0,0,0,0,-5,4.5
 Power Nimbus Plant X Nightshade,Nightshade X Power Nimbus Plant,10,0,0,0,-3,0,0,4.5
@@ -8567,7 +8567,7 @@ Power Spirit Bane X Tame Tiny Flower,Tame Tiny Flower X Power Spirit Bane,40,50,
 Power Spirit Bane X Tame Sun Flower,Tame Sun Flower X Power Spirit Bane,40,0,0,45,0,0,-3,7.5
 Power Spirit Bane X Tame Fire Flower,Tame Fire Flower X Power Spirit Bane,40,0,0,45,0,0,-5,7.5
 Power Spirit Bane X Tame Pinwheel Flower,Tame Pinwheel Flower X Power Spirit Bane,40,0,0,30,1,0,-5,7.5
-Power Spirit Bane X Tame Fake Flower,Tame Fake Flower X Power Spirit Bane,10,0,0,75,-2,0,-7,5.5
+Power Spirit Bane X Tame Flake Flower,Tame Flake Flower X Power Spirit Bane,10,0,0,75,-2,0,-7,5.5
 Power Spirit Bane X Magic Mushroom,Magic Mushroom X Power Spirit Bane,120,0,0,0,0,0,-5,7.5
 Power Spirit Bane X Snow Flobes,Snow Flobes X Power Spirit Bane,100,0,0,0,0,0,-5,7.5
 Power Spirit Bane X Squish,Squish X Power Spirit Bane,80,0,0,0,0,0,-5,7.5
@@ -8617,7 +8617,7 @@ Power Spirit Bane X Yarrow,Yarrow X Power Spirit Bane,40,0,30,0,0,0,-5,7.5
 Power Spirit Bane X Spirit Bane,Spirit Bane X Power Spirit Bane,40,0,0,0,0,0,-10,12.5
 Power Spirit Bane X Prickly Plant,Prickly Plant X Power Spirit Bane,40,0,0,0,0,0,-5,3.5
 Power Spirit Bane X Erdenleaf,Erdenleaf X Power Spirit Bane,40,0,0,0,0,-2,-5,7.5
-Power Spirit Bane X Fake Flower,Fake Flower X Power Spirit Bane,10,0,0,50,-2,0,-7,5.5
+Power Spirit Bane X Flake Flower,Flake Flower X Power Spirit Bane,10,0,0,50,-2,0,-7,5.5
 Power Spirit Bane X Spiky Plant,Spiky Plant X Power Spirit Bane,10,0,0,0,0,0,-8,7.5
 Power Spirit Bane X Saplant,Saplant X Power Spirit Bane,10,0,0,0,0,0,-10,7.5
 Power Spirit Bane X Nightshade,Nightshade X Power Spirit Bane,10,0,0,0,-3,0,-5,7.5
@@ -8640,7 +8640,7 @@ Speed Bulbshroom X Tame Tiny Flower,Tame Tiny Flower X Speed Bulbshroom,60,50,0,
 Speed Bulbshroom X Tame Sun Flower,Tame Sun Flower X Speed Bulbshroom,60,0,0,45,0,0,6.5,3
 Speed Bulbshroom X Tame Fire Flower,Tame Fire Flower X Speed Bulbshroom,60,0,0,45,0,0,4.5,3
 Speed Bulbshroom X Tame Pinwheel Flower,Tame Pinwheel Flower X Speed Bulbshroom,60,0,0,30,1,0,4.5,3
-Speed Bulbshroom X Tame Fake Flower,Tame Fake Flower X Speed Bulbshroom,30,0,0,75,-2,0,2.5,1
+Speed Bulbshroom X Tame Flake Flower,Tame Flake Flower X Speed Bulbshroom,30,0,0,75,-2,0,2.5,1
 Speed Bulbshroom X Magic Mushroom,Magic Mushroom X Speed Bulbshroom,140,0,0,0,0,0,4.5,3
 Speed Bulbshroom X Snow Flobes,Snow Flobes X Speed Bulbshroom,120,0,0,0,0,0,4.5,3
 Speed Bulbshroom X Squish,Squish X Speed Bulbshroom,100,0,0,0,0,0,4.5,3
@@ -8690,7 +8690,7 @@ Speed Bulbshroom X Yarrow,Yarrow X Speed Bulbshroom,60,0,30,0,0,0,4.5,3
 Speed Bulbshroom X Spirit Bane,Spirit Bane X Speed Bulbshroom,60,0,0,0,0,0,-0.5,8
 Speed Bulbshroom X Prickly Plant,Prickly Plant X Speed Bulbshroom,60,0,0,0,0,0,4.5,-1
 Speed Bulbshroom X Erdenleaf,Erdenleaf X Speed Bulbshroom,60,0,0,0,0,-2,4.5,3
-Speed Bulbshroom X Fake Flower,Fake Flower X Speed Bulbshroom,30,0,0,50,-2,0,2.5,1
+Speed Bulbshroom X Flake Flower,Flake Flower X Speed Bulbshroom,30,0,0,50,-2,0,2.5,1
 Speed Bulbshroom X Spiky Plant,Spiky Plant X Speed Bulbshroom,30,0,0,0,0,0,1.5,3
 Speed Bulbshroom X Saplant,Saplant X Speed Bulbshroom,30,0,0,0,0,0,-0.5,3
 Speed Bulbshroom X Nightshade,Nightshade X Speed Bulbshroom,30,0,0,0,-3,0,4.5,3
@@ -8712,7 +8712,7 @@ Speed Ruby Plant X Tame Tiny Flower,Tame Tiny Flower X Speed Ruby Plant,60,50,0,
 Speed Ruby Plant X Tame Sun Flower,Tame Sun Flower X Speed Ruby Plant,60,0,0,45,2,0,5,2
 Speed Ruby Plant X Tame Fire Flower,Tame Fire Flower X Speed Ruby Plant,60,0,0,45,2,0,3,2
 Speed Ruby Plant X Tame Pinwheel Flower,Tame Pinwheel Flower X Speed Ruby Plant,60,0,0,30,3,0,3,2
-Speed Ruby Plant X Tame Fake Flower,Tame Fake Flower X Speed Ruby Plant,30,0,0,75,0,0,1,0
+Speed Ruby Plant X Tame Flake Flower,Tame Flake Flower X Speed Ruby Plant,30,0,0,75,0,0,1,0
 Speed Ruby Plant X Magic Mushroom,Magic Mushroom X Speed Ruby Plant,140,0,0,0,2,0,3,2
 Speed Ruby Plant X Snow Flobes,Snow Flobes X Speed Ruby Plant,120,0,0,0,2,0,3,2
 Speed Ruby Plant X Squish,Squish X Speed Ruby Plant,100,0,0,0,2,0,3,2
@@ -8762,7 +8762,7 @@ Speed Ruby Plant X Yarrow,Yarrow X Speed Ruby Plant,60,0,30,0,2,0,3,2
 Speed Ruby Plant X Spirit Bane,Spirit Bane X Speed Ruby Plant,60,0,0,0,2,0,-2,7
 Speed Ruby Plant X Prickly Plant,Prickly Plant X Speed Ruby Plant,60,0,0,0,2,0,3,-2
 Speed Ruby Plant X Erdenleaf,Erdenleaf X Speed Ruby Plant,60,0,0,0,2,-2,3,2
-Speed Ruby Plant X Fake Flower,Fake Flower X Speed Ruby Plant,30,0,0,50,0,0,1,0
+Speed Ruby Plant X Flake Flower,Flake Flower X Speed Ruby Plant,30,0,0,50,0,0,1,0
 Speed Ruby Plant X Spiky Plant,Spiky Plant X Speed Ruby Plant,30,0,0,0,2,0,0,2
 Speed Ruby Plant X Saplant,Saplant X Speed Ruby Plant,30,0,0,0,2,0,-2,2
 Speed Ruby Plant X Nightshade,Nightshade X Speed Ruby Plant,30,0,0,0,-1,0,3,2
@@ -8783,7 +8783,7 @@ Speed Fuzzball X Tame Tiny Flower,Tame Tiny Flower X Speed Fuzzball,50,50,0,45,1
 Speed Fuzzball X Tame Sun Flower,Tame Sun Flower X Speed Fuzzball,50,0,0,45,1,0,3.5,1
 Speed Fuzzball X Tame Fire Flower,Tame Fire Flower X Speed Fuzzball,50,0,0,45,1,0,1.5,1
 Speed Fuzzball X Tame Pinwheel Flower,Tame Pinwheel Flower X Speed Fuzzball,50,0,0,30,2,0,1.5,1
-Speed Fuzzball X Tame Fake Flower,Tame Fake Flower X Speed Fuzzball,20,0,0,75,-1,0,-0.5,-1
+Speed Fuzzball X Tame Flake Flower,Tame Flake Flower X Speed Fuzzball,20,0,0,75,-1,0,-0.5,-1
 Speed Fuzzball X Magic Mushroom,Magic Mushroom X Speed Fuzzball,130,0,0,0,1,0,1.5,1
 Speed Fuzzball X Snow Flobes,Snow Flobes X Speed Fuzzball,110,0,0,0,1,0,1.5,1
 Speed Fuzzball X Squish,Squish X Speed Fuzzball,90,0,0,0,1,0,1.5,1
@@ -8833,7 +8833,7 @@ Speed Fuzzball X Yarrow,Yarrow X Speed Fuzzball,50,0,30,0,1,0,1.5,1
 Speed Fuzzball X Spirit Bane,Spirit Bane X Speed Fuzzball,50,0,0,0,1,0,-3.5,6
 Speed Fuzzball X Prickly Plant,Prickly Plant X Speed Fuzzball,50,0,0,0,1,0,1.5,-3
 Speed Fuzzball X Erdenleaf,Erdenleaf X Speed Fuzzball,50,0,0,0,1,-2,1.5,1
-Speed Fuzzball X Fake Flower,Fake Flower X Speed Fuzzball,20,0,0,50,-1,0,-0.5,-1
+Speed Fuzzball X Flake Flower,Flake Flower X Speed Fuzzball,20,0,0,50,-1,0,-0.5,-1
 Speed Fuzzball X Spiky Plant,Spiky Plant X Speed Fuzzball,20,0,0,0,1,0,-1.5,1
 Speed Fuzzball X Saplant,Saplant X Speed Fuzzball,20,0,0,0,1,0,-3.5,1
 Speed Fuzzball X Nightshade,Nightshade X Speed Fuzzball,20,0,0,0,-2,0,1.5,1
@@ -8853,7 +8853,7 @@ Speed Plantern X Tame Tiny Flower,Tame Tiny Flower X Speed Plantern,50,50,0,45,0
 Speed Plantern X Tame Sun Flower,Tame Sun Flower X Speed Plantern,50,0,0,45,0,0,8,0
 Speed Plantern X Tame Fire Flower,Tame Fire Flower X Speed Plantern,50,0,0,45,0,0,6,0
 Speed Plantern X Tame Pinwheel Flower,Tame Pinwheel Flower X Speed Plantern,50,0,0,30,1,0,6,0
-Speed Plantern X Tame Fake Flower,Tame Fake Flower X Speed Plantern,20,0,0,75,-2,0,4,-2
+Speed Plantern X Tame Flake Flower,Tame Flake Flower X Speed Plantern,20,0,0,75,-2,0,4,-2
 Speed Plantern X Magic Mushroom,Magic Mushroom X Speed Plantern,130,0,0,0,0,0,6,0
 Speed Plantern X Snow Flobes,Snow Flobes X Speed Plantern,110,0,0,0,0,0,6,0
 Speed Plantern X Squish,Squish X Speed Plantern,90,0,0,0,0,0,6,0
@@ -8903,7 +8903,7 @@ Speed Plantern X Yarrow,Yarrow X Speed Plantern,50,0,30,0,0,0,6,0
 Speed Plantern X Spirit Bane,Spirit Bane X Speed Plantern,50,0,0,0,0,0,1,5
 Speed Plantern X Prickly Plant,Prickly Plant X Speed Plantern,50,0,0,0,0,0,6,-4
 Speed Plantern X Erdenleaf,Erdenleaf X Speed Plantern,50,0,0,0,0,-2,6,0
-Speed Plantern X Fake Flower,Fake Flower X Speed Plantern,20,0,0,50,-2,0,4,-2
+Speed Plantern X Flake Flower,Flake Flower X Speed Plantern,20,0,0,50,-2,0,4,-2
 Speed Plantern X Spiky Plant,Spiky Plant X Speed Plantern,20,0,0,0,0,0,3,0
 Speed Plantern X Saplant,Saplant X Speed Plantern,20,0,0,0,0,0,1,0
 Speed Plantern X Nightshade,Nightshade X Speed Plantern,20,0,0,0,-3,0,6,0
@@ -8922,7 +8922,7 @@ Speed Sun Flower X Tame Tiny Flower,Tame Tiny Flower X Speed Sun Flower,40,50,0,
 Speed Sun Flower X Tame Sun Flower,Tame Sun Flower X Speed Sun Flower,40,0,0,75,0,0,5,0
 Speed Sun Flower X Tame Fire Flower,Tame Fire Flower X Speed Sun Flower,40,0,0,75,0,0,3,0
 Speed Sun Flower X Tame Pinwheel Flower,Tame Pinwheel Flower X Speed Sun Flower,40,0,0,60,1,0,3,0
-Speed Sun Flower X Tame Fake Flower,Tame Fake Flower X Speed Sun Flower,10,0,0,105,-2,0,1,-2
+Speed Sun Flower X Tame Flake Flower,Tame Flake Flower X Speed Sun Flower,10,0,0,105,-2,0,1,-2
 Speed Sun Flower X Magic Mushroom,Magic Mushroom X Speed Sun Flower,120,0,0,30,0,0,3,0
 Speed Sun Flower X Snow Flobes,Snow Flobes X Speed Sun Flower,100,0,0,30,0,0,3,0
 Speed Sun Flower X Squish,Squish X Speed Sun Flower,80,0,0,30,0,0,3,0
@@ -8972,7 +8972,7 @@ Speed Sun Flower X Yarrow,Yarrow X Speed Sun Flower,40,0,30,30,0,0,3,0
 Speed Sun Flower X Spirit Bane,Spirit Bane X Speed Sun Flower,40,0,0,30,0,0,-2,5
 Speed Sun Flower X Prickly Plant,Prickly Plant X Speed Sun Flower,40,0,0,30,0,0,3,-4
 Speed Sun Flower X Erdenleaf,Erdenleaf X Speed Sun Flower,40,0,0,30,0,-2,3,0
-Speed Sun Flower X Fake Flower,Fake Flower X Speed Sun Flower,10,0,0,80,-2,0,1,-2
+Speed Sun Flower X Flake Flower,Flake Flower X Speed Sun Flower,10,0,0,80,-2,0,1,-2
 Speed Sun Flower X Spiky Plant,Spiky Plant X Speed Sun Flower,10,0,0,30,0,0,0,0
 Speed Sun Flower X Saplant,Saplant X Speed Sun Flower,10,0,0,30,0,0,-2,0
 Speed Sun Flower X Nightshade,Nightshade X Speed Sun Flower,10,0,0,30,-3,0,3,0
@@ -8990,7 +8990,7 @@ Speed CatTail X Tame Tiny Flower,Tame Tiny Flower X Speed CatTail,40,50,0,45,0,0
 Speed CatTail X Tame Sun Flower,Tame Sun Flower X Speed CatTail,40,0,0,45,0,0,6.5,0
 Speed CatTail X Tame Fire Flower,Tame Fire Flower X Speed CatTail,40,0,0,45,0,0,4.5,0
 Speed CatTail X Tame Pinwheel Flower,Tame Pinwheel Flower X Speed CatTail,40,0,0,30,1,0,4.5,0
-Speed CatTail X Tame Fake Flower,Tame Fake Flower X Speed CatTail,10,0,0,75,-2,0,2.5,-2
+Speed CatTail X Tame Flake Flower,Tame Flake Flower X Speed CatTail,10,0,0,75,-2,0,2.5,-2
 Speed CatTail X Magic Mushroom,Magic Mushroom X Speed CatTail,120,0,0,0,0,0,4.5,0
 Speed CatTail X Snow Flobes,Snow Flobes X Speed CatTail,100,0,0,0,0,0,4.5,0
 Speed CatTail X Squish,Squish X Speed CatTail,80,0,0,0,0,0,4.5,0
@@ -9040,7 +9040,7 @@ Speed CatTail X Yarrow,Yarrow X Speed CatTail,40,0,30,0,0,0,4.5,0
 Speed CatTail X Spirit Bane,Spirit Bane X Speed CatTail,40,0,0,0,0,0,-0.5,5
 Speed CatTail X Prickly Plant,Prickly Plant X Speed CatTail,40,0,0,0,0,0,4.5,-4
 Speed CatTail X Erdenleaf,Erdenleaf X Speed CatTail,40,0,0,0,0,-2,4.5,0
-Speed CatTail X Fake Flower,Fake Flower X Speed CatTail,10,0,0,50,-2,0,2.5,-2
+Speed CatTail X Flake Flower,Flake Flower X Speed CatTail,10,0,0,50,-2,0,2.5,-2
 Speed CatTail X Spiky Plant,Spiky Plant X Speed CatTail,10,0,0,0,0,0,1.5,0
 Speed CatTail X Saplant,Saplant X Speed CatTail,10,0,0,0,0,0,-0.5,0
 Speed CatTail X Nightshade,Nightshade X Speed CatTail,10,0,0,0,-3,0,4.5,0
@@ -9057,7 +9057,7 @@ Speed Mossball X Tame Tiny Flower,Tame Tiny Flower X Speed Mossball,40,50,10,45,
 Speed Mossball X Tame Sun Flower,Tame Sun Flower X Speed Mossball,40,0,10,45,0,0,3.5,1
 Speed Mossball X Tame Fire Flower,Tame Fire Flower X Speed Mossball,40,0,10,45,0,0,1.5,1
 Speed Mossball X Tame Pinwheel Flower,Tame Pinwheel Flower X Speed Mossball,40,0,10,30,1,0,1.5,1
-Speed Mossball X Tame Fake Flower,Tame Fake Flower X Speed Mossball,10,0,10,75,-2,0,-0.5,-1
+Speed Mossball X Tame Flake Flower,Tame Flake Flower X Speed Mossball,10,0,10,75,-2,0,-0.5,-1
 Speed Mossball X Magic Mushroom,Magic Mushroom X Speed Mossball,120,0,10,0,0,0,1.5,1
 Speed Mossball X Snow Flobes,Snow Flobes X Speed Mossball,100,0,10,0,0,0,1.5,1
 Speed Mossball X Squish,Squish X Speed Mossball,80,0,10,0,0,0,1.5,1
@@ -9107,7 +9107,7 @@ Speed Mossball X Yarrow,Yarrow X Speed Mossball,40,0,40,0,0,0,1.5,1
 Speed Mossball X Spirit Bane,Spirit Bane X Speed Mossball,40,0,10,0,0,0,-3.5,6
 Speed Mossball X Prickly Plant,Prickly Plant X Speed Mossball,40,0,10,0,0,0,1.5,-3
 Speed Mossball X Erdenleaf,Erdenleaf X Speed Mossball,40,0,10,0,0,-2,1.5,1
-Speed Mossball X Fake Flower,Fake Flower X Speed Mossball,10,0,10,50,-2,0,-0.5,-1
+Speed Mossball X Flake Flower,Flake Flower X Speed Mossball,10,0,10,50,-2,0,-0.5,-1
 Speed Mossball X Spiky Plant,Spiky Plant X Speed Mossball,10,0,10,0,0,0,-1.5,1
 Speed Mossball X Saplant,Saplant X Speed Mossball,10,0,10,0,0,0,-3.5,1
 Speed Mossball X Nightshade,Nightshade X Speed Mossball,10,0,10,0,-3,0,1.5,1
@@ -9123,7 +9123,7 @@ Speed Popsiplant X Tame Tiny Flower,Tame Tiny Flower X Speed Popsiplant,40,50,0,
 Speed Popsiplant X Tame Sun Flower,Tame Sun Flower X Speed Popsiplant,40,0,0,45,1,0,5,0
 Speed Popsiplant X Tame Fire Flower,Tame Fire Flower X Speed Popsiplant,40,0,0,45,1,0,3,0
 Speed Popsiplant X Tame Pinwheel Flower,Tame Pinwheel Flower X Speed Popsiplant,40,0,0,30,2,0,3,0
-Speed Popsiplant X Tame Fake Flower,Tame Fake Flower X Speed Popsiplant,10,0,0,75,-1,0,1,-2
+Speed Popsiplant X Tame Flake Flower,Tame Flake Flower X Speed Popsiplant,10,0,0,75,-1,0,1,-2
 Speed Popsiplant X Magic Mushroom,Magic Mushroom X Speed Popsiplant,120,0,0,0,1,0,3,0
 Speed Popsiplant X Snow Flobes,Snow Flobes X Speed Popsiplant,100,0,0,0,1,0,3,0
 Speed Popsiplant X Squish,Squish X Speed Popsiplant,80,0,0,0,1,0,3,0
@@ -9173,7 +9173,7 @@ Speed Popsiplant X Yarrow,Yarrow X Speed Popsiplant,40,0,30,0,1,0,3,0
 Speed Popsiplant X Spirit Bane,Spirit Bane X Speed Popsiplant,40,0,0,0,1,0,-2,5
 Speed Popsiplant X Prickly Plant,Prickly Plant X Speed Popsiplant,40,0,0,0,1,0,3,-4
 Speed Popsiplant X Erdenleaf,Erdenleaf X Speed Popsiplant,40,0,0,0,1,-2,3,0
-Speed Popsiplant X Fake Flower,Fake Flower X Speed Popsiplant,10,0,0,50,-1,0,1,-2
+Speed Popsiplant X Flake Flower,Flake Flower X Speed Popsiplant,10,0,0,50,-1,0,1,-2
 Speed Popsiplant X Spiky Plant,Spiky Plant X Speed Popsiplant,10,0,0,0,1,0,0,0
 Speed Popsiplant X Saplant,Saplant X Speed Popsiplant,10,0,0,0,1,0,-2,0
 Speed Popsiplant X Nightshade,Nightshade X Speed Popsiplant,10,0,0,0,-2,0,3,0
@@ -9188,7 +9188,7 @@ Speed Bolt X Tame Tiny Flower,Tame Tiny Flower X Speed Bolt,40,50,0,45,0,0,7.5,0
 Speed Bolt X Tame Sun Flower,Tame Sun Flower X Speed Bolt,40,0,0,45,0,0,9.5,0
 Speed Bolt X Tame Fire Flower,Tame Fire Flower X Speed Bolt,40,0,0,45,0,0,7.5,0
 Speed Bolt X Tame Pinwheel Flower,Tame Pinwheel Flower X Speed Bolt,40,0,0,30,1,0,7.5,0
-Speed Bolt X Tame Fake Flower,Tame Fake Flower X Speed Bolt,10,0,0,75,-2,0,5.5,-2
+Speed Bolt X Tame Flake Flower,Tame Flake Flower X Speed Bolt,10,0,0,75,-2,0,5.5,-2
 Speed Bolt X Magic Mushroom,Magic Mushroom X Speed Bolt,120,0,0,0,0,0,7.5,0
 Speed Bolt X Snow Flobes,Snow Flobes X Speed Bolt,100,0,0,0,0,0,7.5,0
 Speed Bolt X Squish,Squish X Speed Bolt,80,0,0,0,0,0,7.5,0
@@ -9238,7 +9238,7 @@ Speed Bolt X Yarrow,Yarrow X Speed Bolt,40,0,30,0,0,0,7.5,0
 Speed Bolt X Spirit Bane,Spirit Bane X Speed Bolt,40,0,0,0,0,0,2.5,5
 Speed Bolt X Prickly Plant,Prickly Plant X Speed Bolt,40,0,0,0,0,0,7.5,-4
 Speed Bolt X Erdenleaf,Erdenleaf X Speed Bolt,40,0,0,0,0,-2,7.5,0
-Speed Bolt X Fake Flower,Fake Flower X Speed Bolt,10,0,0,50,-2,0,5.5,-2
+Speed Bolt X Flake Flower,Flake Flower X Speed Bolt,10,0,0,50,-2,0,5.5,-2
 Speed Bolt X Spiky Plant,Spiky Plant X Speed Bolt,10,0,0,0,0,0,4.5,0
 Speed Bolt X Saplant,Saplant X Speed Bolt,10,0,0,0,0,0,2.5,0
 Speed Bolt X Nightshade,Nightshade X Speed Bolt,10,0,0,0,-3,0,7.5,0
@@ -9252,7 +9252,7 @@ Speed Flameroot X Tame Tiny Flower,Tame Tiny Flower X Speed Flameroot,40,50,0,45
 Speed Flameroot X Tame Sun Flower,Tame Sun Flower X Speed Flameroot,40,0,0,45,0,0,8,0
 Speed Flameroot X Tame Fire Flower,Tame Fire Flower X Speed Flameroot,40,0,0,45,0,0,6,0
 Speed Flameroot X Tame Pinwheel Flower,Tame Pinwheel Flower X Speed Flameroot,40,0,0,30,1,0,6,0
-Speed Flameroot X Tame Fake Flower,Tame Fake Flower X Speed Flameroot,10,0,0,75,-2,0,4,-2
+Speed Flameroot X Tame Flake Flower,Tame Flake Flower X Speed Flameroot,10,0,0,75,-2,0,4,-2
 Speed Flameroot X Magic Mushroom,Magic Mushroom X Speed Flameroot,120,0,0,0,0,0,6,0
 Speed Flameroot X Snow Flobes,Snow Flobes X Speed Flameroot,100,0,0,0,0,0,6,0
 Speed Flameroot X Squish,Squish X Speed Flameroot,80,0,0,0,0,0,6,0
@@ -9302,7 +9302,7 @@ Speed Flameroot X Yarrow,Yarrow X Speed Flameroot,40,0,30,0,0,0,6,0
 Speed Flameroot X Spirit Bane,Spirit Bane X Speed Flameroot,40,0,0,0,0,0,1,5
 Speed Flameroot X Prickly Plant,Prickly Plant X Speed Flameroot,40,0,0,0,0,0,6,-4
 Speed Flameroot X Erdenleaf,Erdenleaf X Speed Flameroot,40,0,0,0,0,-2,6,0
-Speed Flameroot X Fake Flower,Fake Flower X Speed Flameroot,10,0,0,50,-2,0,4,-2
+Speed Flameroot X Flake Flower,Flake Flower X Speed Flameroot,10,0,0,50,-2,0,4,-2
 Speed Flameroot X Spiky Plant,Spiky Plant X Speed Flameroot,10,0,0,0,0,0,3,0
 Speed Flameroot X Saplant,Saplant X Speed Flameroot,10,0,0,0,0,0,1,0
 Speed Flameroot X Nightshade,Nightshade X Speed Flameroot,10,0,0,0,-3,0,6,0
@@ -9315,7 +9315,7 @@ Tame Snowdrop Flower X Tame Tiny Flower,Tame Tiny Flower X Tame Snowdrop Flower,
 Tame Snowdrop Flower X Tame Sun Flower,Tame Sun Flower X Tame Snowdrop Flower,60,500,0,195,0,0,2,0
 Tame Snowdrop Flower X Tame Fire Flower,Tame Fire Flower X Tame Snowdrop Flower,60,500,0,195,0,0,0,0
 Tame Snowdrop Flower X Tame Pinwheel Flower,Tame Pinwheel Flower X Tame Snowdrop Flower,60,500,0,180,1,0,0,0
-Tame Snowdrop Flower X Tame Fake Flower,Tame Fake Flower X Tame Snowdrop Flower,30,500,0,225,-2,0,-2,-2
+Tame Snowdrop Flower X Tame Flake Flower,Tame Flake Flower X Tame Snowdrop Flower,30,500,0,225,-2,0,-2,-2
 Tame Snowdrop Flower X Magic Mushroom,Magic Mushroom X Tame Snowdrop Flower,140,500,0,150,0,0,0,0
 Tame Snowdrop Flower X Snow Flobes,Snow Flobes X Tame Snowdrop Flower,120,500,0,150,0,0,0,0
 Tame Snowdrop Flower X Squish,Squish X Tame Snowdrop Flower,100,500,0,150,0,0,0,0
@@ -9365,7 +9365,7 @@ Tame Snowdrop Flower X Yarrow,Yarrow X Tame Snowdrop Flower,60,500,30,150,0,0,0,
 Tame Snowdrop Flower X Spirit Bane,Spirit Bane X Tame Snowdrop Flower,60,500,0,150,0,0,-5,5
 Tame Snowdrop Flower X Prickly Plant,Prickly Plant X Tame Snowdrop Flower,60,500,0,150,0,0,0,-4
 Tame Snowdrop Flower X Erdenleaf,Erdenleaf X Tame Snowdrop Flower,60,500,0,150,0,-2,0,0
-Tame Snowdrop Flower X Fake Flower,Fake Flower X Tame Snowdrop Flower,30,500,0,200,-2,0,-2,-2
+Tame Snowdrop Flower X Flake Flower,Flake Flower X Tame Snowdrop Flower,30,500,0,200,-2,0,-2,-2
 Tame Snowdrop Flower X Spiky Plant,Spiky Plant X Tame Snowdrop Flower,30,500,0,150,0,0,-3,0
 Tame Snowdrop Flower X Saplant,Saplant X Tame Snowdrop Flower,30,500,0,150,0,0,-5,0
 Tame Snowdrop Flower X Nightshade,Nightshade X Tame Snowdrop Flower,30,500,0,150,-3,0,0,0
@@ -9377,7 +9377,7 @@ Tame Spectre Flower X Tame Tiny Flower,Tame Tiny Flower X Tame Spectre Flower,50
 Tame Spectre Flower X Tame Sun Flower,Tame Sun Flower X Tame Spectre Flower,50,0,0,120,0,0,0,0
 Tame Spectre Flower X Tame Fire Flower,Tame Fire Flower X Tame Spectre Flower,50,0,0,120,0,0,-2,0
 Tame Spectre Flower X Tame Pinwheel Flower,Tame Pinwheel Flower X Tame Spectre Flower,50,0,0,105,1,0,-2,0
-Tame Spectre Flower X Tame Fake Flower,Tame Fake Flower X Tame Spectre Flower,20,0,0,150,-2,0,-4,-2
+Tame Spectre Flower X Tame Flake Flower,Tame Flake Flower X Tame Spectre Flower,20,0,0,150,-2,0,-4,-2
 Tame Spectre Flower X Magic Mushroom,Magic Mushroom X Tame Spectre Flower,130,0,0,75,0,0,-2,0
 Tame Spectre Flower X Snow Flobes,Snow Flobes X Tame Spectre Flower,110,0,0,75,0,0,-2,0
 Tame Spectre Flower X Squish,Squish X Tame Spectre Flower,90,0,0,75,0,0,-2,0
@@ -9427,7 +9427,7 @@ Tame Spectre Flower X Yarrow,Yarrow X Tame Spectre Flower,50,0,30,75,0,0,-2,0
 Tame Spectre Flower X Spirit Bane,Spirit Bane X Tame Spectre Flower,50,0,0,75,0,0,-7,5
 Tame Spectre Flower X Prickly Plant,Prickly Plant X Tame Spectre Flower,50,0,0,75,0,0,-2,-4
 Tame Spectre Flower X Erdenleaf,Erdenleaf X Tame Spectre Flower,50,0,0,75,0,-2,-2,0
-Tame Spectre Flower X Fake Flower,Fake Flower X Tame Spectre Flower,20,0,0,125,-2,0,-4,-2
+Tame Spectre Flower X Flake Flower,Flake Flower X Tame Spectre Flower,20,0,0,125,-2,0,-4,-2
 Tame Spectre Flower X Spiky Plant,Spiky Plant X Tame Spectre Flower,20,0,0,75,0,0,-5,0
 Tame Spectre Flower X Saplant,Saplant X Tame Spectre Flower,20,0,0,75,0,0,-7,0
 Tame Spectre Flower X Nightshade,Nightshade X Tame Spectre Flower,20,0,0,75,-3,0,-2,0
@@ -9438,7 +9438,7 @@ Tame Flag Flower X Tame Tiny Flower,Tame Tiny Flower X Tame Flag Flower,50,50,0,
 Tame Flag Flower X Tame Sun Flower,Tame Sun Flower X Tame Flag Flower,50,0,0,105,0,0,2,0
 Tame Flag Flower X Tame Fire Flower,Tame Fire Flower X Tame Flag Flower,50,0,0,105,0,0,0,0
 Tame Flag Flower X Tame Pinwheel Flower,Tame Pinwheel Flower X Tame Flag Flower,50,0,0,90,1,0,0,0
-Tame Flag Flower X Tame Fake Flower,Tame Fake Flower X Tame Flag Flower,20,0,0,135,-2,0,-2,-2
+Tame Flag Flower X Tame Flake Flower,Tame Flake Flower X Tame Flag Flower,20,0,0,135,-2,0,-2,-2
 Tame Flag Flower X Magic Mushroom,Magic Mushroom X Tame Flag Flower,130,0,0,60,0,0,0,0
 Tame Flag Flower X Snow Flobes,Snow Flobes X Tame Flag Flower,110,0,0,60,0,0,0,0
 Tame Flag Flower X Squish,Squish X Tame Flag Flower,90,0,0,60,0,0,0,0
@@ -9488,7 +9488,7 @@ Tame Flag Flower X Yarrow,Yarrow X Tame Flag Flower,50,0,30,60,0,0,0,0
 Tame Flag Flower X Spirit Bane,Spirit Bane X Tame Flag Flower,50,0,0,60,0,0,-5,5
 Tame Flag Flower X Prickly Plant,Prickly Plant X Tame Flag Flower,50,0,0,60,0,0,0,-4
 Tame Flag Flower X Erdenleaf,Erdenleaf X Tame Flag Flower,50,0,0,60,0,-2,0,0
-Tame Flag Flower X Fake Flower,Fake Flower X Tame Flag Flower,20,0,0,110,-2,0,-2,-2
+Tame Flag Flower X Flake Flower,Flake Flower X Tame Flag Flower,20,0,0,110,-2,0,-2,-2
 Tame Flag Flower X Spiky Plant,Spiky Plant X Tame Flag Flower,20,0,0,60,0,0,-3,0
 Tame Flag Flower X Saplant,Saplant X Tame Flag Flower,20,0,0,60,0,0,-5,0
 Tame Flag Flower X Nightshade,Nightshade X Tame Flag Flower,20,0,0,60,-3,0,0,0
@@ -9498,7 +9498,7 @@ Tame Tiny Flower X Tame Tiny Flower,Tame Tiny Flower X Tame Tiny Flower,40,100,0
 Tame Tiny Flower X Tame Sun Flower,Tame Sun Flower X Tame Tiny Flower,40,50,0,90,0,0,2,0
 Tame Tiny Flower X Tame Fire Flower,Tame Fire Flower X Tame Tiny Flower,40,50,0,90,0,0,0,0
 Tame Tiny Flower X Tame Pinwheel Flower,Tame Pinwheel Flower X Tame Tiny Flower,40,50,0,75,1,0,0,0
-Tame Tiny Flower X Tame Fake Flower,Tame Fake Flower X Tame Tiny Flower,10,50,0,120,-2,0,-2,-2
+Tame Tiny Flower X Tame Flake Flower,Tame Flake Flower X Tame Tiny Flower,10,50,0,120,-2,0,-2,-2
 Tame Tiny Flower X Magic Mushroom,Magic Mushroom X Tame Tiny Flower,120,50,0,45,0,0,0,0
 Tame Tiny Flower X Snow Flobes,Snow Flobes X Tame Tiny Flower,100,50,0,45,0,0,0,0
 Tame Tiny Flower X Squish,Squish X Tame Tiny Flower,80,50,0,45,0,0,0,0
@@ -9548,7 +9548,7 @@ Tame Tiny Flower X Yarrow,Yarrow X Tame Tiny Flower,40,50,30,45,0,0,0,0
 Tame Tiny Flower X Spirit Bane,Spirit Bane X Tame Tiny Flower,40,50,0,45,0,0,-5,5
 Tame Tiny Flower X Prickly Plant,Prickly Plant X Tame Tiny Flower,40,50,0,45,0,0,0,-4
 Tame Tiny Flower X Erdenleaf,Erdenleaf X Tame Tiny Flower,40,50,0,45,0,-2,0,0
-Tame Tiny Flower X Fake Flower,Fake Flower X Tame Tiny Flower,10,50,0,95,-2,0,-2,-2
+Tame Tiny Flower X Flake Flower,Flake Flower X Tame Tiny Flower,10,50,0,95,-2,0,-2,-2
 Tame Tiny Flower X Spiky Plant,Spiky Plant X Tame Tiny Flower,10,50,0,45,0,0,-3,0
 Tame Tiny Flower X Saplant,Saplant X Tame Tiny Flower,10,50,0,45,0,0,-5,0
 Tame Tiny Flower X Nightshade,Nightshade X Tame Tiny Flower,10,50,0,45,-3,0,0,0
@@ -9557,7 +9557,7 @@ Tame Tiny Flower X Grumpkin,Grumpkin X Tame Tiny Flower,10,50,0,45,-1,0,-1,-1
 Tame Sun Flower X Tame Sun Flower,Tame Sun Flower X Tame Sun Flower,40,0,0,90,0,0,4,0
 Tame Sun Flower X Tame Fire Flower,Tame Fire Flower X Tame Sun Flower,40,0,0,90,0,0,2,0
 Tame Sun Flower X Tame Pinwheel Flower,Tame Pinwheel Flower X Tame Sun Flower,40,0,0,75,1,0,2,0
-Tame Sun Flower X Tame Fake Flower,Tame Fake Flower X Tame Sun Flower,10,0,0,120,-2,0,0,-2
+Tame Sun Flower X Tame Flake Flower,Tame Flake Flower X Tame Sun Flower,10,0,0,120,-2,0,0,-2
 Tame Sun Flower X Magic Mushroom,Magic Mushroom X Tame Sun Flower,120,0,0,45,0,0,2,0
 Tame Sun Flower X Snow Flobes,Snow Flobes X Tame Sun Flower,100,0,0,45,0,0,2,0
 Tame Sun Flower X Squish,Squish X Tame Sun Flower,80,0,0,45,0,0,2,0
@@ -9607,7 +9607,7 @@ Tame Sun Flower X Yarrow,Yarrow X Tame Sun Flower,40,0,30,45,0,0,2,0
 Tame Sun Flower X Spirit Bane,Spirit Bane X Tame Sun Flower,40,0,0,45,0,0,-3,5
 Tame Sun Flower X Prickly Plant,Prickly Plant X Tame Sun Flower,40,0,0,45,0,0,2,-4
 Tame Sun Flower X Erdenleaf,Erdenleaf X Tame Sun Flower,40,0,0,45,0,-2,2,0
-Tame Sun Flower X Fake Flower,Fake Flower X Tame Sun Flower,10,0,0,95,-2,0,0,-2
+Tame Sun Flower X Flake Flower,Flake Flower X Tame Sun Flower,10,0,0,95,-2,0,0,-2
 Tame Sun Flower X Spiky Plant,Spiky Plant X Tame Sun Flower,10,0,0,45,0,0,-1,0
 Tame Sun Flower X Saplant,Saplant X Tame Sun Flower,10,0,0,45,0,0,-3,0
 Tame Sun Flower X Nightshade,Nightshade X Tame Sun Flower,10,0,0,45,-3,0,2,0
@@ -9615,7 +9615,7 @@ Tame Sun Flower X Mandrake,Mandrake X Tame Sun Flower,10,0,0,45,0,0,2,-3
 Tame Sun Flower X Grumpkin,Grumpkin X Tame Sun Flower,10,0,0,45,-1,0,1,-1
 Tame Fire Flower X Tame Fire Flower,Tame Fire Flower X Tame Fire Flower,40,0,0,90,0,0,0,0
 Tame Fire Flower X Tame Pinwheel Flower,Tame Pinwheel Flower X Tame Fire Flower,40,0,0,75,1,0,0,0
-Tame Fire Flower X Tame Fake Flower,Tame Fake Flower X Tame Fire Flower,10,0,0,120,-2,0,-2,-2
+Tame Fire Flower X Tame Flake Flower,Tame Flake Flower X Tame Fire Flower,10,0,0,120,-2,0,-2,-2
 Tame Fire Flower X Magic Mushroom,Magic Mushroom X Tame Fire Flower,120,0,0,45,0,0,0,0
 Tame Fire Flower X Snow Flobes,Snow Flobes X Tame Fire Flower,100,0,0,45,0,0,0,0
 Tame Fire Flower X Squish,Squish X Tame Fire Flower,80,0,0,45,0,0,0,0
@@ -9665,14 +9665,14 @@ Tame Fire Flower X Yarrow,Yarrow X Tame Fire Flower,40,0,30,45,0,0,0,0
 Tame Fire Flower X Spirit Bane,Spirit Bane X Tame Fire Flower,40,0,0,45,0,0,-5,5
 Tame Fire Flower X Prickly Plant,Prickly Plant X Tame Fire Flower,40,0,0,45,0,0,0,-4
 Tame Fire Flower X Erdenleaf,Erdenleaf X Tame Fire Flower,40,0,0,45,0,-2,0,0
-Tame Fire Flower X Fake Flower,Fake Flower X Tame Fire Flower,10,0,0,95,-2,0,-2,-2
+Tame Fire Flower X Flake Flower,Flake Flower X Tame Fire Flower,10,0,0,95,-2,0,-2,-2
 Tame Fire Flower X Spiky Plant,Spiky Plant X Tame Fire Flower,10,0,0,45,0,0,-3,0
 Tame Fire Flower X Saplant,Saplant X Tame Fire Flower,10,0,0,45,0,0,-5,0
 Tame Fire Flower X Nightshade,Nightshade X Tame Fire Flower,10,0,0,45,-3,0,0,0
 Tame Fire Flower X Mandrake,Mandrake X Tame Fire Flower,10,0,0,45,0,0,0,-3
 Tame Fire Flower X Grumpkin,Grumpkin X Tame Fire Flower,10,0,0,45,-1,0,-1,-1
 Tame Pinwheel Flower X Tame Pinwheel Flower,Tame Pinwheel Flower X Tame Pinwheel Flower,40,0,0,60,2,0,0,0
-Tame Pinwheel Flower X Tame Fake Flower,Tame Fake Flower X Tame Pinwheel Flower,10,0,0,105,-1,0,-2,-2
+Tame Pinwheel Flower X Tame Flake Flower,Tame Flake Flower X Tame Pinwheel Flower,10,0,0,105,-1,0,-2,-2
 Tame Pinwheel Flower X Magic Mushroom,Magic Mushroom X Tame Pinwheel Flower,120,0,0,30,1,0,0,0
 Tame Pinwheel Flower X Snow Flobes,Snow Flobes X Tame Pinwheel Flower,100,0,0,30,1,0,0,0
 Tame Pinwheel Flower X Squish,Squish X Tame Pinwheel Flower,80,0,0,30,1,0,0,0
@@ -9722,68 +9722,68 @@ Tame Pinwheel Flower X Yarrow,Yarrow X Tame Pinwheel Flower,40,0,30,30,1,0,0,0
 Tame Pinwheel Flower X Spirit Bane,Spirit Bane X Tame Pinwheel Flower,40,0,0,30,1,0,-5,5
 Tame Pinwheel Flower X Prickly Plant,Prickly Plant X Tame Pinwheel Flower,40,0,0,30,1,0,0,-4
 Tame Pinwheel Flower X Erdenleaf,Erdenleaf X Tame Pinwheel Flower,40,0,0,30,1,-2,0,0
-Tame Pinwheel Flower X Fake Flower,Fake Flower X Tame Pinwheel Flower,10,0,0,80,-1,0,-2,-2
+Tame Pinwheel Flower X Flake Flower,Flake Flower X Tame Pinwheel Flower,10,0,0,80,-1,0,-2,-2
 Tame Pinwheel Flower X Spiky Plant,Spiky Plant X Tame Pinwheel Flower,10,0,0,30,1,0,-3,0
 Tame Pinwheel Flower X Saplant,Saplant X Tame Pinwheel Flower,10,0,0,30,1,0,-5,0
 Tame Pinwheel Flower X Nightshade,Nightshade X Tame Pinwheel Flower,10,0,0,30,-2,0,0,0
 Tame Pinwheel Flower X Mandrake,Mandrake X Tame Pinwheel Flower,10,0,0,30,1,0,0,-3
 Tame Pinwheel Flower X Grumpkin,Grumpkin X Tame Pinwheel Flower,10,0,0,30,0,0,-1,-1
-Tame Fake Flower X Tame Fake Flower,Tame Fake Flower X Tame Fake Flower,-20,0,0,150,-4,0,-4,-4
-Tame Fake Flower X Magic Mushroom,Magic Mushroom X Tame Fake Flower,90,0,0,75,-2,0,-2,-2
-Tame Fake Flower X Snow Flobes,Snow Flobes X Tame Fake Flower,70,0,0,75,-2,0,-2,-2
-Tame Fake Flower X Squish,Squish X Tame Fake Flower,50,0,0,75,-2,0,-2,-2
-Tame Fake Flower X Stonefruit,Stonefruit X Tame Fake Flower,40,0,0,75,-2,0,-2,-2
-Tame Fake Flower X Snowdrop Flower,Snowdrop Flower X Tame Fake Flower,30,500,0,175,-2,0,-2,-2
-Tame Fake Flower X Icicle Root,Icicle Root X Tame Fake Flower,30,0,0,75,-7,5,-7,-7
-Tame Fake Flower X Sweater Plant,Sweater Plant X Tame Fake Flower,30,0,0,75,-2,3,-2,-2
-Tame Fake Flower X Chilly Berry,Chilly Berry X Tame Fake Flower,30,0,0,75,-1,1,-2,-2
-Tame Fake Flower X Bulbshroom,Bulbshroom X Tame Fake Flower,30,0,0,75,-2,0,1,1
-Tame Fake Flower X Ruby Plant,Ruby Plant X Tame Fake Flower,30,0,0,75,0,0,0,0
-Tame Fake Flower X Snowman Plant,Snowman Plant X Tame Fake Flower,30,0,50,75,-1,0,-2,-2
-Tame Fake Flower X Gift Plant,Gift Plant X Tame Fake Flower,30,1000,0,75,-2,0,-2,-2
-Tame Fake Flower X Cresent Plant,Cresent Plant X Tame Fake Flower,30,0,0,75,3,0,-2,-2
-Tame Fake Flower X Beach Peach,Beach Peach X Tame Fake Flower,30,0,0,75,-2,0,-2,-2
-Tame Fake Flower X Popcorn Plant,Popcorn Plant X Tame Fake Flower,30,0,0,75,-2,-1,-2,-2
-Tame Fake Flower X Black Pearl,Black Pearl X Tame Fake Flower,30,0,0,75,-2,-3,-2,3
-Tame Fake Flower X Spectre Flower,Spectre Flower X Tame Fake Flower,20,0,0,125,-2,0,-4,-2
-Tame Fake Flower X Flag Flower,Flag Flower X Tame Fake Flower,20,0,0,115,-2,0,-2,-2
-Tame Fake Flower X Skeleplant,Skeleplant X Tame Fake Flower,20,0,0,75,-4,2,-2,-2
-Tame Fake Flower X Electricone,Electricone X Tame Fake Flower,20,0,0,75,-2,0,-2,2
-Tame Fake Flower X Fuzzball,Fuzzball X Tame Fake Flower,20,0,0,75,-1,0,-1,-1
-Tame Fake Flower X Wilowisp,Wilowisp X Tame Fake Flower,20,250,0,75,-2,0,-2,-2
-Tame Fake Flower X Plantern,Plantern X Tame Fake Flower,20,0,0,75,-2,0,2,-2
-Tame Fake Flower X Heat Plant,Heat Plant X Tame Fake Flower,20,0,0,75,2,0,-2,-2
-Tame Fake Flower X Ghostshroom,Ghostshroom X Tame Fake Flower,20,0,100,75,-2,0,-2,-2
-Tame Fake Flower X Colberry,Colberry X Tame Fake Flower,20,0,40,75,-2,0,-2,-2
-Tame Fake Flower X Applum,Applum X Tame Fake Flower,20,0,20,75,-2,0,-2,-2
-Tame Fake Flower X Tiny Flower,Tiny Flower X Tame Fake Flower,10,50,0,105,-2,0,-2,-2
-Tame Fake Flower X Sun Flower,Sun Flower X Tame Fake Flower,10,0,0,105,-2,0,0,-2
-Tame Fake Flower X Fire Flower,Fire Flower X Tame Fake Flower,10,0,0,105,-2,0,-2,-2
-Tame Fake Flower X Pinwheel Flower,Pinwheel Flower X Tame Fake Flower,10,0,0,95,-1,0,-2,-2
-Tame Fake Flower X Zaplant,Zaplant X Tame Fake Flower,10,0,0,75,-2,1,-2,1
-Tame Fake Flower X Wingfruit,Wingfruit X Tame Fake Flower,10,0,0,75,-10,0,-2,6
-Tame Fake Flower X Lilypad,Lilypad X Tame Fake Flower,10,0,15,75,-2,0,-2,-2
-Tame Fake Flower X CatTail,CatTail X Tame Fake Flower,10,0,0,75,-2,0,1,-2
-Tame Fake Flower X Umbrellashroom,Umbrellashroom X Tame Fake Flower,10,0,0,75,-3,0,-2,0
-Tame Fake Flower X Mossball,Mossball X Tame Fake Flower,10,0,10,75,-2,0,-1,-1
-Tame Fake Flower X Popsiplant,Popsiplant X Tame Fake Flower,10,0,0,75,-1,0,0,-2
-Tame Fake Flower X Hot Air Fruit,Hot Air Fruit X Tame Fake Flower,10,50,20,75,-2,0,-2,-2
-Tame Fake Flower X Bolt,Bolt X Tame Fake Flower,10,0,0,75,-2,0,3,-2
-Tame Fake Flower X Flameroot,Flameroot X Tame Fake Flower,10,0,0,75,-2,0,2,-2
-Tame Fake Flower X Bloodroot,Bloodroot X Tame Fake Flower,10,0,0,75,3,0,-7,-2
-Tame Fake Flower X Eyeberry,Eyeberry X Tame Fake Flower,10,100,0,75,-2,0,-2,-2
-Tame Fake Flower X Nimbus Plant,Nimbus Plant X Tame Fake Flower,10,0,0,75,-2,0,-2,1
-Tame Fake Flower X Hot Pepper,Hot Pepper X Tame Fake Flower,10,0,0,75,1,0,-2,-2
-Tame Fake Flower X Yarrow,Yarrow X Tame Fake Flower,10,0,30,75,-2,0,-2,-2
-Tame Fake Flower X Spirit Bane,Spirit Bane X Tame Fake Flower,10,0,0,75,-2,0,-7,3
-Tame Fake Flower X Prickly Plant,Prickly Plant X Tame Fake Flower,10,0,0,75,-2,0,-2,-6
-Tame Fake Flower X Erdenleaf,Erdenleaf X Tame Fake Flower,10,0,0,75,-2,-2,-2,-2
-Tame Fake Flower X Fake Flower,Fake Flower X Tame Fake Flower,-20,0,0,125,-4,0,-4,-4
-Tame Fake Flower X Spiky Plant,Spiky Plant X Tame Fake Flower,-20,0,0,75,-2,0,-5,-2
-Tame Fake Flower X Saplant,Saplant X Tame Fake Flower,-20,0,0,75,-2,0,-7,-2
-Tame Fake Flower X Nightshade,Nightshade X Tame Fake Flower,-20,0,0,75,-5,0,-2,-2
-Tame Fake Flower X Mandrake,Mandrake X Tame Fake Flower,-20,0,0,75,-2,0,-2,-5
-Tame Fake Flower X Grumpkin,Grumpkin X Tame Fake Flower,-20,0,0,75,-3,0,-3,-3
+Tame Flake Flower X Tame Flake Flower,Tame Flake Flower X Tame Flake Flower,-20,0,0,150,-4,0,-4,-4
+Tame Flake Flower X Magic Mushroom,Magic Mushroom X Tame Flake Flower,90,0,0,75,-2,0,-2,-2
+Tame Flake Flower X Snow Flobes,Snow Flobes X Tame Flake Flower,70,0,0,75,-2,0,-2,-2
+Tame Flake Flower X Squish,Squish X Tame Flake Flower,50,0,0,75,-2,0,-2,-2
+Tame Flake Flower X Stonefruit,Stonefruit X Tame Flake Flower,40,0,0,75,-2,0,-2,-2
+Tame Flake Flower X Snowdrop Flower,Snowdrop Flower X Tame Flake Flower,30,500,0,175,-2,0,-2,-2
+Tame Flake Flower X Icicle Root,Icicle Root X Tame Flake Flower,30,0,0,75,-7,5,-7,-7
+Tame Flake Flower X Sweater Plant,Sweater Plant X Tame Flake Flower,30,0,0,75,-2,3,-2,-2
+Tame Flake Flower X Chilly Berry,Chilly Berry X Tame Flake Flower,30,0,0,75,-1,1,-2,-2
+Tame Flake Flower X Bulbshroom,Bulbshroom X Tame Flake Flower,30,0,0,75,-2,0,1,1
+Tame Flake Flower X Ruby Plant,Ruby Plant X Tame Flake Flower,30,0,0,75,0,0,0,0
+Tame Flake Flower X Snowman Plant,Snowman Plant X Tame Flake Flower,30,0,50,75,-1,0,-2,-2
+Tame Flake Flower X Gift Plant,Gift Plant X Tame Flake Flower,30,1000,0,75,-2,0,-2,-2
+Tame Flake Flower X Cresent Plant,Cresent Plant X Tame Flake Flower,30,0,0,75,3,0,-2,-2
+Tame Flake Flower X Beach Peach,Beach Peach X Tame Flake Flower,30,0,0,75,-2,0,-2,-2
+Tame Flake Flower X Popcorn Plant,Popcorn Plant X Tame Flake Flower,30,0,0,75,-2,-1,-2,-2
+Tame Flake Flower X Black Pearl,Black Pearl X Tame Flake Flower,30,0,0,75,-2,-3,-2,3
+Tame Flake Flower X Spectre Flower,Spectre Flower X Tame Flake Flower,20,0,0,125,-2,0,-4,-2
+Tame Flake Flower X Flag Flower,Flag Flower X Tame Flake Flower,20,0,0,115,-2,0,-2,-2
+Tame Flake Flower X Skeleplant,Skeleplant X Tame Flake Flower,20,0,0,75,-4,2,-2,-2
+Tame Flake Flower X Electricone,Electricone X Tame Flake Flower,20,0,0,75,-2,0,-2,2
+Tame Flake Flower X Fuzzball,Fuzzball X Tame Flake Flower,20,0,0,75,-1,0,-1,-1
+Tame Flake Flower X Wilowisp,Wilowisp X Tame Flake Flower,20,250,0,75,-2,0,-2,-2
+Tame Flake Flower X Plantern,Plantern X Tame Flake Flower,20,0,0,75,-2,0,2,-2
+Tame Flake Flower X Heat Plant,Heat Plant X Tame Flake Flower,20,0,0,75,2,0,-2,-2
+Tame Flake Flower X Ghostshroom,Ghostshroom X Tame Flake Flower,20,0,100,75,-2,0,-2,-2
+Tame Flake Flower X Colberry,Colberry X Tame Flake Flower,20,0,40,75,-2,0,-2,-2
+Tame Flake Flower X Applum,Applum X Tame Flake Flower,20,0,20,75,-2,0,-2,-2
+Tame Flake Flower X Tiny Flower,Tiny Flower X Tame Flake Flower,10,50,0,105,-2,0,-2,-2
+Tame Flake Flower X Sun Flower,Sun Flower X Tame Flake Flower,10,0,0,105,-2,0,0,-2
+Tame Flake Flower X Fire Flower,Fire Flower X Tame Flake Flower,10,0,0,105,-2,0,-2,-2
+Tame Flake Flower X Pinwheel Flower,Pinwheel Flower X Tame Flake Flower,10,0,0,95,-1,0,-2,-2
+Tame Flake Flower X Zaplant,Zaplant X Tame Flake Flower,10,0,0,75,-2,1,-2,1
+Tame Flake Flower X Wingfruit,Wingfruit X Tame Flake Flower,10,0,0,75,-10,0,-2,6
+Tame Flake Flower X Lilypad,Lilypad X Tame Flake Flower,10,0,15,75,-2,0,-2,-2
+Tame Flake Flower X CatTail,CatTail X Tame Flake Flower,10,0,0,75,-2,0,1,-2
+Tame Flake Flower X Umbrellashroom,Umbrellashroom X Tame Flake Flower,10,0,0,75,-3,0,-2,0
+Tame Flake Flower X Mossball,Mossball X Tame Flake Flower,10,0,10,75,-2,0,-1,-1
+Tame Flake Flower X Popsiplant,Popsiplant X Tame Flake Flower,10,0,0,75,-1,0,0,-2
+Tame Flake Flower X Hot Air Fruit,Hot Air Fruit X Tame Flake Flower,10,50,20,75,-2,0,-2,-2
+Tame Flake Flower X Bolt,Bolt X Tame Flake Flower,10,0,0,75,-2,0,3,-2
+Tame Flake Flower X Flameroot,Flameroot X Tame Flake Flower,10,0,0,75,-2,0,2,-2
+Tame Flake Flower X Bloodroot,Bloodroot X Tame Flake Flower,10,0,0,75,3,0,-7,-2
+Tame Flake Flower X Eyeberry,Eyeberry X Tame Flake Flower,10,100,0,75,-2,0,-2,-2
+Tame Flake Flower X Nimbus Plant,Nimbus Plant X Tame Flake Flower,10,0,0,75,-2,0,-2,1
+Tame Flake Flower X Hot Pepper,Hot Pepper X Tame Flake Flower,10,0,0,75,1,0,-2,-2
+Tame Flake Flower X Yarrow,Yarrow X Tame Flake Flower,10,0,30,75,-2,0,-2,-2
+Tame Flake Flower X Spirit Bane,Spirit Bane X Tame Flake Flower,10,0,0,75,-2,0,-7,3
+Tame Flake Flower X Prickly Plant,Prickly Plant X Tame Flake Flower,10,0,0,75,-2,0,-2,-6
+Tame Flake Flower X Erdenleaf,Erdenleaf X Tame Flake Flower,10,0,0,75,-2,-2,-2,-2
+Tame Flake Flower X Flake Flower,Flake Flower X Tame Flake Flower,-20,0,0,125,-4,0,-4,-4
+Tame Flake Flower X Spiky Plant,Spiky Plant X Tame Flake Flower,-20,0,0,75,-2,0,-5,-2
+Tame Flake Flower X Saplant,Saplant X Tame Flake Flower,-20,0,0,75,-2,0,-7,-2
+Tame Flake Flower X Nightshade,Nightshade X Tame Flake Flower,-20,0,0,75,-5,0,-2,-2
+Tame Flake Flower X Mandrake,Mandrake X Tame Flake Flower,-20,0,0,75,-2,0,-2,-5
+Tame Flake Flower X Grumpkin,Grumpkin X Tame Flake Flower,-20,0,0,75,-3,0,-3,-3
 Magic Mushroom X Magic Mushroom,Magic Mushroom X Magic Mushroom,200,0,0,0,0,0,0,0
 Magic Mushroom X Snow Flobes,Snow Flobes X Magic Mushroom,180,0,0,0,0,0,0,0
 Magic Mushroom X Squish,Squish X Magic Mushroom,160,0,0,0,0,0,0,0
@@ -9833,7 +9833,7 @@ Magic Mushroom X Yarrow,Yarrow X Magic Mushroom,120,0,30,0,0,0,0,0
 Magic Mushroom X Spirit Bane,Spirit Bane X Magic Mushroom,120,0,0,0,0,0,-5,5
 Magic Mushroom X Prickly Plant,Prickly Plant X Magic Mushroom,120,0,0,0,0,0,0,-4
 Magic Mushroom X Erdenleaf,Erdenleaf X Magic Mushroom,120,0,0,0,0,-2,0,0
-Magic Mushroom X Fake Flower,Fake Flower X Magic Mushroom,90,0,0,50,-2,0,-2,-2
+Magic Mushroom X Flake Flower,Flake Flower X Magic Mushroom,90,0,0,50,-2,0,-2,-2
 Magic Mushroom X Spiky Plant,Spiky Plant X Magic Mushroom,90,0,0,0,0,0,-3,0
 Magic Mushroom X Saplant,Saplant X Magic Mushroom,90,0,0,0,0,0,-5,0
 Magic Mushroom X Nightshade,Nightshade X Magic Mushroom,90,0,0,0,-3,0,0,0
@@ -9887,7 +9887,7 @@ Snow Flobes X Yarrow,Yarrow X Snow Flobes,100,0,30,0,0,0,0,0
 Snow Flobes X Spirit Bane,Spirit Bane X Snow Flobes,100,0,0,0,0,0,-5,5
 Snow Flobes X Prickly Plant,Prickly Plant X Snow Flobes,100,0,0,0,0,0,0,-4
 Snow Flobes X Erdenleaf,Erdenleaf X Snow Flobes,100,0,0,0,0,-2,0,0
-Snow Flobes X Fake Flower,Fake Flower X Snow Flobes,70,0,0,50,-2,0,-2,-2
+Snow Flobes X Flake Flower,Flake Flower X Snow Flobes,70,0,0,50,-2,0,-2,-2
 Snow Flobes X Spiky Plant,Spiky Plant X Snow Flobes,70,0,0,0,0,0,-3,0
 Snow Flobes X Saplant,Saplant X Snow Flobes,70,0,0,0,0,0,-5,0
 Snow Flobes X Nightshade,Nightshade X Snow Flobes,70,0,0,0,-3,0,0,0
@@ -9940,7 +9940,7 @@ Squish X Yarrow,Yarrow X Squish,80,0,30,0,0,0,0,0
 Squish X Spirit Bane,Spirit Bane X Squish,80,0,0,0,0,0,-5,5
 Squish X Prickly Plant,Prickly Plant X Squish,80,0,0,0,0,0,0,-4
 Squish X Erdenleaf,Erdenleaf X Squish,80,0,0,0,0,-2,0,0
-Squish X Fake Flower,Fake Flower X Squish,50,0,0,50,-2,0,-2,-2
+Squish X Flake Flower,Flake Flower X Squish,50,0,0,50,-2,0,-2,-2
 Squish X Spiky Plant,Spiky Plant X Squish,50,0,0,0,0,0,-3,0
 Squish X Saplant,Saplant X Squish,50,0,0,0,0,0,-5,0
 Squish X Nightshade,Nightshade X Squish,50,0,0,0,-3,0,0,0
@@ -9992,7 +9992,7 @@ Stonefruit X Yarrow,Yarrow X Stonefruit,70,0,30,0,0,0,0,0
 Stonefruit X Spirit Bane,Spirit Bane X Stonefruit,70,0,0,0,0,0,-5,5
 Stonefruit X Prickly Plant,Prickly Plant X Stonefruit,70,0,0,0,0,0,0,-4
 Stonefruit X Erdenleaf,Erdenleaf X Stonefruit,70,0,0,0,0,-2,0,0
-Stonefruit X Fake Flower,Fake Flower X Stonefruit,40,0,0,50,-2,0,-2,-2
+Stonefruit X Flake Flower,Flake Flower X Stonefruit,40,0,0,50,-2,0,-2,-2
 Stonefruit X Spiky Plant,Spiky Plant X Stonefruit,40,0,0,0,0,0,-3,0
 Stonefruit X Saplant,Saplant X Stonefruit,40,0,0,0,0,0,-5,0
 Stonefruit X Nightshade,Nightshade X Stonefruit,40,0,0,0,-3,0,0,0
@@ -10043,7 +10043,7 @@ Snowdrop Flower X Yarrow,Yarrow X Snowdrop Flower,60,500,30,100,0,0,0,0
 Snowdrop Flower X Spirit Bane,Spirit Bane X Snowdrop Flower,60,500,0,100,0,0,-5,5
 Snowdrop Flower X Prickly Plant,Prickly Plant X Snowdrop Flower,60,500,0,100,0,0,0,-4
 Snowdrop Flower X Erdenleaf,Erdenleaf X Snowdrop Flower,60,500,0,100,0,-2,0,0
-Snowdrop Flower X Fake Flower,Fake Flower X Snowdrop Flower,30,500,0,150,-2,0,-2,-2
+Snowdrop Flower X Flake Flower,Flake Flower X Snowdrop Flower,30,500,0,150,-2,0,-2,-2
 Snowdrop Flower X Spiky Plant,Spiky Plant X Snowdrop Flower,30,500,0,100,0,0,-3,0
 Snowdrop Flower X Saplant,Saplant X Snowdrop Flower,30,500,0,100,0,0,-5,0
 Snowdrop Flower X Nightshade,Nightshade X Snowdrop Flower,30,500,0,100,-3,0,0,0
@@ -10093,7 +10093,7 @@ Icicle Root X Yarrow,Yarrow X Icicle Root,60,0,30,0,-5,5,-5,-5
 Icicle Root X Spirit Bane,Spirit Bane X Icicle Root,60,0,0,0,-5,5,-10,0
 Icicle Root X Prickly Plant,Prickly Plant X Icicle Root,60,0,0,0,-5,5,-5,-9
 Icicle Root X Erdenleaf,Erdenleaf X Icicle Root,60,0,0,0,-5,3,-5,-5
-Icicle Root X Fake Flower,Fake Flower X Icicle Root,30,0,0,50,-7,5,-7,-7
+Icicle Root X Flake Flower,Flake Flower X Icicle Root,30,0,0,50,-7,5,-7,-7
 Icicle Root X Spiky Plant,Spiky Plant X Icicle Root,30,0,0,0,-5,5,-8,-5
 Icicle Root X Saplant,Saplant X Icicle Root,30,0,0,0,-5,5,-10,-5
 Icicle Root X Nightshade,Nightshade X Icicle Root,30,0,0,0,-8,5,-5,-5
@@ -10142,7 +10142,7 @@ Sweater Plant X Yarrow,Yarrow X Sweater Plant,60,0,30,0,0,3,0,0
 Sweater Plant X Spirit Bane,Spirit Bane X Sweater Plant,60,0,0,0,0,3,-5,5
 Sweater Plant X Prickly Plant,Prickly Plant X Sweater Plant,60,0,0,0,0,3,0,-4
 Sweater Plant X Erdenleaf,Erdenleaf X Sweater Plant,60,0,0,0,0,1,0,0
-Sweater Plant X Fake Flower,Fake Flower X Sweater Plant,30,0,0,50,-2,3,-2,-2
+Sweater Plant X Flake Flower,Flake Flower X Sweater Plant,30,0,0,50,-2,3,-2,-2
 Sweater Plant X Spiky Plant,Spiky Plant X Sweater Plant,30,0,0,0,0,3,-3,0
 Sweater Plant X Saplant,Saplant X Sweater Plant,30,0,0,0,0,3,-5,0
 Sweater Plant X Nightshade,Nightshade X Sweater Plant,30,0,0,0,-3,3,0,0
@@ -10190,7 +10190,7 @@ Chilly Berry X Yarrow,Yarrow X Chilly Berry,60,0,30,0,1,1,0,0
 Chilly Berry X Spirit Bane,Spirit Bane X Chilly Berry,60,0,0,0,1,1,-5,5
 Chilly Berry X Prickly Plant,Prickly Plant X Chilly Berry,60,0,0,0,1,1,0,-4
 Chilly Berry X Erdenleaf,Erdenleaf X Chilly Berry,60,0,0,0,1,-1,0,0
-Chilly Berry X Fake Flower,Fake Flower X Chilly Berry,30,0,0,50,-1,1,-2,-2
+Chilly Berry X Flake Flower,Flake Flower X Chilly Berry,30,0,0,50,-1,1,-2,-2
 Chilly Berry X Spiky Plant,Spiky Plant X Chilly Berry,30,0,0,0,1,1,-3,0
 Chilly Berry X Saplant,Saplant X Chilly Berry,30,0,0,0,1,1,-5,0
 Chilly Berry X Nightshade,Nightshade X Chilly Berry,30,0,0,0,-2,1,0,0
@@ -10237,7 +10237,7 @@ Bulbshroom X Yarrow,Yarrow X Bulbshroom,60,0,30,0,0,0,3,3
 Bulbshroom X Spirit Bane,Spirit Bane X Bulbshroom,60,0,0,0,0,0,-2,8
 Bulbshroom X Prickly Plant,Prickly Plant X Bulbshroom,60,0,0,0,0,0,3,-1
 Bulbshroom X Erdenleaf,Erdenleaf X Bulbshroom,60,0,0,0,0,-2,3,3
-Bulbshroom X Fake Flower,Fake Flower X Bulbshroom,30,0,0,50,-2,0,1,1
+Bulbshroom X Flake Flower,Flake Flower X Bulbshroom,30,0,0,50,-2,0,1,1
 Bulbshroom X Spiky Plant,Spiky Plant X Bulbshroom,30,0,0,0,0,0,0,3
 Bulbshroom X Saplant,Saplant X Bulbshroom,30,0,0,0,0,0,-2,3
 Bulbshroom X Nightshade,Nightshade X Bulbshroom,30,0,0,0,-3,0,3,3
@@ -10283,7 +10283,7 @@ Ruby Plant X Yarrow,Yarrow X Ruby Plant,60,0,30,0,2,0,2,2
 Ruby Plant X Spirit Bane,Spirit Bane X Ruby Plant,60,0,0,0,2,0,-3,7
 Ruby Plant X Prickly Plant,Prickly Plant X Ruby Plant,60,0,0,0,2,0,2,-2
 Ruby Plant X Erdenleaf,Erdenleaf X Ruby Plant,60,0,0,0,2,-2,2,2
-Ruby Plant X Fake Flower,Fake Flower X Ruby Plant,30,0,0,50,0,0,0,0
+Ruby Plant X Flake Flower,Flake Flower X Ruby Plant,30,0,0,50,0,0,0,0
 Ruby Plant X Spiky Plant,Spiky Plant X Ruby Plant,30,0,0,0,2,0,-1,2
 Ruby Plant X Saplant,Saplant X Ruby Plant,30,0,0,0,2,0,-3,2
 Ruby Plant X Nightshade,Nightshade X Ruby Plant,30,0,0,0,-1,0,2,2
@@ -10328,7 +10328,7 @@ Snowman Plant X Yarrow,Yarrow X Snowman Plant,60,0,80,0,1,0,0,0
 Snowman Plant X Spirit Bane,Spirit Bane X Snowman Plant,60,0,50,0,1,0,-5,5
 Snowman Plant X Prickly Plant,Prickly Plant X Snowman Plant,60,0,50,0,1,0,0,-4
 Snowman Plant X Erdenleaf,Erdenleaf X Snowman Plant,60,0,50,0,1,-2,0,0
-Snowman Plant X Fake Flower,Fake Flower X Snowman Plant,30,0,50,50,-1,0,-2,-2
+Snowman Plant X Flake Flower,Flake Flower X Snowman Plant,30,0,50,50,-1,0,-2,-2
 Snowman Plant X Spiky Plant,Spiky Plant X Snowman Plant,30,0,50,0,1,0,-3,0
 Snowman Plant X Saplant,Saplant X Snowman Plant,30,0,50,0,1,0,-5,0
 Snowman Plant X Nightshade,Nightshade X Snowman Plant,30,0,50,0,-2,0,0,0
@@ -10372,7 +10372,7 @@ Gift Plant X Yarrow,Yarrow X Gift Plant,60,1000,30,0,0,0,0,0
 Gift Plant X Spirit Bane,Spirit Bane X Gift Plant,60,1000,0,0,0,0,-5,5
 Gift Plant X Prickly Plant,Prickly Plant X Gift Plant,60,1000,0,0,0,0,0,-4
 Gift Plant X Erdenleaf,Erdenleaf X Gift Plant,60,1000,0,0,0,-2,0,0
-Gift Plant X Fake Flower,Fake Flower X Gift Plant,30,1000,0,50,-2,0,-2,-2
+Gift Plant X Flake Flower,Flake Flower X Gift Plant,30,1000,0,50,-2,0,-2,-2
 Gift Plant X Spiky Plant,Spiky Plant X Gift Plant,30,1000,0,0,0,0,-3,0
 Gift Plant X Saplant,Saplant X Gift Plant,30,1000,0,0,0,0,-5,0
 Gift Plant X Nightshade,Nightshade X Gift Plant,30,1000,0,0,-3,0,0,0
@@ -10415,7 +10415,7 @@ Cresent Plant X Yarrow,Yarrow X Cresent Plant,60,0,30,0,5,0,0,0
 Cresent Plant X Spirit Bane,Spirit Bane X Cresent Plant,60,0,0,0,5,0,-5,5
 Cresent Plant X Prickly Plant,Prickly Plant X Cresent Plant,60,0,0,0,5,0,0,-4
 Cresent Plant X Erdenleaf,Erdenleaf X Cresent Plant,60,0,0,0,5,-2,0,0
-Cresent Plant X Fake Flower,Fake Flower X Cresent Plant,30,0,0,50,3,0,-2,-2
+Cresent Plant X Flake Flower,Flake Flower X Cresent Plant,30,0,0,50,3,0,-2,-2
 Cresent Plant X Spiky Plant,Spiky Plant X Cresent Plant,30,0,0,0,5,0,-3,0
 Cresent Plant X Saplant,Saplant X Cresent Plant,30,0,0,0,5,0,-5,0
 Cresent Plant X Nightshade,Nightshade X Cresent Plant,30,0,0,0,2,0,0,0
@@ -10457,7 +10457,7 @@ Beach Peach X Yarrow,Yarrow X Beach Peach,60,0,30,0,0,0,0,0
 Beach Peach X Spirit Bane,Spirit Bane X Beach Peach,60,0,0,0,0,0,-5,5
 Beach Peach X Prickly Plant,Prickly Plant X Beach Peach,60,0,0,0,0,0,0,-4
 Beach Peach X Erdenleaf,Erdenleaf X Beach Peach,60,0,0,0,0,-2,0,0
-Beach Peach X Fake Flower,Fake Flower X Beach Peach,30,0,0,50,-2,0,-2,-2
+Beach Peach X Flake Flower,Flake Flower X Beach Peach,30,0,0,50,-2,0,-2,-2
 Beach Peach X Spiky Plant,Spiky Plant X Beach Peach,30,0,0,0,0,0,-3,0
 Beach Peach X Saplant,Saplant X Beach Peach,30,0,0,0,0,0,-5,0
 Beach Peach X Nightshade,Nightshade X Beach Peach,30,0,0,0,-3,0,0,0
@@ -10498,7 +10498,7 @@ Popcorn Plant X Yarrow,Yarrow X Popcorn Plant,60,0,30,0,0,-1,0,0
 Popcorn Plant X Spirit Bane,Spirit Bane X Popcorn Plant,60,0,0,0,0,-1,-5,5
 Popcorn Plant X Prickly Plant,Prickly Plant X Popcorn Plant,60,0,0,0,0,-1,0,-4
 Popcorn Plant X Erdenleaf,Erdenleaf X Popcorn Plant,60,0,0,0,0,-3,0,0
-Popcorn Plant X Fake Flower,Fake Flower X Popcorn Plant,30,0,0,50,-2,-1,-2,-2
+Popcorn Plant X Flake Flower,Flake Flower X Popcorn Plant,30,0,0,50,-2,-1,-2,-2
 Popcorn Plant X Spiky Plant,Spiky Plant X Popcorn Plant,30,0,0,0,0,-1,-3,0
 Popcorn Plant X Saplant,Saplant X Popcorn Plant,30,0,0,0,0,-1,-5,0
 Popcorn Plant X Nightshade,Nightshade X Popcorn Plant,30,0,0,0,-3,-1,0,0
@@ -10538,7 +10538,7 @@ Black Pearl X Yarrow,Yarrow X Black Pearl,60,0,30,0,0,-3,0,5
 Black Pearl X Spirit Bane,Spirit Bane X Black Pearl,60,0,0,0,0,-3,-5,10
 Black Pearl X Prickly Plant,Prickly Plant X Black Pearl,60,0,0,0,0,-3,0,1
 Black Pearl X Erdenleaf,Erdenleaf X Black Pearl,60,0,0,0,0,-5,0,5
-Black Pearl X Fake Flower,Fake Flower X Black Pearl,30,0,0,50,-2,-3,-2,3
+Black Pearl X Flake Flower,Flake Flower X Black Pearl,30,0,0,50,-2,-3,-2,3
 Black Pearl X Spiky Plant,Spiky Plant X Black Pearl,30,0,0,0,0,-3,-3,5
 Black Pearl X Saplant,Saplant X Black Pearl,30,0,0,0,0,-3,-5,5
 Black Pearl X Nightshade,Nightshade X Black Pearl,30,0,0,0,-3,-3,0,5
@@ -10577,7 +10577,7 @@ Spectre Flower X Yarrow,Yarrow X Spectre Flower,50,0,30,50,0,0,-2,0
 Spectre Flower X Spirit Bane,Spirit Bane X Spectre Flower,50,0,0,50,0,0,-7,5
 Spectre Flower X Prickly Plant,Prickly Plant X Spectre Flower,50,0,0,50,0,0,-2,-4
 Spectre Flower X Erdenleaf,Erdenleaf X Spectre Flower,50,0,0,50,0,-2,-2,0
-Spectre Flower X Fake Flower,Fake Flower X Spectre Flower,20,0,0,100,-2,0,-4,-2
+Spectre Flower X Flake Flower,Flake Flower X Spectre Flower,20,0,0,100,-2,0,-4,-2
 Spectre Flower X Spiky Plant,Spiky Plant X Spectre Flower,20,0,0,50,0,0,-5,0
 Spectre Flower X Saplant,Saplant X Spectre Flower,20,0,0,50,0,0,-7,0
 Spectre Flower X Nightshade,Nightshade X Spectre Flower,20,0,0,50,-3,0,-2,0
@@ -10615,7 +10615,7 @@ Flag Flower X Yarrow,Yarrow X Flag Flower,50,0,30,40,0,0,0,0
 Flag Flower X Spirit Bane,Spirit Bane X Flag Flower,50,0,0,40,0,0,-5,5
 Flag Flower X Prickly Plant,Prickly Plant X Flag Flower,50,0,0,40,0,0,0,-4
 Flag Flower X Erdenleaf,Erdenleaf X Flag Flower,50,0,0,40,0,-2,0,0
-Flag Flower X Fake Flower,Fake Flower X Flag Flower,20,0,0,90,-2,0,-2,-2
+Flag Flower X Flake Flower,Flake Flower X Flag Flower,20,0,0,90,-2,0,-2,-2
 Flag Flower X Spiky Plant,Spiky Plant X Flag Flower,20,0,0,40,0,0,-3,0
 Flag Flower X Saplant,Saplant X Flag Flower,20,0,0,40,0,0,-5,0
 Flag Flower X Nightshade,Nightshade X Flag Flower,20,0,0,40,-3,0,0,0
@@ -10652,7 +10652,7 @@ Skeleplant X Yarrow,Yarrow X Skeleplant,50,0,30,0,-2,2,0,0
 Skeleplant X Spirit Bane,Spirit Bane X Skeleplant,50,0,0,0,-2,2,-5,5
 Skeleplant X Prickly Plant,Prickly Plant X Skeleplant,50,0,0,0,-2,2,0,-4
 Skeleplant X Erdenleaf,Erdenleaf X Skeleplant,50,0,0,0,-2,0,0,0
-Skeleplant X Fake Flower,Fake Flower X Skeleplant,20,0,0,50,-4,2,-2,-2
+Skeleplant X Flake Flower,Flake Flower X Skeleplant,20,0,0,50,-4,2,-2,-2
 Skeleplant X Spiky Plant,Spiky Plant X Skeleplant,20,0,0,0,-2,2,-3,0
 Skeleplant X Saplant,Saplant X Skeleplant,20,0,0,0,-2,2,-5,0
 Skeleplant X Nightshade,Nightshade X Skeleplant,20,0,0,0,-5,2,0,0
@@ -10688,7 +10688,7 @@ Electricone X Yarrow,Yarrow X Electricone,50,0,30,0,0,0,0,4
 Electricone X Spirit Bane,Spirit Bane X Electricone,50,0,0,0,0,0,-5,9
 Electricone X Prickly Plant,Prickly Plant X Electricone,50,0,0,0,0,0,0,0
 Electricone X Erdenleaf,Erdenleaf X Electricone,50,0,0,0,0,-2,0,4
-Electricone X Fake Flower,Fake Flower X Electricone,20,0,0,50,-2,0,-2,2
+Electricone X Flake Flower,Flake Flower X Electricone,20,0,0,50,-2,0,-2,2
 Electricone X Spiky Plant,Spiky Plant X Electricone,20,0,0,0,0,0,-3,4
 Electricone X Saplant,Saplant X Electricone,20,0,0,0,0,0,-5,4
 Electricone X Nightshade,Nightshade X Electricone,20,0,0,0,-3,0,0,4
@@ -10723,7 +10723,7 @@ Fuzzball X Yarrow,Yarrow X Fuzzball,50,0,30,0,1,0,1,1
 Fuzzball X Spirit Bane,Spirit Bane X Fuzzball,50,0,0,0,1,0,-4,6
 Fuzzball X Prickly Plant,Prickly Plant X Fuzzball,50,0,0,0,1,0,1,-3
 Fuzzball X Erdenleaf,Erdenleaf X Fuzzball,50,0,0,0,1,-2,1,1
-Fuzzball X Fake Flower,Fake Flower X Fuzzball,20,0,0,50,-1,0,-1,-1
+Fuzzball X Flake Flower,Flake Flower X Fuzzball,20,0,0,50,-1,0,-1,-1
 Fuzzball X Spiky Plant,Spiky Plant X Fuzzball,20,0,0,0,1,0,-2,1
 Fuzzball X Saplant,Saplant X Fuzzball,20,0,0,0,1,0,-4,1
 Fuzzball X Nightshade,Nightshade X Fuzzball,20,0,0,0,-2,0,1,1
@@ -10757,7 +10757,7 @@ Wilowisp X Yarrow,Yarrow X Wilowisp,50,250,30,0,0,0,0,0
 Wilowisp X Spirit Bane,Spirit Bane X Wilowisp,50,250,0,0,0,0,-5,5
 Wilowisp X Prickly Plant,Prickly Plant X Wilowisp,50,250,0,0,0,0,0,-4
 Wilowisp X Erdenleaf,Erdenleaf X Wilowisp,50,250,0,0,0,-2,0,0
-Wilowisp X Fake Flower,Fake Flower X Wilowisp,20,250,0,50,-2,0,-2,-2
+Wilowisp X Flake Flower,Flake Flower X Wilowisp,20,250,0,50,-2,0,-2,-2
 Wilowisp X Spiky Plant,Spiky Plant X Wilowisp,20,250,0,0,0,0,-3,0
 Wilowisp X Saplant,Saplant X Wilowisp,20,250,0,0,0,0,-5,0
 Wilowisp X Nightshade,Nightshade X Wilowisp,20,250,0,0,-3,0,0,0
@@ -10790,7 +10790,7 @@ Plantern X Yarrow,Yarrow X Plantern,50,0,30,0,0,0,4,0
 Plantern X Spirit Bane,Spirit Bane X Plantern,50,0,0,0,0,0,-1,5
 Plantern X Prickly Plant,Prickly Plant X Plantern,50,0,0,0,0,0,4,-4
 Plantern X Erdenleaf,Erdenleaf X Plantern,50,0,0,0,0,-2,4,0
-Plantern X Fake Flower,Fake Flower X Plantern,20,0,0,50,-2,0,2,-2
+Plantern X Flake Flower,Flake Flower X Plantern,20,0,0,50,-2,0,2,-2
 Plantern X Spiky Plant,Spiky Plant X Plantern,20,0,0,0,0,0,1,0
 Plantern X Saplant,Saplant X Plantern,20,0,0,0,0,0,-1,0
 Plantern X Nightshade,Nightshade X Plantern,20,0,0,0,-3,0,4,0
@@ -10822,7 +10822,7 @@ Heat Plant X Yarrow,Yarrow X Heat Plant,50,0,30,0,4,0,0,0
 Heat Plant X Spirit Bane,Spirit Bane X Heat Plant,50,0,0,0,4,0,-5,5
 Heat Plant X Prickly Plant,Prickly Plant X Heat Plant,50,0,0,0,4,0,0,-4
 Heat Plant X Erdenleaf,Erdenleaf X Heat Plant,50,0,0,0,4,-2,0,0
-Heat Plant X Fake Flower,Fake Flower X Heat Plant,20,0,0,50,2,0,-2,-2
+Heat Plant X Flake Flower,Flake Flower X Heat Plant,20,0,0,50,2,0,-2,-2
 Heat Plant X Spiky Plant,Spiky Plant X Heat Plant,20,0,0,0,4,0,-3,0
 Heat Plant X Saplant,Saplant X Heat Plant,20,0,0,0,4,0,-5,0
 Heat Plant X Nightshade,Nightshade X Heat Plant,20,0,0,0,1,0,0,0
@@ -10853,7 +10853,7 @@ Ghostshroom X Yarrow,Yarrow X Ghostshroom,50,0,130,0,0,0,0,0
 Ghostshroom X Spirit Bane,Spirit Bane X Ghostshroom,50,0,100,0,0,0,-5,5
 Ghostshroom X Prickly Plant,Prickly Plant X Ghostshroom,50,0,100,0,0,0,0,-4
 Ghostshroom X Erdenleaf,Erdenleaf X Ghostshroom,50,0,100,0,0,-2,0,0
-Ghostshroom X Fake Flower,Fake Flower X Ghostshroom,20,0,100,50,-2,0,-2,-2
+Ghostshroom X Flake Flower,Flake Flower X Ghostshroom,20,0,100,50,-2,0,-2,-2
 Ghostshroom X Spiky Plant,Spiky Plant X Ghostshroom,20,0,100,0,0,0,-3,0
 Ghostshroom X Saplant,Saplant X Ghostshroom,20,0,100,0,0,0,-5,0
 Ghostshroom X Nightshade,Nightshade X Ghostshroom,20,0,100,0,-3,0,0,0
@@ -10883,7 +10883,7 @@ Colberry X Yarrow,Yarrow X Colberry,50,0,70,0,0,0,0,0
 Colberry X Spirit Bane,Spirit Bane X Colberry,50,0,40,0,0,0,-5,5
 Colberry X Prickly Plant,Prickly Plant X Colberry,50,0,40,0,0,0,0,-4
 Colberry X Erdenleaf,Erdenleaf X Colberry,50,0,40,0,0,-2,0,0
-Colberry X Fake Flower,Fake Flower X Colberry,20,0,40,50,-2,0,-2,-2
+Colberry X Flake Flower,Flake Flower X Colberry,20,0,40,50,-2,0,-2,-2
 Colberry X Spiky Plant,Spiky Plant X Colberry,20,0,40,0,0,0,-3,0
 Colberry X Saplant,Saplant X Colberry,20,0,40,0,0,0,-5,0
 Colberry X Nightshade,Nightshade X Colberry,20,0,40,0,-3,0,0,0
@@ -10912,7 +10912,7 @@ Applum X Yarrow,Yarrow X Applum,50,0,50,0,0,0,0,0
 Applum X Spirit Bane,Spirit Bane X Applum,50,0,20,0,0,0,-5,5
 Applum X Prickly Plant,Prickly Plant X Applum,50,0,20,0,0,0,0,-4
 Applum X Erdenleaf,Erdenleaf X Applum,50,0,20,0,0,-2,0,0
-Applum X Fake Flower,Fake Flower X Applum,20,0,20,50,-2,0,-2,-2
+Applum X Flake Flower,Flake Flower X Applum,20,0,20,50,-2,0,-2,-2
 Applum X Spiky Plant,Spiky Plant X Applum,20,0,20,0,0,0,-3,0
 Applum X Saplant,Saplant X Applum,20,0,20,0,0,0,-5,0
 Applum X Nightshade,Nightshade X Applum,20,0,20,0,-3,0,0,0
@@ -10940,7 +10940,7 @@ Tiny Flower X Yarrow,Yarrow X Tiny Flower,40,50,30,30,0,0,0,0
 Tiny Flower X Spirit Bane,Spirit Bane X Tiny Flower,40,50,0,30,0,0,-5,5
 Tiny Flower X Prickly Plant,Prickly Plant X Tiny Flower,40,50,0,30,0,0,0,-4
 Tiny Flower X Erdenleaf,Erdenleaf X Tiny Flower,40,50,0,30,0,-2,0,0
-Tiny Flower X Fake Flower,Fake Flower X Tiny Flower,10,50,0,80,-2,0,-2,-2
+Tiny Flower X Flake Flower,Flake Flower X Tiny Flower,10,50,0,80,-2,0,-2,-2
 Tiny Flower X Spiky Plant,Spiky Plant X Tiny Flower,10,50,0,30,0,0,-3,0
 Tiny Flower X Saplant,Saplant X Tiny Flower,10,50,0,30,0,0,-5,0
 Tiny Flower X Nightshade,Nightshade X Tiny Flower,10,50,0,30,-3,0,0,0
@@ -10967,7 +10967,7 @@ Sun Flower X Yarrow,Yarrow X Sun Flower,40,0,30,30,0,0,2,0
 Sun Flower X Spirit Bane,Spirit Bane X Sun Flower,40,0,0,30,0,0,-3,5
 Sun Flower X Prickly Plant,Prickly Plant X Sun Flower,40,0,0,30,0,0,2,-4
 Sun Flower X Erdenleaf,Erdenleaf X Sun Flower,40,0,0,30,0,-2,2,0
-Sun Flower X Fake Flower,Fake Flower X Sun Flower,10,0,0,80,-2,0,0,-2
+Sun Flower X Flake Flower,Flake Flower X Sun Flower,10,0,0,80,-2,0,0,-2
 Sun Flower X Spiky Plant,Spiky Plant X Sun Flower,10,0,0,30,0,0,-1,0
 Sun Flower X Saplant,Saplant X Sun Flower,10,0,0,30,0,0,-3,0
 Sun Flower X Nightshade,Nightshade X Sun Flower,10,0,0,30,-3,0,2,0
@@ -10993,7 +10993,7 @@ Fire Flower X Yarrow,Yarrow X Fire Flower,40,0,30,30,0,0,0,0
 Fire Flower X Spirit Bane,Spirit Bane X Fire Flower,40,0,0,30,0,0,-5,5
 Fire Flower X Prickly Plant,Prickly Plant X Fire Flower,40,0,0,30,0,0,0,-4
 Fire Flower X Erdenleaf,Erdenleaf X Fire Flower,40,0,0,30,0,-2,0,0
-Fire Flower X Fake Flower,Fake Flower X Fire Flower,10,0,0,80,-2,0,-2,-2
+Fire Flower X Flake Flower,Flake Flower X Fire Flower,10,0,0,80,-2,0,-2,-2
 Fire Flower X Spiky Plant,Spiky Plant X Fire Flower,10,0,0,30,0,0,-3,0
 Fire Flower X Saplant,Saplant X Fire Flower,10,0,0,30,0,0,-5,0
 Fire Flower X Nightshade,Nightshade X Fire Flower,10,0,0,30,-3,0,0,0
@@ -11018,7 +11018,7 @@ Pinwheel Flower X Yarrow,Yarrow X Pinwheel Flower,40,0,30,20,1,0,0,0
 Pinwheel Flower X Spirit Bane,Spirit Bane X Pinwheel Flower,40,0,0,20,1,0,-5,5
 Pinwheel Flower X Prickly Plant,Prickly Plant X Pinwheel Flower,40,0,0,20,1,0,0,-4
 Pinwheel Flower X Erdenleaf,Erdenleaf X Pinwheel Flower,40,0,0,20,1,-2,0,0
-Pinwheel Flower X Fake Flower,Fake Flower X Pinwheel Flower,10,0,0,70,-1,0,-2,-2
+Pinwheel Flower X Flake Flower,Flake Flower X Pinwheel Flower,10,0,0,70,-1,0,-2,-2
 Pinwheel Flower X Spiky Plant,Spiky Plant X Pinwheel Flower,10,0,0,20,1,0,-3,0
 Pinwheel Flower X Saplant,Saplant X Pinwheel Flower,10,0,0,20,1,0,-5,0
 Pinwheel Flower X Nightshade,Nightshade X Pinwheel Flower,10,0,0,20,-2,0,0,0
@@ -11042,7 +11042,7 @@ Zaplant X Yarrow,Yarrow X Zaplant,40,0,30,0,0,1,0,3
 Zaplant X Spirit Bane,Spirit Bane X Zaplant,40,0,0,0,0,1,-5,8
 Zaplant X Prickly Plant,Prickly Plant X Zaplant,40,0,0,0,0,1,0,-1
 Zaplant X Erdenleaf,Erdenleaf X Zaplant,40,0,0,0,0,-1,0,3
-Zaplant X Fake Flower,Fake Flower X Zaplant,10,0,0,50,-2,1,-2,1
+Zaplant X Flake Flower,Flake Flower X Zaplant,10,0,0,50,-2,1,-2,1
 Zaplant X Spiky Plant,Spiky Plant X Zaplant,10,0,0,0,0,1,-3,3
 Zaplant X Saplant,Saplant X Zaplant,10,0,0,0,0,1,-5,3
 Zaplant X Nightshade,Nightshade X Zaplant,10,0,0,0,-3,1,0,3
@@ -11065,7 +11065,7 @@ Wingfruit X Yarrow,Yarrow X Wingfruit,40,0,30,0,-8,0,0,8
 Wingfruit X Spirit Bane,Spirit Bane X Wingfruit,40,0,0,0,-8,0,-5,13
 Wingfruit X Prickly Plant,Prickly Plant X Wingfruit,40,0,0,0,-8,0,0,4
 Wingfruit X Erdenleaf,Erdenleaf X Wingfruit,40,0,0,0,-8,-2,0,8
-Wingfruit X Fake Flower,Fake Flower X Wingfruit,10,0,0,50,-10,0,-2,6
+Wingfruit X Flake Flower,Flake Flower X Wingfruit,10,0,0,50,-10,0,-2,6
 Wingfruit X Spiky Plant,Spiky Plant X Wingfruit,10,0,0,0,-8,0,-3,8
 Wingfruit X Saplant,Saplant X Wingfruit,10,0,0,0,-8,0,-5,8
 Wingfruit X Nightshade,Nightshade X Wingfruit,10,0,0,0,-11,0,0,8
@@ -11087,7 +11087,7 @@ Lilypad X Yarrow,Yarrow X Lilypad,40,0,45,0,0,0,0,0
 Lilypad X Spirit Bane,Spirit Bane X Lilypad,40,0,15,0,0,0,-5,5
 Lilypad X Prickly Plant,Prickly Plant X Lilypad,40,0,15,0,0,0,0,-4
 Lilypad X Erdenleaf,Erdenleaf X Lilypad,40,0,15,0,0,-2,0,0
-Lilypad X Fake Flower,Fake Flower X Lilypad,10,0,15,50,-2,0,-2,-2
+Lilypad X Flake Flower,Flake Flower X Lilypad,10,0,15,50,-2,0,-2,-2
 Lilypad X Spiky Plant,Spiky Plant X Lilypad,10,0,15,0,0,0,-3,0
 Lilypad X Saplant,Saplant X Lilypad,10,0,15,0,0,0,-5,0
 Lilypad X Nightshade,Nightshade X Lilypad,10,0,15,0,-3,0,0,0
@@ -11108,7 +11108,7 @@ CatTail X Yarrow,Yarrow X CatTail,40,0,30,0,0,0,3,0
 CatTail X Spirit Bane,Spirit Bane X CatTail,40,0,0,0,0,0,-2,5
 CatTail X Prickly Plant,Prickly Plant X CatTail,40,0,0,0,0,0,3,-4
 CatTail X Erdenleaf,Erdenleaf X CatTail,40,0,0,0,0,-2,3,0
-CatTail X Fake Flower,Fake Flower X CatTail,10,0,0,50,-2,0,1,-2
+CatTail X Flake Flower,Flake Flower X CatTail,10,0,0,50,-2,0,1,-2
 CatTail X Spiky Plant,Spiky Plant X CatTail,10,0,0,0,0,0,0,0
 CatTail X Saplant,Saplant X CatTail,10,0,0,0,0,0,-2,0
 CatTail X Nightshade,Nightshade X CatTail,10,0,0,0,-3,0,3,0
@@ -11128,7 +11128,7 @@ Umbrellashroom X Yarrow,Yarrow X Umbrellashroom,40,0,30,0,-1,0,0,2
 Umbrellashroom X Spirit Bane,Spirit Bane X Umbrellashroom,40,0,0,0,-1,0,-5,7
 Umbrellashroom X Prickly Plant,Prickly Plant X Umbrellashroom,40,0,0,0,-1,0,0,-2
 Umbrellashroom X Erdenleaf,Erdenleaf X Umbrellashroom,40,0,0,0,-1,-2,0,2
-Umbrellashroom X Fake Flower,Fake Flower X Umbrellashroom,10,0,0,50,-3,0,-2,0
+Umbrellashroom X Flake Flower,Flake Flower X Umbrellashroom,10,0,0,50,-3,0,-2,0
 Umbrellashroom X Spiky Plant,Spiky Plant X Umbrellashroom,10,0,0,0,-1,0,-3,2
 Umbrellashroom X Saplant,Saplant X Umbrellashroom,10,0,0,0,-1,0,-5,2
 Umbrellashroom X Nightshade,Nightshade X Umbrellashroom,10,0,0,0,-4,0,0,2
@@ -11147,7 +11147,7 @@ Mossball X Yarrow,Yarrow X Mossball,40,0,40,0,0,0,1,1
 Mossball X Spirit Bane,Spirit Bane X Mossball,40,0,10,0,0,0,-4,6
 Mossball X Prickly Plant,Prickly Plant X Mossball,40,0,10,0,0,0,1,-3
 Mossball X Erdenleaf,Erdenleaf X Mossball,40,0,10,0,0,-2,1,1
-Mossball X Fake Flower,Fake Flower X Mossball,10,0,10,50,-2,0,-1,-1
+Mossball X Flake Flower,Flake Flower X Mossball,10,0,10,50,-2,0,-1,-1
 Mossball X Spiky Plant,Spiky Plant X Mossball,10,0,10,0,0,0,-2,1
 Mossball X Saplant,Saplant X Mossball,10,0,10,0,0,0,-4,1
 Mossball X Nightshade,Nightshade X Mossball,10,0,10,0,-3,0,1,1
@@ -11165,7 +11165,7 @@ Popsiplant X Yarrow,Yarrow X Popsiplant,40,0,30,0,1,0,2,0
 Popsiplant X Spirit Bane,Spirit Bane X Popsiplant,40,0,0,0,1,0,-3,5
 Popsiplant X Prickly Plant,Prickly Plant X Popsiplant,40,0,0,0,1,0,2,-4
 Popsiplant X Erdenleaf,Erdenleaf X Popsiplant,40,0,0,0,1,-2,2,0
-Popsiplant X Fake Flower,Fake Flower X Popsiplant,10,0,0,50,-1,0,0,-2
+Popsiplant X Flake Flower,Flake Flower X Popsiplant,10,0,0,50,-1,0,0,-2
 Popsiplant X Spiky Plant,Spiky Plant X Popsiplant,10,0,0,0,1,0,-1,0
 Popsiplant X Saplant,Saplant X Popsiplant,10,0,0,0,1,0,-3,0
 Popsiplant X Nightshade,Nightshade X Popsiplant,10,0,0,0,-2,0,2,0
@@ -11182,7 +11182,7 @@ Hot Air Fruit X Yarrow,Yarrow X Hot Air Fruit,40,50,50,0,0,0,0,0
 Hot Air Fruit X Spirit Bane,Spirit Bane X Hot Air Fruit,40,50,20,0,0,0,-5,5
 Hot Air Fruit X Prickly Plant,Prickly Plant X Hot Air Fruit,40,50,20,0,0,0,0,-4
 Hot Air Fruit X Erdenleaf,Erdenleaf X Hot Air Fruit,40,50,20,0,0,-2,0,0
-Hot Air Fruit X Fake Flower,Fake Flower X Hot Air Fruit,10,50,20,50,-2,0,-2,-2
+Hot Air Fruit X Flake Flower,Flake Flower X Hot Air Fruit,10,50,20,50,-2,0,-2,-2
 Hot Air Fruit X Spiky Plant,Spiky Plant X Hot Air Fruit,10,50,20,0,0,0,-3,0
 Hot Air Fruit X Saplant,Saplant X Hot Air Fruit,10,50,20,0,0,0,-5,0
 Hot Air Fruit X Nightshade,Nightshade X Hot Air Fruit,10,50,20,0,-3,0,0,0
@@ -11198,7 +11198,7 @@ Bolt X Yarrow,Yarrow X Bolt,40,0,30,0,0,0,5,0
 Bolt X Spirit Bane,Spirit Bane X Bolt,40,0,0,0,0,0,0,5
 Bolt X Prickly Plant,Prickly Plant X Bolt,40,0,0,0,0,0,5,-4
 Bolt X Erdenleaf,Erdenleaf X Bolt,40,0,0,0,0,-2,5,0
-Bolt X Fake Flower,Fake Flower X Bolt,10,0,0,50,-2,0,3,-2
+Bolt X Flake Flower,Flake Flower X Bolt,10,0,0,50,-2,0,3,-2
 Bolt X Spiky Plant,Spiky Plant X Bolt,10,0,0,0,0,0,2,0
 Bolt X Saplant,Saplant X Bolt,10,0,0,0,0,0,0,0
 Bolt X Nightshade,Nightshade X Bolt,10,0,0,0,-3,0,5,0
@@ -11213,7 +11213,7 @@ Flameroot X Yarrow,Yarrow X Flameroot,40,0,30,0,0,0,4,0
 Flameroot X Spirit Bane,Spirit Bane X Flameroot,40,0,0,0,0,0,-1,5
 Flameroot X Prickly Plant,Prickly Plant X Flameroot,40,0,0,0,0,0,4,-4
 Flameroot X Erdenleaf,Erdenleaf X Flameroot,40,0,0,0,0,-2,4,0
-Flameroot X Fake Flower,Fake Flower X Flameroot,10,0,0,50,-2,0,2,-2
+Flameroot X Flake Flower,Flake Flower X Flameroot,10,0,0,50,-2,0,2,-2
 Flameroot X Spiky Plant,Spiky Plant X Flameroot,10,0,0,0,0,0,1,0
 Flameroot X Saplant,Saplant X Flameroot,10,0,0,0,0,0,-1,0
 Flameroot X Nightshade,Nightshade X Flameroot,10,0,0,0,-3,0,4,0
@@ -11227,7 +11227,7 @@ Bloodroot X Yarrow,Yarrow X Bloodroot,40,0,30,0,5,0,-5,0
 Bloodroot X Spirit Bane,Spirit Bane X Bloodroot,40,0,0,0,5,0,-10,5
 Bloodroot X Prickly Plant,Prickly Plant X Bloodroot,40,0,0,0,5,0,-5,-4
 Bloodroot X Erdenleaf,Erdenleaf X Bloodroot,40,0,0,0,5,-2,-5,0
-Bloodroot X Fake Flower,Fake Flower X Bloodroot,10,0,0,50,3,0,-7,-2
+Bloodroot X Flake Flower,Flake Flower X Bloodroot,10,0,0,50,3,0,-7,-2
 Bloodroot X Spiky Plant,Spiky Plant X Bloodroot,10,0,0,0,5,0,-8,0
 Bloodroot X Saplant,Saplant X Bloodroot,10,0,0,0,5,0,-10,0
 Bloodroot X Nightshade,Nightshade X Bloodroot,10,0,0,0,2,0,-5,0
@@ -11240,7 +11240,7 @@ Eyeberry X Yarrow,Yarrow X Eyeberry,40,100,30,0,0,0,0,0
 Eyeberry X Spirit Bane,Spirit Bane X Eyeberry,40,100,0,0,0,0,-5,5
 Eyeberry X Prickly Plant,Prickly Plant X Eyeberry,40,100,0,0,0,0,0,-4
 Eyeberry X Erdenleaf,Erdenleaf X Eyeberry,40,100,0,0,0,-2,0,0
-Eyeberry X Fake Flower,Fake Flower X Eyeberry,10,100,0,50,-2,0,-2,-2
+Eyeberry X Flake Flower,Flake Flower X Eyeberry,10,100,0,50,-2,0,-2,-2
 Eyeberry X Spiky Plant,Spiky Plant X Eyeberry,10,100,0,0,0,0,-3,0
 Eyeberry X Saplant,Saplant X Eyeberry,10,100,0,0,0,0,-5,0
 Eyeberry X Nightshade,Nightshade X Eyeberry,10,100,0,0,-3,0,0,0
@@ -11252,7 +11252,7 @@ Nimbus Plant X Yarrow,Yarrow X Nimbus Plant,40,0,30,0,0,0,0,3
 Nimbus Plant X Spirit Bane,Spirit Bane X Nimbus Plant,40,0,0,0,0,0,-5,8
 Nimbus Plant X Prickly Plant,Prickly Plant X Nimbus Plant,40,0,0,0,0,0,0,-1
 Nimbus Plant X Erdenleaf,Erdenleaf X Nimbus Plant,40,0,0,0,0,-2,0,3
-Nimbus Plant X Fake Flower,Fake Flower X Nimbus Plant,10,0,0,50,-2,0,-2,1
+Nimbus Plant X Flake Flower,Flake Flower X Nimbus Plant,10,0,0,50,-2,0,-2,1
 Nimbus Plant X Spiky Plant,Spiky Plant X Nimbus Plant,10,0,0,0,0,0,-3,3
 Nimbus Plant X Saplant,Saplant X Nimbus Plant,10,0,0,0,0,0,-5,3
 Nimbus Plant X Nightshade,Nightshade X Nimbus Plant,10,0,0,0,-3,0,0,3
@@ -11263,7 +11263,7 @@ Hot Pepper X Yarrow,Yarrow X Hot Pepper,40,0,30,0,3,0,0,0
 Hot Pepper X Spirit Bane,Spirit Bane X Hot Pepper,40,0,0,0,3,0,-5,5
 Hot Pepper X Prickly Plant,Prickly Plant X Hot Pepper,40,0,0,0,3,0,0,-4
 Hot Pepper X Erdenleaf,Erdenleaf X Hot Pepper,40,0,0,0,3,-2,0,0
-Hot Pepper X Fake Flower,Fake Flower X Hot Pepper,10,0,0,50,1,0,-2,-2
+Hot Pepper X Flake Flower,Flake Flower X Hot Pepper,10,0,0,50,1,0,-2,-2
 Hot Pepper X Spiky Plant,Spiky Plant X Hot Pepper,10,0,0,0,3,0,-3,0
 Hot Pepper X Saplant,Saplant X Hot Pepper,10,0,0,0,3,0,-5,0
 Hot Pepper X Nightshade,Nightshade X Hot Pepper,10,0,0,0,0,0,0,0
@@ -11273,7 +11273,7 @@ Yarrow X Yarrow,Yarrow X Yarrow,40,0,60,0,0,0,0,0
 Yarrow X Spirit Bane,Spirit Bane X Yarrow,40,0,30,0,0,0,-5,5
 Yarrow X Prickly Plant,Prickly Plant X Yarrow,40,0,30,0,0,0,0,-4
 Yarrow X Erdenleaf,Erdenleaf X Yarrow,40,0,30,0,0,-2,0,0
-Yarrow X Fake Flower,Fake Flower X Yarrow,10,0,30,50,-2,0,-2,-2
+Yarrow X Flake Flower,Flake Flower X Yarrow,10,0,30,50,-2,0,-2,-2
 Yarrow X Spiky Plant,Spiky Plant X Yarrow,10,0,30,0,0,0,-3,0
 Yarrow X Saplant,Saplant X Yarrow,10,0,30,0,0,0,-5,0
 Yarrow X Nightshade,Nightshade X Yarrow,10,0,30,0,-3,0,0,0
@@ -11282,7 +11282,7 @@ Yarrow X Grumpkin,Grumpkin X Yarrow,10,0,30,0,-1,0,-1,-1
 Spirit Bane X Spirit Bane,Spirit Bane X Spirit Bane,40,0,0,0,0,0,-10,10
 Spirit Bane X Prickly Plant,Prickly Plant X Spirit Bane,40,0,0,0,0,0,-5,1
 Spirit Bane X Erdenleaf,Erdenleaf X Spirit Bane,40,0,0,0,0,-2,-5,5
-Spirit Bane X Fake Flower,Fake Flower X Spirit Bane,10,0,0,50,-2,0,-7,3
+Spirit Bane X Flake Flower,Flake Flower X Spirit Bane,10,0,0,50,-2,0,-7,3
 Spirit Bane X Spiky Plant,Spiky Plant X Spirit Bane,10,0,0,0,0,0,-8,5
 Spirit Bane X Saplant,Saplant X Spirit Bane,10,0,0,0,0,0,-10,5
 Spirit Bane X Nightshade,Nightshade X Spirit Bane,10,0,0,0,-3,0,-5,5
@@ -11290,25 +11290,25 @@ Spirit Bane X Mandrake,Mandrake X Spirit Bane,10,0,0,0,0,0,-5,2
 Spirit Bane X Grumpkin,Grumpkin X Spirit Bane,10,0,0,0,-1,0,-6,4
 Prickly Plant X Prickly Plant,Prickly Plant X Prickly Plant,40,0,0,0,0,0,0,-8
 Prickly Plant X Erdenleaf,Erdenleaf X Prickly Plant,40,0,0,0,0,-2,0,-4
-Prickly Plant X Fake Flower,Fake Flower X Prickly Plant,10,0,0,50,-2,0,-2,-6
+Prickly Plant X Flake Flower,Flake Flower X Prickly Plant,10,0,0,50,-2,0,-2,-6
 Prickly Plant X Spiky Plant,Spiky Plant X Prickly Plant,10,0,0,0,0,0,-3,-4
 Prickly Plant X Saplant,Saplant X Prickly Plant,10,0,0,0,0,0,-5,-4
 Prickly Plant X Nightshade,Nightshade X Prickly Plant,10,0,0,0,-3,0,0,-4
 Prickly Plant X Mandrake,Mandrake X Prickly Plant,10,0,0,0,0,0,0,-7
 Prickly Plant X Grumpkin,Grumpkin X Prickly Plant,10,0,0,0,-1,0,-1,-5
 Erdenleaf X Erdenleaf,Erdenleaf X Erdenleaf,40,0,0,0,0,-4,0,0
-Erdenleaf X Fake Flower,Fake Flower X Erdenleaf,10,0,0,50,-2,-2,-2,-2
+Erdenleaf X Flake Flower,Flake Flower X Erdenleaf,10,0,0,50,-2,-2,-2,-2
 Erdenleaf X Spiky Plant,Spiky Plant X Erdenleaf,10,0,0,0,0,-2,-3,0
 Erdenleaf X Saplant,Saplant X Erdenleaf,10,0,0,0,0,-2,-5,0
 Erdenleaf X Nightshade,Nightshade X Erdenleaf,10,0,0,0,-3,-2,0,0
 Erdenleaf X Mandrake,Mandrake X Erdenleaf,10,0,0,0,0,-2,0,-3
 Erdenleaf X Grumpkin,Grumpkin X Erdenleaf,10,0,0,0,-1,-2,-1,-1
-Fake Flower X Fake Flower,Fake Flower X Fake Flower,-20,0,0,100,-4,0,-4,-4
-Fake Flower X Spiky Plant,Spiky Plant X Fake Flower,-20,0,0,50,-2,0,-5,-2
-Fake Flower X Saplant,Saplant X Fake Flower,-20,0,0,50,-2,0,-7,-2
-Fake Flower X Nightshade,Nightshade X Fake Flower,-20,0,0,50,-5,0,-2,-2
-Fake Flower X Mandrake,Mandrake X Fake Flower,-20,0,0,50,-2,0,-2,-5
-Fake Flower X Grumpkin,Grumpkin X Fake Flower,-20,0,0,50,-3,0,-3,-3
+Flake Flower X Flake Flower,Flake Flower X Flake Flower,-20,0,0,100,-4,0,-4,-4
+Flake Flower X Spiky Plant,Spiky Plant X Flake Flower,-20,0,0,50,-2,0,-5,-2
+Flake Flower X Saplant,Saplant X Flake Flower,-20,0,0,50,-2,0,-7,-2
+Flake Flower X Nightshade,Nightshade X Flake Flower,-20,0,0,50,-5,0,-2,-2
+Flake Flower X Mandrake,Mandrake X Flake Flower,-20,0,0,50,-2,0,-2,-5
+Flake Flower X Grumpkin,Grumpkin X Flake Flower,-20,0,0,50,-3,0,-3,-3
 Spiky Plant X Spiky Plant,Spiky Plant X Spiky Plant,-20,0,0,0,0,0,-6,0
 Spiky Plant X Saplant,Saplant X Spiky Plant,-20,0,0,0,0,0,-8,0
 Spiky Plant X Nightshade,Nightshade X Spiky Plant,-20,0,0,0,-3,0,-3,0
