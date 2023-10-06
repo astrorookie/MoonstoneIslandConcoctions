@@ -241,6 +241,7 @@ allplantslist = [
     BlackPearl,
     SpectreFlower,
     FlagFlower,
+    FlaxFlower,
     Skeleplant,
     Electricone,
     Fuzzball,
@@ -280,7 +281,7 @@ allplantslist = [
     Grumpkin
 ]
 
-allplantslist2 = ['Applum', 'Beach Peach', 'Black Pearl', 'Bloodroot', 'Bolt', 'Bulbshroom', 'CatTail', 'Chilly Berry', 'Colberry', 'Cresent Plant', 'Electricone', 'Erdenleaf', 'EyeBerry', 'Fire Flower', 'Flag Flower', 'FlakeFlower', 'Flameroot', 'Fuzzball', 'Ghostshroom', 'Gift Plant', 'Grumpkin', 'Heat Plant', 'Hot Air Fruit', 'Hot Pepper', 'Icicle Root', 'Lilypad', 'Magic Mushroom', 'Mandrake', 'Mossball', 'Nightshade', 'Nimbus Plant', 'Pinwheel Flower', 'Plantern', 'Popcorn Plant', 'Popsiplant', 'Prickly Plant', 'Ruby Plant', 'Saplant', 'Skeleplant', 'Snow Flobes', 'Snowdrop Flower', 'Snowman Plant', 'Spectre Flower', 'SpikyPlant', 'SpiritBane', 'Squish', 'Stonefruit', 'Stun Flower', 'Sweater Plant', 'Tiny Flower', 'Umbrellashroom', 'Wilowisp', 'Wingfruit', 'Yarrow', 'Zaplant']
+allplantslist2 = ['Applum', 'Beach Peach', 'Black Pearl', 'Bloodroot', 'Bolt', 'Bulbshroom', 'CatTail', 'Chilly Berry', 'Colberry', 'Cresent Plant', 'Electricone', 'Erdenleaf', 'EyeBerry', 'Fire Flower', 'Flag Flower', 'Flake Flower', 'Flax Flower' , 'Flameroot', 'Fuzzball', 'Ghostshroom', 'Gift Plant', 'Grumpkin', 'Heat Plant', 'Hot Air Fruit', 'Hot Pepper', 'Icicle Root', 'Lilypad', 'Magic Mushroom', 'Mandrake', 'Mossball', 'Nightshade', 'Nimbus Plant', 'Pinwheel Flower', 'Plantern', 'Popcorn Plant', 'Popsiplant', 'Prickly Plant', 'Ruby Plant', 'Saplant', 'Skeleplant', 'Snow Flobes', 'Snowdrop Flower', 'Snowman Plant', 'Spectre Flower', 'SpikyPlant', 'SpiritBane', 'Squish', 'Stonefruit', 'Stun Flower', 'Sweater Plant', 'Tiny Flower', 'Umbrellashroom', 'Wilowisp', 'Wingfruit', 'Yarrow', 'Zaplant']
 
 
 
@@ -321,6 +322,8 @@ def getplantfromlist(plant):
         stats = SpectreFlower
     elif plant == 'Flag Flower':
         stats = FlagFlower
+    elif plant == 'Flax Flower':
+        stats = FlaxFlower
     elif plant == 'Skeleplant':
         stats = Skeleplant
     elif plant == 'Electricone':
