@@ -124,6 +124,14 @@ if st.button("Calculate Ingredients"):
 
         thisconcoc = searchf(stam,stamsearch,concoc)
 
+        if stamsearch == expsearch == tamesearch == hpsearch == vitalsearch == speedsearch ==armoursearch == powersearch == 'ANY':
+            st.write('Oi, stop trying to break my code!! that is every concoction you nitwit!!')
+            break
+
+        if stamsearch == expsearch == tamesearch == hpsearch == vitalsearch == speedsearch ==armoursearch == powersearch == None:
+            st.write('Please put in a number or ANY into every box <3')
+            break
+
         if thisconcoc != 'No':
             thisconcoc = searchf(exp,expsearch,concoc)
 
